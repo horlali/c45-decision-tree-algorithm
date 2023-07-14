@@ -1,0 +1,3001 @@
+household_size,income,race,age,sex,zipcode,decision
+3,38826,asian,52,male,28674,NO
+6,58830,other,20,female,87036,YES
+1,35664,hispanic,16,female,13890,NO
+4,61267,caucasian,35,male,46050,NO
+3,27033,hispanic,39,female,24485,NO
+1,85055,asian,31,female,20636,NO
+10,60525,asian,49,female,20235,YES
+1,29698,other,1,female,29646,NO
+9,57065,hispanic,12,male,54230,YES
+7,98609,other,22,male,86443,YES
+2,56023,african american,54,male,19048,NO
+7,29747,other,59,male,64599,YES
+7,69154,asian,58,male,61824,YES
+3,51958,other,53,male,16563,NO
+3,95187,caucasian,26,male,76016,NO
+1,21066,asian,38,male,86286,NO
+3,67695,african american,35,male,55021,NO
+2,99220,caucasian,28,female,12037,NO
+2,29932,caucasian,37,male,12083,NO
+9,26581,caucasian,20,male,54805,YES
+8,86101,caucasian,40,male,30241,YES
+8,40924,caucasian,34,male,88538,YES
+6,19860,hispanic,35,female,49074,YES
+2,87776,african american,40,female,12803,NO
+1,40268,african american,59,male,59119,NO
+6,88883,asian,7,female,38712,YES
+1,99734,hispanic,36,female,42654,NO
+1,89331,asian,37,female,62048,NO
+3,71172,hispanic,48,male,52950,NO
+4,71899,hispanic,12,male,82059,NO
+9,43847,african american,45,female,93460,YES
+7,19975,caucasian,50,male,70028,YES
+7,60976,african american,4,female,79877,YES
+3,66189,asian,21,female,54685,NO
+9,28045,hispanic,32,male,77727,YES
+5,28753,caucasian,43,female,92185,NO
+7,36969,asian,28,female,26377,YES
+2,47965,asian,10,male,57432,NO
+9,74151,caucasian,36,female,49928,YES
+7,53253,other,28,male,76980,YES
+3,69910,african american,42,male,33940,NO
+8,93420,asian,27,female,75759,YES
+4,24896,hispanic,4,male,66013,NO
+7,48451,african american,31,female,74527,YES
+7,54935,hispanic,18,female,45762,YES
+6,80876,caucasian,17,female,55281,YES
+3,41804,hispanic,9,male,39430,NO
+10,61385,hispanic,39,male,60467,YES
+5,85093,hispanic,5,male,22838,NO
+5,86155,asian,51,female,77716,NO
+3,21977,other,31,male,75172,NO
+8,50736,asian,13,female,43264,YES
+4,67775,asian,60,male,65426,NO
+2,57379,other,6,male,56204,NO
+3,75989,african american,5,male,62980,NO
+10,77361,hispanic,31,male,72487,YES
+2,31811,hispanic,10,male,19018,NO
+2,80552,african american,34,female,23900,NO
+6,38191,other,42,male,18025,YES
+6,17223,asian,52,female,10650,YES
+3,22512,caucasian,4,female,20440,NO
+8,30017,asian,57,male,51959,YES
+1,23878,asian,11,male,42641,NO
+10,97566,caucasian,8,female,50053,YES
+8,89464,caucasian,19,female,79154,YES
+5,52896,hispanic,47,male,84781,NO
+10,78898,other,19,male,41545,YES
+5,79322,african american,58,male,27702,NO
+5,76015,asian,42,female,93226,NO
+5,27994,asian,13,male,17681,NO
+7,62527,caucasian,43,male,62825,YES
+3,19139,other,50,female,39493,NO
+6,76794,african american,28,male,62163,YES
+9,68118,caucasian,2,female,70272,YES
+9,97707,african american,24,female,50994,YES
+9,87159,caucasian,58,male,53838,YES
+10,33669,asian,40,female,10278,YES
+4,51869,asian,21,male,16726,NO
+1,11745,african american,59,female,76017,NO
+8,87293,caucasian,15,male,32748,YES
+10,24746,african american,38,female,88597,YES
+5,58763,hispanic,46,female,67505,NO
+5,96377,hispanic,54,male,62338,NO
+6,55580,hispanic,21,female,96408,YES
+5,65138,other,6,male,19526,NO
+9,74320,asian,27,male,65002,YES
+4,43848,african american,36,female,84851,NO
+4,17299,other,54,female,91848,NO
+3,96401,asian,5,female,38847,NO
+5,54703,other,55,male,27378,NO
+8,13707,other,34,male,41440,YES
+3,19615,african american,23,female,87805,NO
+10,38371,african american,39,male,38211,YES
+7,21303,african american,18,male,78240,YES
+7,18610,asian,54,female,28082,YES
+6,93522,asian,2,female,93675,YES
+6,69273,african american,20,male,52724,YES
+5,35517,hispanic,45,female,16243,NO
+6,77055,caucasian,14,male,70290,YES
+3,40243,other,45,male,40310,NO
+3,13805,asian,48,male,76508,NO
+1,95689,african american,52,female,68812,NO
+1,95562,asian,17,male,40587,NO
+6,64582,african american,52,female,44722,YES
+8,12785,other,38,female,12493,YES
+9,43964,other,0,female,44409,YES
+5,78491,asian,40,male,47112,NO
+8,34731,african american,29,female,92963,YES
+1,76366,other,12,female,68425,NO
+5,63358,hispanic,13,female,30097,NO
+10,83311,african american,44,female,35139,YES
+9,83471,hispanic,41,male,22929,YES
+6,86934,hispanic,21,female,15882,YES
+5,83108,other,7,female,54310,NO
+4,53376,caucasian,39,male,32430,NO
+1,81738,asian,21,male,84666,NO
+5,26751,african american,19,female,76141,NO
+3,34032,african american,16,female,77230,NO
+3,43036,hispanic,36,female,94088,NO
+5,72183,african american,33,female,43984,NO
+10,13943,hispanic,13,male,44127,YES
+2,18700,other,11,male,56882,NO
+5,97979,asian,15,male,48506,NO
+8,39107,caucasian,3,male,22053,YES
+2,45896,hispanic,60,female,77427,NO
+8,75520,other,47,female,30984,YES
+10,12744,asian,15,female,55288,YES
+4,89997,caucasian,33,male,56337,NO
+3,66969,caucasian,23,female,86174,NO
+1,73825,other,0,male,16454,NO
+7,55216,asian,28,female,79441,YES
+5,37537,hispanic,59,female,36787,NO
+4,36790,hispanic,6,female,71300,NO
+4,61599,asian,5,male,55385,NO
+7,36074,other,46,female,53909,YES
+2,71042,caucasian,54,female,41833,NO
+7,32170,hispanic,3,female,60419,YES
+8,99790,hispanic,35,female,56998,YES
+7,34213,african american,7,female,91198,YES
+8,33153,hispanic,34,male,52541,YES
+3,88518,other,4,female,12198,NO
+6,12391,hispanic,52,male,55347,YES
+8,15823,asian,53,female,69800,YES
+4,95328,other,48,female,16943,NO
+3,75702,asian,46,female,14876,NO
+7,75529,other,39,female,89042,YES
+3,84679,caucasian,31,female,98867,NO
+8,34090,african american,5,female,41008,YES
+6,71925,hispanic,25,female,99669,YES
+1,81587,asian,34,female,58113,NO
+10,10186,asian,2,male,18060,YES
+3,42147,hispanic,59,female,63288,NO
+9,23453,hispanic,48,female,64509,YES
+7,28763,asian,45,female,34108,YES
+3,58987,asian,15,female,65953,NO
+9,79040,hispanic,32,male,71112,YES
+3,38048,asian,39,female,15306,NO
+10,46824,asian,4,male,72518,YES
+3,72700,hispanic,20,male,16254,NO
+9,21723,african american,36,female,60869,YES
+7,13157,asian,41,female,88526,YES
+2,33173,other,23,female,12117,NO
+10,22021,african american,43,female,70052,YES
+2,73835,caucasian,6,female,11045,NO
+4,32360,hispanic,48,female,36905,NO
+7,23066,caucasian,29,female,12287,YES
+10,66390,african american,52,male,23645,YES
+2,91014,caucasian,4,female,64370,NO
+9,53810,caucasian,49,male,69358,YES
+8,94484,other,29,male,99544,YES
+6,31152,hispanic,54,male,69276,YES
+7,59233,african american,41,female,51329,YES
+1,69839,asian,29,male,89112,NO
+2,93740,african american,41,male,75984,NO
+7,16602,asian,6,male,38116,YES
+3,87476,other,58,male,45363,NO
+3,76601,caucasian,51,male,27448,NO
+5,44196,hispanic,40,female,78686,NO
+8,47184,other,53,female,97769,YES
+8,49919,caucasian,47,female,73243,YES
+3,91845,african american,5,female,71608,NO
+2,43683,other,53,male,13017,NO
+6,70463,asian,14,female,50383,YES
+5,35465,hispanic,25,female,83127,NO
+8,24021,caucasian,34,male,94831,YES
+5,97373,other,48,female,35605,NO
+1,51322,african american,36,male,90723,NO
+1,17772,other,33,female,68703,NO
+8,85933,other,22,female,20360,YES
+5,63571,african american,6,female,30924,NO
+7,62528,hispanic,24,female,17356,YES
+8,17451,african american,2,male,90115,YES
+2,76055,hispanic,43,male,73897,NO
+2,90587,african american,18,male,15744,NO
+5,13092,asian,6,male,84833,NO
+5,80722,hispanic,56,female,34073,NO
+7,70625,hispanic,58,female,88467,YES
+10,79296,hispanic,6,male,86171,YES
+2,96978,hispanic,42,male,30549,NO
+9,28301,caucasian,15,female,70387,YES
+6,44498,other,11,male,92900,YES
+1,75185,asian,11,male,52969,NO
+4,51314,caucasian,1,female,22055,NO
+9,32615,african american,59,female,89494,YES
+7,58972,hispanic,12,female,85192,YES
+7,58015,caucasian,52,female,38234,YES
+3,23171,other,54,male,25882,NO
+4,88007,african american,22,male,58814,NO
+10,84914,african american,20,female,29199,YES
+4,82832,other,23,male,82319,NO
+2,56300,asian,28,female,45136,NO
+9,42213,hispanic,28,female,44636,YES
+1,20441,hispanic,53,female,69701,NO
+2,85794,asian,28,male,72252,NO
+10,17093,caucasian,21,male,79808,YES
+8,86950,other,23,male,93502,YES
+1,10277,african american,43,male,62945,NO
+1,58806,african american,14,female,28074,NO
+1,59898,african american,40,male,38061,NO
+10,37713,african american,22,male,14858,YES
+4,33038,asian,36,male,43293,NO
+8,80736,other,55,male,33625,YES
+7,58350,caucasian,12,female,20379,YES
+9,67835,african american,32,female,59839,YES
+8,72415,hispanic,2,male,32704,YES
+4,23058,other,27,male,45759,NO
+2,25301,caucasian,27,male,17528,NO
+6,99910,african american,0,male,42066,YES
+2,19081,caucasian,9,male,34740,NO
+5,48917,other,13,female,83664,NO
+4,29323,caucasian,39,female,58085,NO
+4,50249,other,23,female,83043,NO
+4,75536,other,52,female,46479,NO
+8,75837,other,22,female,66658,YES
+7,83284,caucasian,21,female,75955,YES
+2,24465,african american,23,male,25883,NO
+1,54127,hispanic,33,male,72998,NO
+9,20477,caucasian,36,male,54729,YES
+6,90860,asian,39,male,18165,YES
+3,93353,other,40,female,64833,NO
+4,70664,other,50,female,34843,NO
+8,16884,caucasian,30,female,92045,YES
+9,82184,other,13,female,15914,YES
+1,89598,african american,30,male,35945,NO
+3,94654,caucasian,41,male,54783,NO
+8,22019,african american,35,male,74913,YES
+5,64938,african american,44,male,59709,NO
+1,60229,asian,33,female,55018,NO
+6,76130,asian,0,male,75166,YES
+1,68705,hispanic,48,male,55864,NO
+10,9289,asian,60,male,57586,YES
+9,70842,hispanic,57,female,43464,YES
+6,82318,african american,51,male,32594,YES
+7,70138,hispanic,28,male,54469,YES
+7,60622,caucasian,8,female,62646,YES
+5,33912,caucasian,51,male,60588,NO
+4,88871,hispanic,7,male,48133,NO
+6,98851,asian,15,male,79232,YES
+4,34585,caucasian,26,female,98426,NO
+1,23624,african american,37,female,10249,NO
+8,16463,african american,60,male,31354,YES
+9,22789,asian,49,female,67227,YES
+6,20687,hispanic,41,male,28573,YES
+2,76716,african american,29,male,98360,NO
+1,89833,hispanic,47,female,20877,NO
+1,32495,other,26,male,93812,NO
+3,32184,asian,59,male,74678,NO
+6,41690,hispanic,1,female,11972,YES
+3,21638,asian,35,female,59067,NO
+1,13720,asian,15,male,89000,NO
+2,64731,african american,28,male,10581,NO
+1,48831,other,2,female,81266,NO
+5,83898,asian,18,female,91288,NO
+1,76556,other,25,male,88874,NO
+9,57474,asian,6,female,76328,YES
+2,45288,asian,14,female,88767,NO
+5,68051,asian,32,female,74581,NO
+6,72147,hispanic,52,male,56329,YES
+5,99447,african american,30,male,93635,NO
+9,26021,caucasian,42,female,34903,YES
+5,10313,african american,11,female,46541,NO
+7,63328,african american,19,female,16535,YES
+8,17135,other,31,male,22455,YES
+5,60968,asian,58,female,73681,NO
+7,54830,caucasian,1,male,28226,YES
+2,41477,other,11,female,57778,NO
+4,24381,hispanic,39,female,54529,NO
+10,71597,asian,12,female,45639,YES
+4,13442,african american,43,male,36383,NO
+6,69677,african american,36,female,83117,YES
+4,83847,african american,43,female,88756,NO
+7,84544,asian,4,male,44816,YES
+8,43156,african american,52,male,42560,YES
+6,95651,asian,48,female,37111,YES
+2,11042,african american,10,male,69910,NO
+9,38316,other,6,female,86829,YES
+7,52373,asian,3,male,23777,YES
+4,30223,caucasian,45,male,17472,NO
+3,87287,hispanic,57,male,44959,NO
+1,14507,african american,53,female,54137,NO
+6,42177,asian,19,male,98357,YES
+9,34531,caucasian,43,male,24026,YES
+8,21733,african american,2,male,21669,YES
+4,94737,hispanic,2,male,67593,NO
+2,71425,african american,45,male,47563,NO
+6,41867,asian,25,male,66689,YES
+7,65142,asian,58,female,20847,YES
+9,30863,african american,31,female,90202,YES
+6,49382,hispanic,17,male,68435,YES
+2,44740,asian,17,female,96423,NO
+1,98776,african american,9,male,15455,NO
+4,28138,asian,0,female,46541,NO
+10,79502,hispanic,48,male,43981,YES
+3,11144,hispanic,7,female,53328,NO
+8,68811,other,6,male,92661,YES
+6,34346,other,48,female,64180,YES
+1,66231,asian,57,male,20244,NO
+5,38823,other,12,male,48521,NO
+3,70879,african american,10,female,67635,NO
+1,58040,other,48,male,57147,NO
+5,28742,caucasian,9,female,41815,NO
+2,9574,other,0,male,99009,NO
+3,98180,african american,19,male,38514,NO
+7,42388,hispanic,47,female,64673,YES
+3,38007,caucasian,25,male,29741,NO
+9,71769,other,41,male,54678,YES
+2,15327,asian,51,male,19998,NO
+8,17372,caucasian,50,female,47786,YES
+5,91528,other,47,female,13187,NO
+1,73539,african american,39,male,62693,NO
+6,90439,caucasian,22,male,82606,YES
+9,20626,caucasian,36,male,51960,YES
+6,47120,african american,12,female,49946,YES
+9,11476,african american,23,female,69884,YES
+10,89165,other,1,female,13629,YES
+8,79024,hispanic,15,female,99364,YES
+1,12176,hispanic,45,male,71349,NO
+8,66590,hispanic,22,male,16546,YES
+3,48074,other,5,male,73814,NO
+6,16684,hispanic,27,male,44342,YES
+1,77546,caucasian,47,male,55322,NO
+1,61883,caucasian,11,female,52280,NO
+9,47890,other,19,male,73653,YES
+5,62556,hispanic,14,female,25202,NO
+8,51518,hispanic,31,male,81052,YES
+8,27693,african american,29,male,28341,YES
+4,62697,hispanic,31,female,64827,NO
+7,92836,other,60,female,57501,YES
+2,29884,african american,60,male,39850,NO
+6,92701,asian,3,female,32741,YES
+6,43440,asian,40,female,33408,YES
+10,28389,african american,31,female,76045,YES
+1,35123,caucasian,17,female,37164,NO
+5,17468,hispanic,43,male,79815,NO
+6,29756,hispanic,32,female,79907,YES
+3,95875,hispanic,47,male,13281,NO
+2,50352,hispanic,24,male,78737,NO
+10,93568,other,48,female,47260,YES
+5,81568,african american,57,female,33064,NO
+10,11010,caucasian,2,female,36030,YES
+1,25445,asian,7,male,43910,NO
+8,50268,other,51,female,20643,YES
+9,96214,caucasian,9,male,82063,YES
+3,80287,african american,43,male,17691,NO
+10,95929,asian,48,female,72974,YES
+9,34495,asian,21,male,76541,YES
+6,73598,asian,38,female,35233,YES
+10,55956,other,34,female,81408,YES
+4,75829,caucasian,17,female,73125,NO
+1,48194,african american,15,male,17380,NO
+10,21474,hispanic,21,male,79494,YES
+1,96598,other,60,male,94249,NO
+2,48157,african american,57,female,90647,NO
+5,60781,asian,8,male,49664,NO
+3,14211,caucasian,32,female,83765,NO
+6,32743,caucasian,9,female,52852,YES
+10,61914,asian,7,male,64632,YES
+5,55606,caucasian,34,male,29135,NO
+8,47188,other,37,female,38662,YES
+6,64009,caucasian,30,male,97637,YES
+5,17575,african american,59,female,15348,NO
+6,28438,other,44,female,84784,YES
+6,45883,caucasian,55,male,50851,YES
+8,58613,hispanic,38,male,66644,YES
+4,38492,hispanic,32,female,73847,NO
+4,94989,caucasian,31,male,29313,NO
+2,42928,other,39,female,93656,NO
+1,18644,other,4,female,13022,NO
+4,85468,caucasian,16,male,29237,NO
+6,41243,african american,52,female,64866,YES
+6,31346,other,51,male,21368,YES
+3,79307,other,38,female,95109,NO
+4,32254,caucasian,35,female,79679,NO
+8,46869,hispanic,36,male,59011,YES
+1,68319,asian,48,male,75200,NO
+3,62005,caucasian,30,female,17445,NO
+4,95445,african american,38,female,39005,NO
+10,10830,african american,38,male,80626,YES
+4,15611,african american,39,female,82353,NO
+6,65768,african american,27,male,56056,YES
+2,65995,other,59,male,95026,NO
+3,78110,hispanic,50,male,79723,NO
+10,45491,hispanic,6,male,87387,YES
+10,89647,other,43,female,80512,YES
+2,78562,asian,42,female,10298,NO
+2,74610,hispanic,40,male,80964,NO
+6,19387,caucasian,57,female,59768,YES
+7,16508,caucasian,58,male,60549,YES
+6,95904,caucasian,29,male,83310,YES
+4,25245,caucasian,28,female,55851,NO
+5,62627,other,8,female,85957,NO
+3,73755,caucasian,56,male,16504,NO
+2,70185,other,42,male,20361,NO
+10,31878,other,9,female,37640,YES
+5,25386,caucasian,8,female,65972,NO
+7,95844,hispanic,2,female,46681,YES
+9,98173,african american,48,female,73060,YES
+10,92310,african american,8,male,29760,YES
+9,24119,african american,23,male,67136,YES
+7,50075,other,6,female,41258,YES
+3,18392,asian,48,male,36063,NO
+10,44236,caucasian,41,female,25497,YES
+7,12890,african american,11,female,31043,YES
+4,75213,other,3,male,57758,NO
+5,60672,asian,43,male,23936,NO
+10,32577,other,30,male,29539,YES
+4,65125,other,10,male,38462,NO
+2,69675,african american,4,female,13193,NO
+8,96397,hispanic,6,male,38378,YES
+3,15630,african american,9,male,83942,NO
+10,76404,other,30,male,54642,YES
+5,97983,hispanic,35,female,98769,NO
+10,89284,other,29,male,41047,YES
+8,99706,other,16,male,38505,YES
+1,29275,other,42,female,88269,NO
+8,45879,asian,18,male,80398,YES
+10,56195,asian,16,male,88841,YES
+3,24441,asian,21,male,64338,NO
+5,30649,caucasian,33,male,24455,NO
+5,23594,other,25,male,98721,NO
+2,37715,hispanic,55,female,79134,NO
+9,43213,other,31,female,78270,YES
+3,73866,other,9,male,54237,NO
+6,96388,caucasian,56,female,44260,YES
+7,32915,hispanic,43,male,25378,YES
+4,70659,other,57,male,15295,NO
+2,60372,hispanic,0,male,56182,NO
+1,25148,african american,7,female,65334,NO
+4,27557,other,21,female,95369,NO
+8,68100,other,24,female,32892,YES
+2,31504,asian,12,male,51408,NO
+9,40685,asian,2,male,75603,YES
+8,94787,other,12,female,70426,YES
+4,40957,other,25,female,68322,NO
+6,99346,african american,28,female,48481,YES
+2,83446,other,11,male,17108,NO
+10,93897,african american,22,male,99400,YES
+8,44160,asian,34,male,59844,YES
+4,94052,caucasian,53,male,18374,NO
+9,42707,asian,50,male,61460,YES
+9,40436,asian,25,male,56916,YES
+9,89286,caucasian,33,female,78508,YES
+8,73580,asian,33,female,88760,YES
+9,55975,hispanic,14,female,27667,YES
+6,77348,other,54,male,55037,YES
+5,95434,african american,35,female,30058,NO
+5,78689,african american,28,female,89929,NO
+9,14047,other,18,female,15515,YES
+7,72418,asian,39,female,31528,YES
+3,36002,caucasian,13,female,34264,NO
+10,51960,african american,27,female,43644,YES
+5,21305,african american,42,female,75133,NO
+1,77041,other,44,female,58020,NO
+2,89084,african american,16,male,62055,NO
+8,14218,african american,10,male,48182,YES
+1,48015,other,15,male,37057,NO
+2,92928,hispanic,30,female,57108,NO
+9,57069,hispanic,55,male,49748,YES
+7,58711,asian,6,female,90996,YES
+5,78916,hispanic,7,male,49750,NO
+4,95322,caucasian,19,male,21400,NO
+1,61061,hispanic,19,female,58543,NO
+6,43539,caucasian,59,female,85755,YES
+3,51005,asian,19,male,81443,NO
+10,59755,caucasian,5,female,99411,YES
+7,37373,other,53,female,66792,YES
+7,37334,other,24,male,79736,YES
+4,66994,asian,15,female,92252,NO
+6,23673,other,47,female,69326,YES
+2,50748,other,3,male,77125,NO
+7,32135,african american,32,male,63110,YES
+3,70181,african american,50,male,75716,NO
+3,15981,other,13,female,96148,NO
+7,69128,other,3,female,96824,YES
+8,87477,asian,47,female,56291,YES
+8,56802,hispanic,13,female,19365,YES
+2,32239,other,25,male,75907,NO
+6,25619,hispanic,12,male,95394,YES
+7,72120,asian,14,male,47600,YES
+5,10243,african american,34,female,88537,NO
+6,87308,asian,37,female,63785,YES
+6,53611,other,56,male,21922,YES
+2,64090,hispanic,44,male,90300,NO
+4,65206,caucasian,54,male,72723,NO
+5,74501,african american,52,male,91864,NO
+6,22081,hispanic,46,male,15259,YES
+1,44476,african american,1,male,96176,NO
+10,78091,hispanic,40,male,91637,YES
+7,63531,hispanic,43,female,93122,YES
+10,13990,caucasian,1,female,53305,YES
+7,66705,african american,21,male,27425,YES
+5,51602,hispanic,50,female,40361,NO
+3,95875,other,9,female,12631,NO
+5,82979,other,11,female,81933,NO
+1,14917,asian,21,female,55115,NO
+7,63623,hispanic,15,female,58219,YES
+6,42879,asian,29,female,99067,YES
+4,66233,caucasian,7,male,87996,NO
+6,66672,hispanic,33,male,28744,YES
+2,73532,hispanic,31,male,49159,NO
+7,58995,asian,46,female,23089,YES
+3,85585,hispanic,8,male,77078,NO
+5,48470,other,42,female,81111,NO
+8,47215,hispanic,49,male,87704,YES
+9,20054,other,11,male,93551,YES
+6,64974,hispanic,1,female,57029,YES
+4,91310,hispanic,44,female,78561,NO
+6,48088,african american,14,male,14103,YES
+5,64322,hispanic,59,female,86814,NO
+6,61077,caucasian,40,female,12235,YES
+10,31019,caucasian,29,male,85157,YES
+1,15265,other,27,female,44936,NO
+10,27536,other,24,female,32277,YES
+4,82003,african american,10,male,96765,NO
+6,48900,african american,50,male,25627,YES
+7,54888,african american,11,male,59448,YES
+2,18042,asian,9,female,83179,NO
+7,40179,african american,9,male,44342,YES
+10,14847,asian,50,male,53128,YES
+3,20729,hispanic,8,female,99416,NO
+2,64472,other,39,female,64115,NO
+9,98066,hispanic,56,female,56102,YES
+9,80105,caucasian,38,female,49575,YES
+10,63604,african american,42,male,89264,YES
+8,49714,caucasian,35,female,77960,YES
+2,9736,asian,2,male,42669,NO
+5,20506,asian,19,male,41674,NO
+6,22725,african american,13,female,13985,YES
+2,66900,asian,59,male,81374,NO
+2,77308,asian,15,male,52359,NO
+1,33374,caucasian,48,female,22082,NO
+8,34293,african american,2,male,70922,YES
+3,59171,caucasian,56,female,56469,NO
+6,63003,asian,47,male,88537,YES
+2,32700,other,13,female,11986,NO
+5,25884,hispanic,25,female,22386,NO
+5,52791,caucasian,29,male,16358,NO
+5,13340,african american,34,female,34704,NO
+10,25920,caucasian,26,male,26823,YES
+9,26830,asian,3,female,70830,YES
+6,13933,african american,52,male,47814,YES
+7,20930,hispanic,0,male,35717,YES
+8,25215,caucasian,33,female,25355,YES
+9,40216,african american,24,male,86867,YES
+7,42623,hispanic,12,female,89622,YES
+9,82787,caucasian,11,female,98088,YES
+5,45509,caucasian,29,male,31491,NO
+7,20495,hispanic,28,female,84289,YES
+6,29698,other,27,male,56373,YES
+9,9721,other,58,female,74359,YES
+7,45250,other,36,female,94206,YES
+9,21925,other,1,female,55999,YES
+6,9398,african american,25,female,18828,YES
+9,90870,hispanic,3,female,55644,YES
+1,14312,other,20,male,99204,NO
+10,45280,other,18,female,34056,YES
+10,90539,african american,49,female,71347,YES
+1,55024,caucasian,27,male,42412,NO
+6,10627,african american,46,male,44624,YES
+6,18479,other,0,female,58118,YES
+3,45226,asian,32,female,44162,NO
+8,57933,caucasian,22,female,13676,YES
+9,95756,african american,48,female,65489,YES
+10,98634,african american,36,male,65904,YES
+1,41044,african american,3,female,98466,NO
+1,79880,african american,49,female,45252,NO
+2,70070,asian,56,female,47883,NO
+10,10347,other,23,male,37364,YES
+7,65212,african american,51,female,71317,YES
+2,16576,caucasian,29,female,68848,NO
+9,41746,other,49,male,42843,YES
+2,75970,other,44,male,59404,NO
+6,36285,other,14,male,23893,YES
+1,34141,african american,22,male,82917,NO
+7,70529,other,50,male,21679,YES
+1,78073,other,42,male,72301,NO
+8,89243,african american,46,female,96107,YES
+6,93910,african american,13,male,33941,YES
+6,73328,caucasian,36,female,70196,YES
+10,65195,caucasian,56,female,97189,YES
+3,51820,asian,45,male,37005,NO
+7,69016,other,12,female,90172,YES
+10,24144,caucasian,17,female,53397,YES
+7,47640,other,35,male,54076,YES
+5,48959,hispanic,3,male,17600,NO
+6,10587,asian,57,male,90526,YES
+10,13199,other,42,female,69951,YES
+3,13392,african american,18,female,57621,NO
+5,32149,african american,20,male,69335,NO
+5,17743,hispanic,10,female,88389,NO
+9,19422,african american,5,female,21325,YES
+8,94023,caucasian,54,male,77637,YES
+4,37851,other,32,male,90639,NO
+2,24695,african american,11,male,69186,NO
+8,78039,caucasian,32,male,35256,YES
+8,77412,hispanic,2,male,45874,YES
+7,53257,hispanic,20,male,24919,YES
+3,40359,hispanic,12,female,55251,NO
+3,34884,hispanic,3,male,35728,NO
+9,42807,asian,2,male,92189,YES
+5,58843,hispanic,39,male,80356,NO
+9,22318,caucasian,32,male,68850,YES
+10,56579,asian,37,female,84688,YES
+5,50046,caucasian,56,female,28287,NO
+9,31001,other,53,female,61009,YES
+2,95821,asian,1,male,13708,NO
+10,58736,caucasian,25,male,57553,YES
+2,55006,caucasian,45,female,68834,NO
+8,31621,african american,15,male,88606,YES
+1,15426,asian,18,female,23708,NO
+7,41200,african american,46,female,48189,YES
+9,9506,african american,10,female,32233,YES
+4,92468,other,57,male,43429,NO
+3,11463,asian,35,female,40651,NO
+10,24217,caucasian,59,male,84120,YES
+3,28065,hispanic,17,female,31216,NO
+8,42593,asian,50,female,90871,YES
+7,34954,other,14,male,62040,YES
+10,45304,other,26,female,65831,YES
+5,32776,african american,50,male,45146,NO
+3,94704,other,20,female,79496,NO
+3,61693,hispanic,44,male,95415,NO
+7,20997,other,50,female,87312,YES
+6,81046,hispanic,42,male,90906,YES
+6,47845,asian,33,female,44446,YES
+7,25439,hispanic,19,male,70128,YES
+8,62121,asian,21,female,96318,YES
+3,28839,caucasian,58,female,82293,NO
+2,95617,caucasian,7,female,81759,NO
+3,59345,hispanic,33,male,95419,NO
+9,18098,asian,44,male,96526,YES
+1,97602,other,40,female,61456,NO
+10,22165,other,17,female,78401,YES
+5,80985,caucasian,12,male,20786,NO
+9,69137,other,26,female,56078,YES
+8,61358,hispanic,44,male,83607,YES
+7,55407,asian,20,male,33628,YES
+9,26119,caucasian,59,male,52806,YES
+8,99822,african american,29,male,76923,YES
+2,31731,african american,34,male,27765,NO
+1,64291,other,47,male,58701,NO
+2,65897,other,56,female,96695,NO
+7,85284,caucasian,14,male,74170,YES
+1,16163,hispanic,55,female,50269,NO
+4,64461,hispanic,14,female,23468,NO
+8,82586,caucasian,52,female,27763,YES
+3,77151,african american,22,female,49601,NO
+5,45952,other,15,male,59306,NO
+7,16532,hispanic,10,female,93908,YES
+9,36138,african american,25,male,29864,YES
+2,31795,caucasian,17,female,56905,NO
+5,62961,other,6,female,69849,NO
+10,44913,hispanic,48,female,24577,YES
+1,78361,hispanic,38,female,42731,NO
+7,97753,african american,30,male,57974,YES
+1,47031,asian,9,male,81271,NO
+8,27434,caucasian,17,female,95992,YES
+8,43453,caucasian,59,male,47200,YES
+2,36351,asian,50,male,47229,NO
+4,72278,asian,18,female,65688,NO
+6,47585,other,14,male,17286,YES
+10,52845,hispanic,29,male,80782,YES
+7,80788,other,19,male,43163,YES
+5,16135,other,6,female,40001,NO
+6,27715,other,59,male,89889,YES
+2,85365,other,49,male,44690,NO
+5,38750,asian,12,male,90242,NO
+10,12858,asian,5,female,49880,YES
+7,32801,african american,36,male,83976,YES
+6,40138,hispanic,50,male,22939,YES
+9,64710,other,31,male,36968,YES
+4,62846,hispanic,37,male,69461,NO
+10,33463,african american,15,female,37162,YES
+4,49758,asian,45,male,39501,NO
+8,12622,caucasian,6,female,11060,YES
+5,95169,asian,60,male,47479,NO
+3,13489,african american,2,female,34846,NO
+6,89330,hispanic,48,male,81472,YES
+3,98049,hispanic,44,male,99662,NO
+3,39752,other,40,male,88307,NO
+1,63326,asian,17,male,97871,NO
+5,30694,other,42,female,63109,NO
+3,22708,african american,8,female,24451,NO
+8,10318,asian,51,male,25261,YES
+3,92384,asian,31,male,46030,NO
+2,84111,caucasian,41,female,33419,NO
+6,44839,asian,35,male,33466,YES
+6,57957,asian,7,male,70194,YES
+10,56365,asian,27,male,23234,YES
+10,46598,caucasian,32,male,87054,YES
+5,40689,asian,26,female,15293,NO
+10,10372,caucasian,15,male,69088,YES
+3,92242,asian,7,male,88414,NO
+1,54144,caucasian,33,male,30146,NO
+10,88387,caucasian,43,male,91023,YES
+1,88549,asian,19,female,14789,NO
+2,37814,other,23,male,48764,NO
+4,10315,caucasian,49,female,90332,NO
+9,35126,asian,54,male,54879,YES
+7,18258,other,26,male,67572,YES
+9,83092,hispanic,50,male,37760,YES
+10,86231,asian,9,male,23969,YES
+9,74665,asian,32,female,76490,YES
+5,14387,other,41,female,91746,NO
+7,86663,african american,44,male,59969,YES
+10,72786,african american,48,female,57980,YES
+4,69761,hispanic,34,female,61631,NO
+8,20520,hispanic,28,female,14267,YES
+3,62230,hispanic,38,male,83545,NO
+3,9008,other,25,female,39990,NO
+8,52630,asian,26,male,29139,YES
+2,12905,african american,35,female,72981,NO
+1,28766,asian,46,female,12552,NO
+6,15613,caucasian,0,male,34822,YES
+10,22607,other,44,female,91290,YES
+7,28900,other,46,male,75831,YES
+9,53986,hispanic,25,male,68970,YES
+8,22961,asian,46,male,39749,YES
+4,60701,other,52,female,10020,NO
+3,26884,asian,41,female,18799,NO
+6,29552,other,54,female,55492,YES
+4,83305,hispanic,38,male,26878,NO
+9,66777,african american,46,female,82118,YES
+2,96607,asian,54,female,60598,NO
+8,70205,african american,40,male,49920,YES
+10,88579,other,19,female,47194,YES
+8,43849,caucasian,33,female,59523,YES
+4,60285,asian,31,male,19919,NO
+3,43299,african american,11,male,33887,NO
+4,16795,other,21,female,41120,NO
+10,68754,hispanic,29,female,62127,YES
+2,80266,caucasian,4,female,84334,NO
+10,99756,asian,48,male,21780,YES
+1,28947,other,30,female,87761,NO
+4,42149,asian,21,female,85898,NO
+8,58553,other,60,female,60070,YES
+5,17516,african american,42,male,32238,NO
+4,44199,caucasian,2,male,59770,NO
+1,56434,asian,11,male,30885,NO
+10,68521,caucasian,53,male,65684,YES
+5,74277,other,43,female,57037,NO
+2,67052,african american,12,female,58837,NO
+6,66784,other,49,female,22997,YES
+10,47573,other,23,female,94982,YES
+4,24785,african american,0,male,48326,NO
+1,75422,other,24,female,14677,NO
+5,66841,asian,50,male,79105,NO
+3,45643,hispanic,8,male,41624,NO
+6,10269,asian,43,male,60144,YES
+4,87178,hispanic,34,male,36360,NO
+5,32149,other,56,male,40991,NO
+4,76355,african american,56,female,99922,NO
+1,30107,other,17,female,11931,NO
+3,97401,hispanic,49,female,56100,NO
+2,31539,african american,34,male,73841,NO
+7,19184,hispanic,53,male,60024,YES
+9,13346,other,52,male,70808,YES
+6,33414,caucasian,4,male,81924,YES
+4,97491,african american,34,female,69443,NO
+1,32062,hispanic,36,female,94089,NO
+3,67428,african american,42,male,64711,NO
+7,93516,asian,49,male,11179,YES
+6,29464,african american,16,male,38434,YES
+8,47561,caucasian,15,male,16140,YES
+6,21760,african american,48,female,69371,YES
+10,94806,caucasian,19,male,71491,YES
+1,58134,asian,48,male,25208,NO
+9,73771,african american,19,female,57994,YES
+3,88461,caucasian,17,male,61575,NO
+3,39360,caucasian,13,female,85536,NO
+4,56042,other,47,male,74499,NO
+2,83199,african american,27,male,71034,NO
+3,64876,caucasian,32,female,77793,NO
+1,44603,caucasian,21,female,47019,NO
+10,55026,caucasian,32,female,23070,YES
+3,51524,hispanic,3,female,89760,NO
+2,34976,asian,23,female,95016,NO
+5,69851,african american,40,male,14600,NO
+9,99989,caucasian,52,male,59942,YES
+1,10786,other,51,female,44070,NO
+4,36124,hispanic,35,male,87929,NO
+6,16014,african american,56,female,72519,YES
+2,91372,african american,50,female,41962,NO
+7,93990,other,12,female,48230,YES
+3,23421,caucasian,15,male,23087,NO
+8,88284,hispanic,18,female,72324,YES
+2,69458,asian,38,male,56792,NO
+7,87396,asian,53,female,66255,YES
+6,99429,hispanic,9,male,45149,YES
+7,72640,caucasian,30,female,16523,YES
+4,19851,caucasian,38,female,35539,NO
+2,27169,asian,7,male,29227,NO
+4,94255,caucasian,27,male,71957,NO
+1,73888,african american,59,male,52569,NO
+4,59990,hispanic,55,male,78620,NO
+5,54506,hispanic,26,female,69956,NO
+1,16110,asian,32,female,30281,NO
+1,25366,hispanic,40,female,25740,NO
+3,75456,african american,26,male,58722,NO
+7,64716,hispanic,16,female,65004,YES
+6,29531,other,23,female,64002,YES
+4,93322,hispanic,17,female,39488,NO
+10,96464,asian,11,female,36639,YES
+7,99585,other,28,female,67402,YES
+3,56091,other,53,female,80607,NO
+1,10916,other,40,male,86618,NO
+4,16556,african american,44,female,14306,NO
+8,77604,asian,26,male,83282,YES
+4,81205,caucasian,14,female,57505,NO
+3,87639,asian,23,female,32069,NO
+9,25796,caucasian,52,male,73792,YES
+3,42360,african american,52,female,18303,NO
+5,64107,asian,4,female,22513,NO
+9,13442,asian,19,male,82842,YES
+5,72235,caucasian,60,female,25176,NO
+9,34807,hispanic,42,male,10575,YES
+4,27606,caucasian,22,female,24089,NO
+7,76174,african american,43,female,48706,YES
+2,98453,caucasian,31,male,93622,NO
+7,13811,asian,5,male,74030,YES
+2,39514,other,21,female,37677,NO
+9,64050,african american,30,male,36714,YES
+5,39421,african american,56,male,89827,NO
+6,76008,caucasian,46,male,50982,YES
+2,97568,caucasian,17,female,20043,NO
+2,37925,other,42,female,85764,NO
+8,81007,african american,52,male,44981,YES
+9,53795,african american,34,female,42865,YES
+1,93785,other,27,female,70159,NO
+8,82762,caucasian,13,male,54038,YES
+8,69416,caucasian,39,male,46763,YES
+5,35620,hispanic,37,female,21369,NO
+5,39543,african american,8,female,87714,NO
+1,38496,african american,43,male,75280,NO
+7,91068,other,1,female,78743,YES
+7,14648,asian,29,female,47318,YES
+6,25440,asian,19,female,70157,YES
+2,76740,african american,15,female,61671,NO
+9,9283,african american,36,female,72358,YES
+8,99704,asian,19,male,14435,YES
+10,10239,caucasian,54,male,50088,YES
+2,16115,asian,40,male,43061,NO
+8,18664,hispanic,9,male,78224,YES
+1,61894,asian,49,female,64022,NO
+5,54961,other,35,male,35408,NO
+4,10993,hispanic,4,male,29997,NO
+8,33856,asian,51,male,25292,YES
+8,97143,caucasian,39,male,33707,YES
+9,91165,asian,11,female,41166,YES
+1,67800,caucasian,36,male,71161,NO
+10,73415,asian,51,female,98706,YES
+8,72031,african american,56,male,58591,YES
+6,16759,asian,24,female,27268,YES
+5,18357,other,39,male,17012,NO
+10,83646,african american,50,female,34272,YES
+9,36943,african american,15,female,67696,YES
+3,53090,asian,46,male,19756,NO
+8,19079,asian,13,female,26121,YES
+7,72272,caucasian,18,male,39830,YES
+2,80179,other,48,male,34123,NO
+4,41184,asian,46,female,68917,NO
+1,10325,other,54,male,83461,NO
+3,76770,hispanic,59,male,73450,NO
+1,69286,african american,28,male,19258,NO
+9,98772,other,57,female,93002,YES
+4,54197,caucasian,26,female,92417,NO
+10,28812,caucasian,24,female,49427,YES
+5,43017,asian,22,male,13941,NO
+3,72813,african american,8,female,70005,NO
+3,19541,asian,48,male,69356,NO
+4,14524,hispanic,49,male,69040,NO
+1,19610,african american,38,male,23576,NO
+2,26687,hispanic,22,female,95125,NO
+6,80432,hispanic,9,female,13958,YES
+5,54018,hispanic,9,male,78335,NO
+7,46831,other,18,female,19171,YES
+8,38197,asian,9,female,80689,YES
+7,49197,asian,22,female,33599,YES
+4,44304,caucasian,57,female,78264,NO
+5,95572,hispanic,49,male,31837,NO
+7,34653,other,25,male,24044,YES
+6,25694,caucasian,23,female,51914,YES
+1,30305,caucasian,22,female,70389,NO
+6,52021,caucasian,44,female,50397,YES
+1,36360,hispanic,11,male,46985,NO
+5,77381,caucasian,33,male,16108,NO
+8,90169,asian,34,female,46607,YES
+3,35865,other,16,male,92575,NO
+3,95799,caucasian,49,female,27557,NO
+1,50186,other,0,male,89527,NO
+10,42660,hispanic,0,female,84498,YES
+5,81810,caucasian,3,male,95254,NO
+10,60884,hispanic,43,male,62947,YES
+5,85169,caucasian,48,male,85573,NO
+4,30773,asian,14,female,63181,NO
+5,14059,other,16,male,98880,NO
+1,98491,african american,29,female,32509,NO
+1,50427,asian,34,male,99865,NO
+3,51602,hispanic,56,male,33658,NO
+7,23110,caucasian,57,female,76269,YES
+1,28886,other,58,male,98176,NO
+9,57992,african american,32,female,50234,YES
+3,62858,hispanic,32,male,28345,NO
+10,37265,african american,2,female,84835,YES
+7,92223,other,23,male,16312,YES
+1,28525,caucasian,27,male,54145,NO
+9,51445,asian,28,male,30156,YES
+5,96220,asian,10,female,74696,NO
+4,51780,other,29,male,35522,NO
+8,92014,african american,37,female,58211,YES
+4,77099,asian,50,male,75975,NO
+5,77020,african american,8,female,52659,NO
+5,11845,african american,58,female,26639,NO
+7,37124,caucasian,30,female,58157,YES
+10,25704,african american,5,female,42596,YES
+8,28966,hispanic,29,male,94110,YES
+2,10724,other,34,female,40237,NO
+3,41304,african american,44,male,19521,NO
+3,26389,hispanic,55,male,94853,NO
+2,79130,asian,53,male,37812,NO
+1,46638,african american,60,male,96892,NO
+1,31919,caucasian,8,female,83896,NO
+4,22472,asian,39,male,87681,NO
+6,52034,other,30,male,70768,YES
+7,16336,hispanic,38,male,20346,YES
+7,26899,other,24,male,83661,YES
+2,46788,african american,46,male,14916,NO
+10,43808,caucasian,3,female,65213,YES
+3,52220,asian,20,female,49117,NO
+8,43593,caucasian,8,female,32484,YES
+4,84943,african american,33,male,43595,NO
+10,71513,other,40,male,45785,YES
+10,64691,african american,22,female,36731,YES
+5,69217,hispanic,25,female,16538,NO
+6,34701,caucasian,25,male,94806,YES
+9,58055,hispanic,29,male,37701,YES
+4,53712,asian,36,male,54821,NO
+6,24502,other,44,female,83647,YES
+2,55027,hispanic,53,male,73708,NO
+3,20730,hispanic,17,male,48440,NO
+7,13858,african american,18,male,63849,YES
+8,40575,other,29,female,91292,YES
+5,28000,african american,41,male,68728,NO
+1,76401,caucasian,9,male,96821,NO
+3,67621,caucasian,8,female,26369,NO
+10,50506,other,4,male,90880,YES
+2,10194,other,39,male,11216,NO
+3,32929,hispanic,51,female,17885,NO
+4,23483,asian,37,female,79517,NO
+4,37627,african american,44,male,30302,NO
+8,29143,african american,13,female,74600,YES
+6,45584,asian,43,male,50138,YES
+8,65093,caucasian,49,female,87911,YES
+7,91189,caucasian,26,male,40508,YES
+10,19208,caucasian,58,male,24474,YES
+6,25338,caucasian,33,male,82176,YES
+5,46064,asian,50,female,71372,NO
+2,52100,hispanic,32,male,16359,NO
+6,41246,hispanic,45,male,12451,YES
+6,50879,other,54,male,35932,YES
+2,17062,caucasian,44,female,98969,NO
+7,74408,caucasian,38,male,91921,YES
+4,44454,caucasian,55,female,34451,NO
+2,14823,asian,60,male,44631,NO
+7,88070,african american,43,male,97011,YES
+10,80873,asian,31,male,99096,YES
+1,80292,asian,7,female,57166,NO
+9,37344,other,5,female,44130,YES
+4,86602,hispanic,25,female,85644,NO
+7,71368,caucasian,5,female,72359,YES
+9,34582,hispanic,33,female,45322,YES
+9,14582,caucasian,52,female,86616,YES
+4,73221,asian,46,male,88915,NO
+2,27954,asian,2,male,76629,NO
+1,51392,hispanic,5,male,24076,NO
+3,81540,other,22,female,87936,NO
+7,40943,asian,28,male,56175,YES
+2,94536,caucasian,4,male,81186,NO
+7,43190,hispanic,6,male,72758,YES
+3,98464,other,56,female,78275,NO
+1,87479,other,53,female,47241,NO
+5,52581,other,21,female,27691,NO
+9,87180,other,8,male,46682,YES
+4,91025,african american,57,male,84526,NO
+3,11759,asian,21,female,91178,NO
+3,49102,other,60,female,10575,NO
+8,13543,other,2,male,49493,YES
+1,95909,other,25,female,11430,NO
+3,30050,african american,26,female,99271,NO
+1,59756,other,45,male,52618,NO
+6,24643,other,43,male,54767,YES
+1,92665,hispanic,43,female,70045,NO
+3,91834,african american,51,female,77617,NO
+5,16114,other,59,male,72033,NO
+2,32597,asian,9,female,23149,NO
+9,47990,hispanic,40,female,70641,YES
+9,29237,african american,28,male,51152,YES
+10,91701,hispanic,33,female,44007,YES
+7,44769,african american,18,female,58181,YES
+2,85961,hispanic,31,male,13512,NO
+2,74865,other,8,male,48817,NO
+10,77543,hispanic,58,male,16710,YES
+9,38257,hispanic,39,male,22312,YES
+2,62648,african american,29,male,42536,NO
+7,51168,hispanic,21,female,43699,YES
+2,70021,african american,58,female,17909,NO
+6,59153,other,3,male,44617,YES
+6,29118,caucasian,1,female,19693,YES
+6,12173,other,35,male,12942,YES
+7,94223,other,34,male,63425,YES
+5,60457,caucasian,20,female,11134,NO
+8,58796,other,0,male,40281,YES
+10,38488,other,5,female,66854,YES
+8,74111,hispanic,2,male,66509,YES
+5,41575,asian,17,female,69641,NO
+10,88266,asian,36,male,83030,YES
+2,9899,other,50,male,88124,NO
+1,19269,african american,1,male,82843,NO
+6,87291,african american,49,female,65989,YES
+7,37736,african american,28,male,35198,YES
+8,32358,other,57,female,33478,YES
+7,37553,hispanic,48,female,54097,YES
+1,34512,asian,58,female,15928,NO
+9,89831,asian,29,male,82422,YES
+6,75657,caucasian,16,male,77594,YES
+6,76259,caucasian,60,male,94831,YES
+5,20432,caucasian,42,male,14548,NO
+9,54003,asian,39,male,96795,YES
+7,13017,asian,58,male,36076,YES
+7,93005,other,5,male,44588,YES
+3,62984,caucasian,55,female,40563,NO
+2,87937,hispanic,31,female,18643,NO
+2,62189,asian,16,male,17815,NO
+10,88687,other,11,female,32490,YES
+7,64453,hispanic,39,male,30784,YES
+8,30671,caucasian,47,female,61454,YES
+10,54110,caucasian,53,male,26698,YES
+7,88930,caucasian,24,male,65571,YES
+4,37695,asian,58,female,55226,NO
+5,20269,caucasian,1,female,43760,NO
+10,64144,african american,34,male,70043,YES
+10,92653,hispanic,33,male,51661,YES
+3,83752,other,6,male,77299,NO
+3,19900,other,31,male,62779,NO
+1,47023,african american,41,female,44173,NO
+2,50085,asian,51,male,82375,NO
+10,24751,asian,18,female,83733,YES
+1,46689,african american,20,male,31856,NO
+9,54847,other,7,female,38382,YES
+3,32819,asian,44,male,21230,NO
+3,66043,african american,43,female,78969,NO
+3,15288,hispanic,58,male,66467,NO
+6,55214,other,41,female,42490,YES
+5,88751,asian,45,male,63533,NO
+2,9627,other,6,male,24513,NO
+10,15417,african american,43,male,39225,YES
+3,24862,other,55,female,13785,NO
+1,87957,hispanic,58,female,13142,NO
+10,26436,asian,12,male,29860,YES
+10,32420,other,51,female,63771,YES
+2,58243,african american,59,male,16531,NO
+5,83330,asian,45,male,31076,NO
+7,66771,african american,60,male,31676,YES
+9,24716,hispanic,32,female,97469,YES
+2,98409,hispanic,36,female,79073,NO
+9,33369,other,52,female,19179,YES
+5,83439,caucasian,39,female,99404,NO
+7,96004,african american,56,male,70741,YES
+7,52569,african american,20,female,99970,YES
+5,21376,caucasian,9,male,78461,NO
+1,22024,caucasian,58,male,82139,NO
+2,15312,other,15,male,39050,NO
+9,79046,asian,47,female,98886,YES
+5,69445,african american,17,male,41406,NO
+3,30417,caucasian,24,male,31645,NO
+8,61294,hispanic,59,male,39136,YES
+1,54993,other,24,female,43598,NO
+6,71421,african american,51,male,55659,YES
+10,71418,hispanic,25,female,45650,YES
+9,14276,asian,60,male,86175,YES
+8,51917,asian,55,female,37765,YES
+8,50445,hispanic,35,female,28788,YES
+1,69814,asian,17,male,69089,NO
+5,65758,other,51,female,65468,NO
+6,61624,hispanic,18,female,51726,YES
+6,95956,caucasian,34,male,37538,YES
+6,59548,african american,5,female,91630,YES
+7,13627,other,58,female,50859,YES
+3,13010,hispanic,33,female,47137,NO
+4,90085,african american,30,female,63984,NO
+6,58157,hispanic,27,female,70012,YES
+5,63793,other,58,female,46876,NO
+7,36110,other,31,female,50802,YES
+2,61543,african american,40,male,58766,NO
+4,66160,african american,50,male,39458,NO
+2,34776,caucasian,37,male,18071,NO
+10,62532,other,48,female,94330,YES
+5,99380,hispanic,3,male,53374,NO
+1,44051,other,18,female,71224,NO
+9,63720,other,22,male,14293,YES
+10,13029,asian,19,male,45803,YES
+7,95372,hispanic,16,male,51324,YES
+6,42363,other,45,male,28878,YES
+9,48405,asian,50,male,71048,YES
+4,52948,asian,50,male,22717,NO
+6,26987,other,7,female,67462,YES
+8,10437,hispanic,10,female,10944,YES
+3,98500,hispanic,1,male,50380,NO
+2,31367,hispanic,50,male,53503,NO
+2,27719,caucasian,26,male,50279,NO
+5,94421,african american,57,female,58349,NO
+2,66565,asian,51,female,59174,NO
+10,93673,hispanic,27,male,67692,YES
+3,85562,caucasian,12,female,38283,NO
+6,36216,african american,28,female,77186,YES
+9,85229,asian,33,male,70664,YES
+6,15911,caucasian,40,male,14430,YES
+9,93021,african american,35,male,15753,YES
+6,74678,asian,33,male,59890,YES
+3,56127,caucasian,28,male,80298,NO
+5,41490,caucasian,53,male,33907,NO
+3,76022,asian,9,female,26264,NO
+9,69854,other,33,female,26772,YES
+3,69018,african american,46,female,34228,NO
+5,47622,african american,9,male,60704,NO
+5,44338,caucasian,24,male,16533,NO
+1,71141,african american,41,male,81625,NO
+7,87628,asian,35,male,38131,YES
+2,48633,caucasian,49,female,65749,NO
+6,91247,hispanic,40,male,70616,YES
+5,52361,caucasian,53,male,74935,NO
+4,37586,asian,31,female,71087,NO
+3,84033,hispanic,52,male,13959,NO
+3,87738,caucasian,38,female,77702,NO
+10,25452,other,9,female,73811,YES
+1,89091,asian,38,female,37427,NO
+2,27449,other,56,male,62837,NO
+6,76888,african american,38,female,35652,YES
+10,77897,african american,0,male,57259,YES
+4,24418,caucasian,21,male,56473,NO
+1,47640,caucasian,11,female,91002,NO
+4,17234,other,23,male,46107,NO
+10,66689,other,16,female,28001,YES
+8,11673,asian,48,male,92546,YES
+8,38469,other,59,female,81075,YES
+10,22645,caucasian,34,female,37219,YES
+5,94517,hispanic,0,male,87372,NO
+4,44678,hispanic,49,male,66616,NO
+10,59689,hispanic,44,male,10154,YES
+6,47836,african american,38,male,84565,YES
+4,69411,asian,18,male,43177,NO
+5,93634,asian,58,male,44999,NO
+7,68885,african american,58,male,57097,YES
+3,46924,asian,39,male,89635,NO
+5,63723,hispanic,35,female,39302,NO
+9,83815,hispanic,45,female,56053,YES
+7,67988,asian,8,female,95631,YES
+10,58076,caucasian,30,male,24567,YES
+8,75787,hispanic,42,male,89033,YES
+5,67364,caucasian,20,male,99274,NO
+9,55534,other,11,male,63818,YES
+4,10634,hispanic,17,male,69159,NO
+3,86460,caucasian,48,male,69462,NO
+8,30802,hispanic,17,male,78704,YES
+3,83805,hispanic,12,male,31833,NO
+5,32499,other,31,male,77935,NO
+3,91198,asian,13,female,60101,NO
+2,51090,caucasian,60,male,19261,NO
+3,14615,other,2,female,16624,NO
+9,23533,hispanic,17,male,60167,YES
+7,43854,hispanic,12,male,63162,YES
+6,13257,asian,55,male,48451,YES
+6,94752,african american,40,female,83202,YES
+1,55058,african american,43,female,26345,NO
+1,37523,hispanic,19,female,94542,NO
+4,86891,other,7,male,47716,NO
+4,67794,asian,59,female,62332,NO
+7,93811,hispanic,27,male,42880,YES
+4,39628,other,10,female,58724,NO
+5,36067,african american,9,female,94340,NO
+5,61482,asian,36,male,62606,NO
+1,71770,asian,5,female,16787,NO
+6,24895,caucasian,33,female,58771,YES
+4,42995,other,10,female,22204,NO
+2,75356,african american,57,female,17356,NO
+4,75633,asian,39,female,35687,NO
+2,15914,caucasian,55,male,78442,NO
+1,87935,hispanic,16,male,99825,NO
+9,83977,caucasian,20,male,74543,YES
+1,47107,other,3,female,36512,NO
+1,21879,other,59,male,25139,NO
+4,13368,other,33,male,22588,NO
+9,41849,caucasian,59,female,14366,YES
+8,92384,other,22,female,61661,YES
+8,46402,asian,9,male,11331,YES
+6,31981,african american,1,female,92904,YES
+1,62871,caucasian,31,female,56756,NO
+1,20039,caucasian,0,female,91705,NO
+3,44781,caucasian,7,female,43129,NO
+5,15770,african american,7,female,29833,NO
+10,25470,asian,60,female,69435,YES
+10,33872,hispanic,33,female,90449,YES
+8,25873,other,59,male,40878,YES
+6,49432,asian,31,female,67642,YES
+3,75426,asian,58,female,40152,NO
+3,74492,hispanic,32,male,69727,NO
+3,97411,asian,14,female,93236,NO
+9,43308,hispanic,44,female,86851,YES
+9,81762,african american,21,male,36952,YES
+1,82793,caucasian,9,female,89097,NO
+5,99782,asian,1,male,94645,NO
+7,75550,african american,39,male,30389,YES
+5,35331,other,21,male,26426,NO
+7,20385,asian,22,male,13304,YES
+2,38599,other,39,female,33084,NO
+8,59099,caucasian,59,male,60163,YES
+10,74154,caucasian,6,female,72532,YES
+10,14162,hispanic,48,female,59116,YES
+3,29638,african american,20,female,27012,NO
+4,12566,caucasian,47,male,89488,NO
+10,46221,african american,20,female,39883,YES
+2,91598,other,15,male,15486,NO
+8,81120,african american,31,female,76736,YES
+8,57827,african american,32,female,20140,YES
+9,75481,african american,42,male,87758,YES
+4,84632,african american,41,female,32147,NO
+10,71145,african american,19,female,88153,YES
+5,67078,asian,31,male,46859,NO
+10,50063,other,7,male,36638,YES
+7,28780,other,24,female,47916,YES
+8,39125,asian,15,male,40272,YES
+8,71498,african american,50,female,26843,YES
+7,44258,african american,17,male,79210,YES
+1,24154,caucasian,59,female,98892,NO
+8,86966,caucasian,47,male,99220,YES
+6,40520,african american,34,female,33247,YES
+6,79915,asian,37,male,19443,YES
+5,70677,african american,18,female,24467,NO
+9,46483,african american,54,male,52835,YES
+2,74264,african american,52,female,14728,NO
+5,20018,asian,6,male,47645,NO
+4,96584,caucasian,21,male,50133,NO
+6,36525,african american,0,female,85059,YES
+9,76098,hispanic,33,male,86943,YES
+1,59345,asian,48,female,94475,NO
+5,12213,african american,42,male,33206,NO
+2,29555,hispanic,14,male,84435,NO
+2,65398,caucasian,25,male,69746,NO
+3,19445,other,35,male,87306,NO
+2,41381,asian,49,male,96107,NO
+9,39858,hispanic,40,male,15599,YES
+6,42917,asian,2,female,93625,YES
+6,56161,caucasian,57,female,21115,YES
+3,18351,african american,14,female,45683,NO
+1,14815,caucasian,23,female,65537,NO
+4,53855,african american,38,male,19874,NO
+4,88274,hispanic,18,female,79424,NO
+1,9798,other,43,female,27249,NO
+7,36231,african american,57,female,46746,YES
+9,56255,caucasian,19,female,94154,YES
+3,81451,caucasian,57,male,60459,NO
+7,36580,asian,15,male,42310,YES
+3,34349,hispanic,1,female,90514,NO
+4,21102,caucasian,44,male,17222,NO
+6,15374,caucasian,10,female,63987,YES
+9,25342,african american,54,female,97232,YES
+4,38678,african american,52,male,10991,NO
+8,83351,asian,18,female,21580,YES
+8,27447,african american,39,male,59363,YES
+6,82928,asian,12,male,83860,YES
+8,64690,other,37,male,57532,YES
+7,36461,caucasian,34,female,48849,YES
+10,85270,asian,44,male,70889,YES
+10,42624,african american,30,male,64464,YES
+7,69313,caucasian,19,male,80660,YES
+6,90477,other,38,female,96109,YES
+9,67031,caucasian,18,female,93738,YES
+2,50091,hispanic,7,male,69744,NO
+6,72436,hispanic,5,male,93208,YES
+1,47579,african american,15,male,26949,NO
+4,32390,other,51,female,67803,NO
+2,95626,caucasian,51,male,80839,NO
+6,55223,other,5,male,34551,YES
+4,52511,other,17,female,21723,NO
+2,79362,caucasian,20,male,77581,NO
+9,93553,other,58,male,40943,YES
+10,73751,hispanic,3,female,74060,YES
+5,15637,caucasian,29,female,49919,NO
+4,44753,caucasian,21,female,57817,NO
+5,72577,african american,24,female,17824,NO
+1,13550,caucasian,38,male,64206,NO
+6,24707,other,48,male,41446,YES
+2,84217,african american,19,female,89059,NO
+10,59278,hispanic,6,male,41646,YES
+1,69051,other,25,male,56123,NO
+4,77617,caucasian,42,female,85791,NO
+1,42723,other,14,male,23438,NO
+10,31540,asian,1,female,92033,YES
+3,78097,asian,42,male,17510,NO
+4,13443,caucasian,51,female,94764,NO
+7,98898,hispanic,44,male,19649,YES
+8,69675,caucasian,55,female,55030,YES
+1,14265,asian,42,female,77408,NO
+2,82429,hispanic,23,male,90840,NO
+8,78613,hispanic,44,male,94706,YES
+3,81903,hispanic,13,male,12873,NO
+3,12097,asian,4,female,51297,NO
+10,67357,caucasian,58,female,68144,YES
+5,52360,other,54,female,45108,NO
+5,75882,african american,46,female,24804,NO
+3,32458,asian,51,male,84411,NO
+9,41000,other,40,female,65047,YES
+7,77963,other,23,male,26526,YES
+10,68551,hispanic,5,female,42374,YES
+4,61531,hispanic,14,female,20138,NO
+1,28462,other,36,female,43076,NO
+3,35110,other,31,male,64854,NO
+4,30111,hispanic,18,male,62918,NO
+3,10883,african american,23,female,50275,NO
+3,53715,other,53,female,70959,NO
+3,94495,other,47,female,25755,NO
+6,12351,other,4,male,42605,YES
+3,75164,hispanic,60,male,61178,NO
+9,42913,hispanic,55,male,93740,YES
+10,53825,hispanic,1,female,34216,YES
+2,61693,hispanic,36,male,40234,NO
+1,71828,hispanic,13,female,61571,NO
+7,91791,other,1,female,15377,YES
+3,16011,caucasian,54,male,87472,NO
+4,51858,hispanic,60,female,57599,NO
+2,52314,other,14,female,97562,NO
+6,36712,other,8,male,29820,YES
+4,46537,hispanic,10,female,25599,NO
+6,11388,african american,27,female,66115,YES
+2,30675,caucasian,58,female,52231,NO
+8,54453,other,29,male,97986,YES
+3,42113,hispanic,44,female,97819,NO
+3,74379,african american,3,female,72717,NO
+7,29436,hispanic,20,female,27506,YES
+2,50723,caucasian,52,female,31951,NO
+8,97818,hispanic,30,male,64621,YES
+8,23900,other,20,female,88662,YES
+10,97138,other,7,female,42428,YES
+9,28983,caucasian,36,male,66903,YES
+5,94035,caucasian,12,female,18505,NO
+9,46706,hispanic,21,male,65862,YES
+3,98700,caucasian,44,male,48980,NO
+3,16995,caucasian,13,female,33011,NO
+9,22914,caucasian,8,male,34986,YES
+1,13904,caucasian,41,female,75799,NO
+10,63776,other,23,male,43662,YES
+7,28059,other,59,female,47713,YES
+3,18917,other,40,female,42035,NO
+6,95805,african american,43,male,61744,YES
+7,13788,asian,59,female,81191,YES
+10,56521,hispanic,16,female,51321,YES
+5,61833,asian,17,female,16288,NO
+7,94486,african american,14,male,19752,YES
+8,94545,caucasian,38,male,82246,YES
+8,97732,caucasian,49,male,94365,YES
+2,91663,caucasian,55,female,64383,NO
+2,16749,asian,59,male,46305,NO
+2,51878,caucasian,48,female,22561,NO
+7,50794,hispanic,36,female,16330,YES
+1,57756,other,48,female,90271,NO
+1,16071,african american,50,male,92424,NO
+5,36963,hispanic,51,female,66790,NO
+10,46689,hispanic,22,female,94002,YES
+1,16894,african american,36,female,37896,NO
+3,97532,other,60,female,25578,NO
+7,33988,asian,2,female,73069,YES
+10,51206,hispanic,32,male,22451,YES
+9,24631,hispanic,42,male,15925,YES
+2,96945,asian,27,female,54349,NO
+4,16298,caucasian,22,male,80357,NO
+6,76415,other,6,female,35876,YES
+6,46573,other,10,female,36913,YES
+1,80988,asian,30,male,65980,NO
+4,45825,other,23,male,92423,NO
+6,24368,african american,39,female,36160,YES
+1,19170,asian,23,male,75157,NO
+5,15267,caucasian,55,male,52881,NO
+8,42320,hispanic,16,male,63942,YES
+9,49944,hispanic,40,male,36575,YES
+5,41411,hispanic,31,male,47262,NO
+6,82559,hispanic,29,male,88418,YES
+10,53145,caucasian,36,male,70602,YES
+2,59336,african american,59,female,70837,NO
+5,68783,other,39,male,27227,NO
+3,65245,other,53,male,90162,NO
+4,28644,asian,0,male,25010,NO
+3,82565,other,22,male,72556,NO
+7,52146,hispanic,16,male,28271,YES
+6,80554,other,15,female,50626,YES
+2,31391,other,53,female,80230,NO
+1,39676,other,7,male,74908,NO
+4,71420,african american,45,female,64151,NO
+1,75280,african american,24,male,21686,NO
+4,17236,asian,16,male,20182,NO
+9,50145,african american,8,male,92860,YES
+8,99402,hispanic,53,female,99513,YES
+9,92477,asian,16,female,46618,YES
+4,61600,caucasian,6,male,36262,NO
+7,98884,asian,8,female,12312,YES
+4,21370,asian,25,male,62715,NO
+2,40077,african american,33,male,68642,NO
+1,66998,caucasian,30,female,31591,NO
+8,52616,african american,50,female,68529,YES
+8,90317,hispanic,55,male,88320,YES
+1,43893,other,25,female,96501,NO
+10,11770,hispanic,17,male,41333,YES
+9,50300,african american,31,male,93930,YES
+6,73166,caucasian,47,male,81954,YES
+8,56314,asian,11,male,11818,YES
+8,50521,hispanic,53,male,17736,YES
+8,74810,asian,27,male,95768,YES
+1,23223,other,25,female,66776,NO
+10,96253,other,32,male,76302,YES
+4,13100,african american,47,male,12255,NO
+6,86446,hispanic,44,female,26476,YES
+3,47078,hispanic,43,male,81982,NO
+7,57720,other,51,female,94152,YES
+3,55080,asian,24,female,16629,NO
+4,28361,caucasian,30,female,88366,NO
+1,87904,asian,43,female,15542,NO
+1,42877,african american,59,female,80768,NO
+8,29805,caucasian,27,female,48986,YES
+7,31849,african american,0,female,61097,YES
+8,61700,other,23,female,88394,YES
+7,73786,african american,20,male,18672,YES
+10,35252,caucasian,52,male,80525,YES
+1,95606,hispanic,1,female,73254,NO
+5,86894,african american,42,male,37533,NO
+1,76558,caucasian,44,male,98933,NO
+1,75670,asian,3,male,33522,NO
+2,74141,caucasian,32,female,13970,NO
+4,47885,african american,38,male,76252,NO
+7,80936,caucasian,16,male,57836,YES
+8,35391,hispanic,44,female,24872,YES
+3,27819,asian,7,male,86631,NO
+6,29561,caucasian,13,male,64898,YES
+5,38481,other,28,male,56668,NO
+1,87837,caucasian,34,male,90549,NO
+9,11627,caucasian,29,male,43994,YES
+6,72129,hispanic,24,female,68827,YES
+3,17352,hispanic,30,male,99041,NO
+6,30880,asian,45,male,11614,YES
+3,59600,hispanic,48,female,63458,NO
+10,55609,other,10,male,91873,YES
+4,36297,african american,11,male,90992,NO
+6,69228,african american,1,female,84852,YES
+3,75631,hispanic,4,male,34615,NO
+5,59584,asian,2,female,75791,NO
+7,84961,caucasian,46,male,40382,YES
+6,78641,african american,37,male,94911,YES
+9,19744,other,42,female,16896,YES
+6,91760,caucasian,52,male,27079,YES
+3,66220,other,46,male,62194,NO
+9,87412,caucasian,5,male,77853,YES
+7,65351,caucasian,15,male,29245,YES
+8,46327,caucasian,19,male,42906,YES
+8,16184,african american,55,male,77230,YES
+3,59195,asian,5,male,21941,NO
+7,23311,african american,58,male,66539,YES
+2,95524,asian,29,female,79993,NO
+2,24071,other,35,female,44644,NO
+6,39963,asian,45,male,97405,YES
+6,41903,african american,52,female,75806,YES
+8,40991,hispanic,52,female,35909,YES
+4,17822,other,43,female,68581,NO
+3,65182,asian,9,male,67596,NO
+7,29440,hispanic,34,female,40553,YES
+7,47043,asian,18,female,98906,YES
+6,65274,asian,58,female,63908,YES
+2,92296,hispanic,47,male,97227,NO
+10,83536,caucasian,22,female,71647,YES
+9,59132,other,2,female,51631,YES
+4,10394,hispanic,33,male,47414,NO
+6,61629,asian,47,female,96609,YES
+1,17836,other,31,male,90691,NO
+9,17694,other,14,female,46993,YES
+3,21529,african american,7,female,80519,NO
+4,72983,asian,56,female,25913,NO
+8,40317,caucasian,59,male,41847,YES
+4,96191,african american,58,female,61581,NO
+8,24618,other,54,male,19919,YES
+9,40939,african american,3,female,36517,YES
+4,92764,asian,3,female,98669,NO
+5,30312,other,3,male,25253,NO
+2,62113,african american,46,male,39562,NO
+3,85930,caucasian,46,male,23462,NO
+10,80627,asian,37,female,69593,YES
+4,98062,caucasian,50,female,92248,NO
+6,17168,hispanic,47,male,65063,YES
+7,35396,caucasian,6,female,11840,YES
+10,47974,african american,13,female,25652,YES
+2,17996,african american,45,male,54915,NO
+10,18893,caucasian,9,female,62992,YES
+1,47671,african american,2,female,58825,NO
+1,78978,asian,33,male,76379,NO
+7,50409,hispanic,9,female,93785,YES
+1,55416,hispanic,31,female,18920,NO
+5,91270,other,5,male,34579,NO
+8,30065,caucasian,34,male,69074,YES
+5,43719,asian,22,male,20588,NO
+1,51524,hispanic,55,female,53023,NO
+4,47244,asian,33,male,44801,NO
+5,89254,hispanic,28,female,93929,NO
+4,76181,hispanic,32,female,97437,NO
+4,27345,hispanic,34,male,31345,NO
+2,17197,african american,29,female,79322,NO
+7,92858,caucasian,15,male,38315,YES
+2,91530,hispanic,50,male,89791,NO
+5,10426,african american,23,male,59377,NO
+8,31779,other,46,male,88737,YES
+9,93632,african american,15,male,36206,YES
+2,38767,caucasian,36,female,18555,NO
+7,70533,caucasian,30,female,63098,YES
+5,85745,hispanic,10,female,54307,NO
+6,70744,hispanic,36,male,89224,YES
+2,79065,other,17,male,93020,NO
+10,20934,african american,11,female,20013,YES
+10,59342,other,19,male,34410,YES
+3,13967,asian,47,male,26681,NO
+7,85286,other,47,male,50315,YES
+10,31468,asian,1,female,60755,YES
+7,49124,african american,51,female,95999,YES
+7,98382,caucasian,49,female,92185,YES
+2,15654,hispanic,38,male,79779,NO
+1,71029,caucasian,42,female,61915,NO
+4,54699,other,48,male,30747,NO
+2,97424,hispanic,8,male,40571,NO
+2,54252,african american,14,female,56653,NO
+5,26853,asian,51,female,83777,NO
+2,46857,african american,11,female,58665,NO
+4,88830,other,40,female,61329,NO
+4,42216,asian,46,female,91447,NO
+6,33996,hispanic,1,female,48193,YES
+8,34200,other,35,male,65606,YES
+3,58004,other,46,male,67018,NO
+4,55974,asian,22,female,27919,NO
+9,13491,asian,48,male,85642,YES
+10,15050,hispanic,55,male,79542,YES
+8,47773,african american,56,female,19405,YES
+7,54973,hispanic,40,female,24572,YES
+8,91176,hispanic,1,male,36198,YES
+5,99674,asian,25,female,63489,NO
+3,63641,other,11,female,90422,NO
+3,36141,caucasian,34,female,41098,NO
+2,97746,african american,36,male,39785,NO
+3,52082,hispanic,18,male,61853,NO
+1,60716,caucasian,24,female,55565,NO
+6,55292,asian,47,male,12093,YES
+5,33675,hispanic,38,male,72221,NO
+8,67727,other,19,female,24729,YES
+9,76073,asian,55,male,99257,YES
+8,68701,african american,58,female,53116,YES
+2,20986,asian,39,female,15364,NO
+5,90118,other,22,male,13115,NO
+7,82245,other,23,female,34530,YES
+8,33318,other,32,female,25474,YES
+10,93064,african american,27,female,38620,YES
+6,9271,african american,43,male,11869,YES
+3,17307,hispanic,36,female,91354,NO
+10,34241,hispanic,28,male,83896,YES
+10,64884,african american,35,female,41657,YES
+3,26529,hispanic,45,female,39481,NO
+10,34663,other,56,male,69191,YES
+4,38230,caucasian,28,female,79402,NO
+8,32005,african american,37,male,40504,YES
+4,74752,asian,40,male,97530,NO
+9,82550,asian,35,male,41604,YES
+1,91803,african american,55,female,32637,NO
+1,33733,other,14,male,50666,NO
+6,18681,caucasian,38,male,39025,YES
+7,68023,hispanic,23,male,80745,YES
+5,46760,african american,3,male,67937,NO
+2,98848,african american,5,female,23930,NO
+7,45956,african american,5,female,17442,YES
+2,86505,asian,5,female,91753,NO
+3,57782,asian,36,male,61987,NO
+8,74365,asian,34,female,51063,YES
+3,61804,caucasian,25,female,82160,NO
+2,32414,asian,47,male,43835,NO
+8,23707,asian,52,male,54475,YES
+6,25945,caucasian,33,female,94730,YES
+6,32165,african american,47,male,85245,YES
+2,72796,asian,59,male,76872,NO
+7,62828,other,54,male,77000,YES
+10,13729,hispanic,21,female,88810,YES
+4,93305,african american,46,male,17199,NO
+5,25540,asian,37,male,47220,NO
+1,62017,african american,40,female,68345,NO
+7,60969,caucasian,31,female,34585,YES
+1,64920,other,29,female,32037,NO
+2,26169,caucasian,56,female,79109,NO
+5,57658,african american,16,female,52677,NO
+1,84671,african american,10,female,30915,NO
+7,92282,other,40,male,56972,YES
+6,36433,african american,16,female,80800,YES
+7,19784,hispanic,34,male,42083,YES
+6,51051,caucasian,27,female,51408,YES
+1,78355,caucasian,9,female,10713,NO
+3,20394,asian,40,female,64866,NO
+6,66790,other,28,male,34707,YES
+10,13793,hispanic,3,female,21057,YES
+5,15637,hispanic,26,female,84739,NO
+8,36229,caucasian,53,male,62117,YES
+9,15470,caucasian,46,female,15051,YES
+4,54893,asian,43,female,51533,NO
+10,79585,other,26,female,50496,YES
+1,94309,asian,25,male,76831,NO
+7,53934,caucasian,10,male,31109,YES
+8,62494,other,49,female,48011,YES
+3,38440,other,25,male,52100,NO
+2,54450,other,58,male,53347,NO
+6,68513,hispanic,31,male,95252,YES
+9,12747,asian,8,female,66626,YES
+4,33951,caucasian,9,male,26857,NO
+2,90683,caucasian,50,male,40564,NO
+9,90063,hispanic,25,male,96763,YES
+3,18992,other,12,male,91941,NO
+4,92445,asian,10,male,41814,NO
+1,31497,caucasian,53,female,96833,NO
+1,67489,hispanic,5,female,44262,NO
+3,42602,other,35,female,25917,NO
+6,40492,caucasian,54,female,40906,YES
+1,41794,other,17,male,51194,NO
+1,46417,asian,8,female,67503,NO
+4,47206,hispanic,6,female,88330,NO
+5,83856,other,58,male,51072,NO
+5,95380,hispanic,15,male,86226,NO
+8,92217,asian,43,female,50363,YES
+9,36073,african american,41,female,50160,YES
+4,82765,caucasian,6,female,35586,NO
+8,84799,asian,16,male,73700,YES
+10,59660,african american,12,female,21342,YES
+4,39337,asian,51,female,64977,NO
+4,23337,asian,33,female,70707,NO
+2,17174,caucasian,58,male,87427,NO
+3,62318,caucasian,28,female,37849,NO
+6,99706,other,38,female,63060,YES
+1,17279,caucasian,35,female,73945,NO
+4,59641,hispanic,22,male,84343,NO
+6,52180,hispanic,13,male,17499,YES
+3,47627,caucasian,58,male,15530,NO
+2,88378,other,1,female,96545,NO
+5,24995,asian,45,male,78448,NO
+10,63049,caucasian,24,male,60702,YES
+5,24816,african american,29,female,11029,NO
+8,28739,african american,16,female,14425,YES
+4,84222,african american,22,female,84341,NO
+7,64949,asian,36,male,97244,YES
+6,48369,other,27,male,28959,YES
+1,62850,african american,30,female,82482,NO
+7,28897,african american,7,female,67466,YES
+6,72705,other,4,male,77866,YES
+6,44239,hispanic,25,male,39943,YES
+7,16071,caucasian,46,female,87177,YES
+7,24060,caucasian,13,male,34829,YES
+4,48831,hispanic,16,male,70213,NO
+9,37764,african american,15,female,53947,YES
+10,15610,african american,10,female,91091,YES
+9,19486,other,6,male,92114,YES
+10,93245,african american,22,female,44079,YES
+9,55295,other,35,female,86868,YES
+3,46952,caucasian,6,male,55582,NO
+7,36662,african american,1,male,76709,YES
+9,17542,caucasian,42,female,59472,YES
+7,90416,caucasian,3,male,90954,YES
+5,25643,african american,4,male,79487,NO
+8,70208,african american,55,male,60061,YES
+1,34025,caucasian,27,male,74595,NO
+3,31844,hispanic,34,male,13242,NO
+8,77413,other,9,female,27711,YES
+9,47062,hispanic,20,male,65593,YES
+6,49404,hispanic,18,male,28858,YES
+10,42303,hispanic,26,female,17553,YES
+4,98499,african american,45,male,48851,NO
+5,72798,asian,14,male,50438,NO
+1,40804,hispanic,47,male,50089,NO
+9,96496,african american,3,male,85641,YES
+3,52041,african american,26,female,21584,NO
+4,27786,african american,26,female,15035,NO
+4,80767,other,33,female,83872,NO
+8,68430,other,42,female,30755,YES
+7,56973,hispanic,57,female,44060,YES
+9,95674,caucasian,60,male,86407,YES
+10,34662,other,0,female,88410,YES
+5,13571,african american,13,male,13465,NO
+2,82665,asian,59,male,97687,NO
+5,11392,hispanic,47,female,92256,NO
+1,57248,caucasian,50,female,46627,NO
+1,82278,caucasian,48,female,82852,NO
+8,10078,caucasian,5,female,21714,YES
+2,69494,african american,49,male,25897,NO
+3,59943,african american,8,female,89083,NO
+6,72670,caucasian,13,male,61492,YES
+1,69034,hispanic,57,male,33128,NO
+1,67337,african american,18,male,61608,NO
+10,66524,african american,53,female,60921,YES
+7,28853,asian,26,male,51175,YES
+7,90346,asian,36,male,95294,YES
+9,27905,african american,4,female,25265,YES
+7,45039,caucasian,14,male,77710,YES
+1,14387,african american,22,female,61371,NO
+2,96264,caucasian,23,female,54011,NO
+3,68341,caucasian,27,female,40587,NO
+8,66440,african american,56,female,70907,YES
+6,14186,other,33,male,66790,YES
+2,97221,asian,4,male,41545,NO
+5,41529,asian,3,female,93377,NO
+6,45071,african american,48,male,10424,YES
+9,79125,hispanic,10,female,98045,YES
+5,62696,african american,3,female,14565,NO
+1,78047,asian,8,female,52721,NO
+2,90083,other,39,female,92164,NO
+5,53521,asian,19,male,43625,NO
+3,29832,other,37,male,73379,NO
+1,32152,african american,35,male,96133,NO
+7,98919,african american,16,female,39164,YES
+8,97026,other,60,female,91148,YES
+4,92063,caucasian,32,female,56812,NO
+5,45376,african american,20,male,76686,NO
+9,24243,other,8,male,45182,YES
+6,73775,asian,47,male,47254,YES
+8,73556,asian,3,female,90079,YES
+2,46962,other,30,male,72602,NO
+4,16908,other,21,female,39277,NO
+6,17649,african american,14,female,83049,YES
+3,69953,hispanic,45,male,86329,NO
+2,10118,other,53,male,63727,NO
+2,13901,caucasian,1,female,10049,NO
+1,83411,caucasian,46,male,40742,NO
+6,57070,other,55,male,76291,YES
+3,11931,asian,46,male,98784,NO
+10,22552,caucasian,31,female,70418,YES
+2,86050,other,56,male,98704,NO
+1,60676,other,51,male,68621,NO
+7,65790,other,32,female,87117,YES
+9,51577,african american,13,male,23511,YES
+2,58546,caucasian,23,female,65178,NO
+1,44032,african american,23,female,33085,NO
+7,54516,caucasian,30,male,45096,YES
+5,38093,asian,48,male,60419,NO
+3,15049,caucasian,0,male,97754,NO
+5,79185,asian,40,male,44879,NO
+1,92775,african american,37,female,67462,NO
+9,64978,caucasian,27,female,97699,YES
+8,61422,hispanic,51,male,88847,YES
+8,73698,african american,1,male,68643,YES
+2,38385,african american,37,male,35442,NO
+3,53471,asian,17,female,13307,NO
+8,64314,asian,56,female,55300,YES
+2,80103,hispanic,43,male,63694,NO
+7,41196,other,29,female,39472,YES
+6,58889,caucasian,11,male,39613,YES
+6,38019,caucasian,17,male,16949,YES
+9,95574,asian,33,female,64092,YES
+6,87452,african american,30,male,71900,YES
+2,52176,caucasian,30,male,59586,NO
+8,15115,asian,40,male,88818,YES
+10,81127,hispanic,21,male,17200,YES
+2,51626,caucasian,60,male,91199,NO
+2,22754,other,46,male,98184,NO
+8,95283,asian,6,male,98051,YES
+6,11200,other,60,male,72110,YES
+10,11252,african american,55,female,26504,YES
+6,15926,other,43,male,63282,YES
+7,13618,african american,11,female,42837,YES
+8,11110,caucasian,4,female,31719,YES
+8,61665,african american,28,male,53962,YES
+4,77938,hispanic,51,female,44150,NO
+7,58427,hispanic,3,male,29647,YES
+6,28854,asian,3,male,68252,YES
+4,94624,african american,34,male,58297,NO
+3,88159,caucasian,7,male,81268,NO
+9,82492,asian,43,female,90351,YES
+10,27011,caucasian,13,male,42986,YES
+6,76465,hispanic,52,female,28196,YES
+4,50142,hispanic,0,male,85292,NO
+10,24835,other,30,male,84072,YES
+9,49799,hispanic,50,male,97191,YES
+4,35998,other,50,female,81816,NO
+4,91050,asian,22,female,13111,NO
+7,94990,african american,15,female,76539,YES
+4,17148,other,49,female,12425,NO
+8,60221,hispanic,30,female,54209,YES
+4,31088,other,1,female,38414,NO
+6,47892,african american,60,male,12452,YES
+2,10380,asian,29,male,50416,NO
+4,88342,hispanic,14,male,33648,NO
+8,18461,caucasian,40,female,33202,YES
+6,20807,caucasian,59,male,14408,YES
+6,23569,caucasian,32,male,57040,YES
+10,80129,asian,58,male,40449,YES
+6,15592,hispanic,47,female,31661,YES
+7,23712,african american,47,female,99820,YES
+9,57268,african american,34,male,20839,YES
+7,54204,african american,17,male,13990,YES
+3,56158,asian,52,female,29543,NO
+3,39982,african american,12,female,28059,NO
+3,49584,other,26,female,88627,NO
+9,77534,hispanic,23,male,78320,YES
+2,63024,caucasian,18,male,50379,NO
+8,88458,caucasian,4,male,17563,YES
+2,49014,asian,35,female,59261,NO
+4,36169,hispanic,1,female,30150,NO
+3,29376,other,28,female,20081,NO
+1,10636,african american,38,male,24626,NO
+10,86805,asian,14,female,86420,YES
+10,64800,hispanic,33,female,92508,YES
+9,95884,hispanic,0,male,90486,YES
+4,68024,asian,19,female,46228,NO
+4,13558,african american,57,male,69204,NO
+6,83525,other,7,male,96968,YES
+3,17697,caucasian,49,female,99145,NO
+2,69950,african american,19,male,73791,NO
+4,22034,caucasian,52,female,25040,NO
+8,50882,hispanic,48,male,67836,YES
+7,21898,caucasian,48,male,56892,YES
+8,26859,african american,47,female,15962,YES
+4,73570,caucasian,34,male,90231,NO
+3,89515,asian,49,male,27844,NO
+10,72072,caucasian,30,male,13163,YES
+5,98948,other,49,male,41516,NO
+3,52949,asian,60,male,44499,NO
+6,15068,hispanic,2,male,17480,YES
+6,17738,african american,20,male,46746,YES
+8,98651,asian,31,male,31726,YES
+9,80934,african american,12,male,47952,YES
+2,66798,other,42,female,97571,NO
+1,54467,hispanic,49,male,49727,NO
+6,40438,hispanic,1,female,21947,YES
+9,85194,other,55,female,51186,YES
+4,81556,hispanic,35,female,81251,NO
+7,52964,asian,15,male,87654,YES
+6,97704,asian,51,female,90945,YES
+8,27790,hispanic,8,female,51436,YES
+4,24722,hispanic,46,female,80703,NO
+6,61950,asian,5,female,13612,YES
+4,58765,hispanic,17,female,82940,NO
+6,36530,caucasian,56,male,38612,YES
+1,21333,caucasian,28,female,39537,NO
+3,61432,other,14,female,33813,NO
+5,98046,other,18,male,47189,NO
+8,42715,other,31,male,32575,YES
+4,86240,hispanic,7,male,72846,NO
+5,12011,other,3,female,67184,NO
+3,92415,caucasian,16,male,53282,NO
+8,38420,caucasian,2,female,31740,YES
+10,96263,hispanic,0,female,55430,YES
+5,54510,asian,37,male,24262,NO
+7,70325,caucasian,44,male,83001,YES
+9,29254,caucasian,57,male,48635,YES
+8,30388,caucasian,21,male,72383,YES
+2,71843,african american,15,female,73225,NO
+10,75947,caucasian,5,male,19494,YES
+1,52883,hispanic,43,female,19807,NO
+6,18028,hispanic,0,female,20480,YES
+5,75451,hispanic,30,female,74199,NO
+9,35687,hispanic,9,female,61275,YES
+2,27876,other,10,male,23887,NO
+4,39915,caucasian,44,male,94123,NO
+1,70751,caucasian,57,male,18813,NO
+7,21843,hispanic,25,male,49464,YES
+6,16505,other,21,male,33288,YES
+9,95290,asian,17,male,61005,YES
+6,81235,hispanic,48,male,50939,YES
+1,59639,asian,44,male,53579,NO
+8,62521,african american,1,male,60715,YES
+9,17347,hispanic,23,female,51712,YES
+10,29095,african american,24,female,79466,YES
+8,29707,african american,31,male,72877,YES
+2,71920,hispanic,6,male,75799,NO
+2,65262,caucasian,58,male,36686,NO
+4,85518,other,32,female,71857,NO
+8,32690,other,13,male,99116,YES
+3,74378,asian,0,male,66613,NO
+8,98956,asian,50,female,70395,YES
+4,14644,asian,46,male,19016,NO
+8,93146,african american,45,female,10080,YES
+6,24502,caucasian,15,female,41161,YES
+2,39412,caucasian,4,female,77497,NO
+8,51445,asian,32,male,65932,YES
+2,37812,caucasian,7,female,76792,NO
+6,78465,asian,7,female,96009,YES
+3,65901,asian,20,female,80541,NO
+6,73515,hispanic,3,female,37607,YES
+6,77994,asian,29,female,47506,YES
+9,65853,african american,47,female,57007,YES
+5,25277,african american,17,male,64124,NO
+8,57557,african american,4,female,54907,YES
+6,66725,asian,60,female,97607,YES
+4,35486,african american,19,female,11941,NO
+2,72988,other,40,female,41314,NO
+1,84751,other,22,male,67015,NO
+1,75956,african american,21,female,86385,NO
+8,70267,asian,16,male,59264,YES
+6,62097,hispanic,49,male,84966,YES
+10,66858,hispanic,48,male,46948,YES
+9,41179,other,19,female,94687,YES
+9,83735,african american,36,male,95297,YES
+6,50604,asian,36,female,37146,YES
+10,56428,caucasian,43,female,27534,YES
+2,99917,african american,5,female,11290,NO
+4,76963,african american,16,female,35974,NO
+5,39223,african american,45,male,46804,NO
+6,78895,hispanic,13,male,86460,YES
+6,84349,african american,48,female,83968,YES
+1,88314,other,42,male,67943,NO
+9,65377,other,16,female,46126,YES
+7,81833,hispanic,35,female,46351,YES
+2,51172,hispanic,6,female,82791,NO
+9,90016,asian,48,female,36160,YES
+2,82957,african american,56,male,26058,NO
+10,96030,other,27,female,27597,YES
+5,41091,other,56,female,42544,NO
+5,96620,other,55,female,63612,NO
+10,33206,other,54,male,47307,YES
+8,89646,hispanic,51,male,59305,YES
+9,35684,african american,56,female,90561,YES
+6,12948,african american,35,male,53362,YES
+4,34980,african american,22,male,67741,NO
+7,43459,other,57,female,35584,YES
+3,50792,other,39,female,70169,NO
+8,76698,asian,33,male,81536,YES
+7,27337,hispanic,52,female,60872,YES
+9,27063,hispanic,47,male,29735,YES
+6,34047,african american,41,female,11362,YES
+4,99967,other,46,female,86937,NO
+9,49168,caucasian,31,male,80146,YES
+9,78227,other,3,female,43119,YES
+10,21069,hispanic,54,female,62992,YES
+4,75599,caucasian,0,female,53166,NO
+9,69769,hispanic,4,female,10727,YES
+9,25287,hispanic,7,female,71330,YES
+3,83129,asian,11,female,78031,NO
+6,22907,asian,16,male,87060,YES
+8,87206,asian,24,female,94331,YES
+1,16883,asian,50,male,45904,NO
+6,22108,hispanic,43,female,99857,YES
+5,94006,caucasian,30,female,40809,NO
+6,64947,caucasian,7,female,29010,YES
+8,9325,african american,56,male,22132,YES
+9,45821,asian,2,male,74386,YES
+6,71222,caucasian,26,female,45009,YES
+7,14762,caucasian,38,male,66339,YES
+9,47158,hispanic,22,male,63775,YES
+4,51239,other,51,male,68014,NO
+4,70184,caucasian,38,female,59248,NO
+5,46922,hispanic,54,female,43276,NO
+5,14086,asian,6,female,79520,NO
+9,62559,caucasian,44,female,47525,YES
+1,93723,hispanic,24,male,45449,NO
+4,55535,hispanic,11,female,92162,NO
+4,23520,asian,38,female,12116,NO
+4,13042,caucasian,45,female,97260,NO
+4,21751,other,48,male,95365,NO
+8,37088,hispanic,35,female,77631,YES
+6,99622,other,59,female,10403,YES
+1,96063,caucasian,6,female,19546,NO
+5,16670,asian,25,male,51776,NO
+3,77253,hispanic,12,female,47382,NO
+3,97511,african american,4,female,63678,NO
+9,82730,asian,45,male,79002,YES
+5,17746,other,55,female,66964,NO
+5,96738,african american,37,male,47920,NO
+10,70696,asian,52,female,46118,YES
+5,82169,hispanic,32,male,91316,NO
+1,61094,caucasian,29,male,27836,NO
+10,82433,hispanic,58,male,62823,YES
+5,32247,other,60,female,31662,NO
+9,78493,hispanic,49,female,30383,YES
+3,16982,asian,7,female,93764,NO
+8,32820,other,36,male,75439,YES
+4,11089,other,24,female,84724,NO
+1,22936,other,4,male,18099,NO
+9,72427,african american,5,female,43505,YES
+5,17043,hispanic,46,male,49678,NO
+5,97331,other,47,male,58418,NO
+2,81922,asian,57,male,66638,NO
+2,74524,other,9,male,99301,NO
+7,75011,asian,25,male,74704,YES
+4,46295,hispanic,12,male,60472,NO
+6,91013,african american,36,female,78029,YES
+8,33241,other,50,female,31341,YES
+7,38514,caucasian,36,male,48071,YES
+9,72692,other,43,female,34277,YES
+6,95851,other,20,male,89805,YES
+8,83059,asian,54,male,99858,YES
+9,91728,hispanic,3,female,76925,YES
+7,70039,asian,33,male,94025,YES
+2,24310,other,9,female,87331,NO
+7,52922,caucasian,33,female,98197,YES
+6,70854,caucasian,35,female,65841,YES
+3,18788,hispanic,46,female,53012,NO
+3,20676,hispanic,47,male,88906,NO
+5,36572,caucasian,14,female,81218,NO
+8,23611,hispanic,17,female,58441,YES
+10,80514,asian,45,female,21631,YES
+1,96793,african american,35,male,71622,NO
+9,96989,asian,37,female,27752,YES
+6,40736,other,46,female,83402,YES
+3,75870,african american,49,female,11486,NO
+10,68348,caucasian,56,female,38411,YES
+4,67562,other,17,male,37156,NO
+2,64471,caucasian,48,female,62002,NO
+3,49365,african american,48,male,82573,NO
+6,88296,asian,1,female,67230,YES
+9,92395,african american,29,male,64165,YES
+2,27197,hispanic,57,male,70554,NO
+6,41988,hispanic,40,female,26050,YES
+10,35754,african american,33,female,87275,YES
+9,38022,other,32,female,52267,YES
+10,45021,asian,10,female,50236,YES
+5,18065,asian,28,male,38466,NO
+6,84058,african american,36,male,52358,YES
+8,17861,asian,41,male,32486,YES
+2,35560,hispanic,24,female,55851,NO
+6,23371,hispanic,13,female,62586,YES
+8,33774,other,13,male,76243,YES
+2,28095,asian,16,male,99292,NO
+6,64307,asian,54,male,30484,YES
+7,67695,hispanic,50,male,41986,YES
+3,49753,asian,36,male,79822,NO
+5,51251,other,22,male,37553,NO
+10,41439,hispanic,41,female,65789,YES
+9,78873,other,24,female,31031,YES
+4,73823,caucasian,32,female,79406,NO
+6,99697,asian,13,male,12275,YES
+1,80803,asian,46,female,59578,NO
+7,75834,asian,57,female,85597,YES
+4,71024,other,39,male,19889,NO
+9,83447,other,39,female,73526,YES
+6,73507,asian,14,female,23731,YES
+10,58995,hispanic,34,female,22094,YES
+6,53037,other,55,female,88622,YES
+2,67883,asian,11,female,64349,NO
+4,27205,other,25,male,18784,NO
+1,18365,caucasian,8,male,15397,NO
+7,33213,caucasian,33,male,42334,YES
+7,13641,asian,45,female,94362,YES
+2,63198,caucasian,48,male,71400,NO
+7,46439,african american,35,male,67816,YES
+8,34224,asian,27,female,84794,YES
+2,50555,hispanic,15,female,50119,NO
+4,16242,african american,33,female,43165,NO
+10,84047,caucasian,41,female,75890,YES
+6,26153,asian,28,female,14364,YES
+6,21288,african american,47,female,50676,YES
+6,16008,asian,43,male,32701,YES
+10,44076,asian,53,male,95100,YES
+3,91634,asian,23,female,67702,NO
+7,25625,hispanic,53,female,24031,YES
+6,23358,african american,3,male,85859,YES
+2,40382,hispanic,56,female,45145,NO
+7,74215,other,45,male,71627,YES
+6,97989,caucasian,27,female,92606,YES
+8,96293,asian,57,male,60096,YES
+2,23822,african american,52,male,70569,NO
+8,45310,asian,38,female,16980,YES
+3,13172,hispanic,59,male,39337,NO
+9,23522,other,39,male,57856,YES
+9,9611,african american,14,female,66289,YES
+6,71323,asian,20,male,43772,YES
+10,10931,other,18,female,86337,YES
+10,16773,asian,5,male,85515,YES
+2,74037,african american,3,female,94401,NO
+4,98905,caucasian,37,male,60765,NO
+7,49080,african american,35,male,57389,YES
+10,78855,hispanic,29,male,73869,YES
+3,13125,hispanic,34,male,30082,NO
+9,98601,other,10,female,61908,YES
+6,88130,hispanic,12,male,98765,YES
+2,84610,caucasian,58,male,13147,NO
+7,66893,caucasian,29,male,27838,YES
+5,10363,asian,6,female,76744,NO
+1,89185,other,36,female,55536,NO
+9,76319,hispanic,3,female,77013,YES
+5,55629,other,20,male,51576,NO
+4,57698,african american,28,female,23192,NO
+1,38881,caucasian,36,female,47743,NO
+9,38039,hispanic,18,male,27031,YES
+6,9003,hispanic,52,male,73218,YES
+7,45441,hispanic,35,female,57801,YES
+2,15380,asian,15,female,76771,NO
+8,98324,asian,42,male,64338,YES
+7,54572,other,38,male,24070,YES
+2,24876,african american,50,female,52791,NO
+4,13330,hispanic,19,male,73880,NO
+7,87518,asian,49,female,80198,YES
+5,97706,asian,1,male,86516,NO
+3,14709,caucasian,21,male,80215,NO
+3,31903,hispanic,1,female,44072,NO
+2,85513,hispanic,43,male,74436,NO
+8,17596,caucasian,59,male,61297,YES
+10,47930,hispanic,0,male,35831,YES
+7,14756,african american,36,female,69213,YES
+7,78936,asian,4,male,14165,YES
+9,36394,caucasian,4,male,41208,YES
+4,53588,hispanic,41,female,56598,NO
+10,85953,hispanic,41,male,25130,YES
+4,98179,asian,12,female,35362,NO
+10,43872,other,5,male,22324,YES
+10,19013,other,21,male,77784,YES
+3,84421,caucasian,38,female,24690,NO
+3,99127,other,56,female,44837,NO
+7,43851,caucasian,16,male,98340,YES
+3,10978,hispanic,28,female,21817,NO
+7,28188,asian,20,male,43530,YES
+7,87442,hispanic,49,female,51259,YES
+2,28939,asian,41,female,25983,NO
+10,82921,african american,44,male,71006,YES
+8,97098,hispanic,6,female,64437,YES
+9,69301,african american,33,female,95656,YES
+8,12414,african american,29,male,56440,YES
+5,55129,asian,40,male,24296,NO
+2,79993,hispanic,36,male,11268,NO
+2,34889,caucasian,6,male,17729,NO
+10,95563,caucasian,45,female,41755,YES
+7,99188,other,22,female,70235,YES
+5,84874,asian,32,female,29560,NO
+7,75463,hispanic,45,male,17195,YES
+2,92644,other,24,male,23846,NO
+6,79053,hispanic,32,female,33246,YES
+10,54259,african american,38,female,13431,YES
+8,25322,african american,38,male,88250,YES
+9,70436,asian,44,male,85185,YES
+5,98356,african american,32,male,64861,NO
+4,76998,caucasian,26,male,21960,NO
+10,98561,hispanic,59,male,33873,YES
+7,84274,hispanic,53,female,29231,YES
+9,46821,other,58,female,56551,YES
+5,55762,hispanic,18,female,52161,NO
+6,95804,asian,51,male,83459,YES
+5,61830,african american,54,male,95852,NO
+7,63784,asian,39,female,53365,YES
+10,53727,asian,7,male,99808,YES
+1,70554,hispanic,33,male,88434,NO
+9,60292,hispanic,49,female,32278,YES
+3,96033,asian,42,female,17796,NO
+9,56327,african american,3,male,28186,YES
+2,51604,asian,59,male,71049,NO
+8,35424,other,31,female,29394,YES
+8,62453,asian,54,male,80882,YES
+1,91984,african american,34,male,79714,NO
+6,42428,asian,0,female,54607,YES
+8,56063,african american,0,female,14108,YES
+3,9599,other,38,female,60962,NO
+7,19781,caucasian,27,male,61308,YES
+1,69490,asian,29,male,76412,NO
+10,80819,caucasian,22,male,95074,YES
+8,85136,asian,17,female,72156,YES
+4,61266,other,5,female,93313,NO
+4,53680,hispanic,45,female,89841,NO
+7,86301,other,24,female,76857,YES
+10,84530,caucasian,36,female,46511,YES
+5,29230,caucasian,8,female,65791,NO
+7,27634,caucasian,18,male,81595,YES
+5,67188,other,14,male,93091,NO
+4,27229,hispanic,43,female,18257,NO
+4,13578,asian,50,male,22305,NO
+6,40437,asian,55,male,63271,YES
+8,63168,hispanic,45,male,71064,YES
+8,36995,african american,48,female,29945,YES
+10,75857,african american,24,female,29711,YES
+1,16224,african american,57,female,70124,NO
+2,18686,african american,51,female,56886,NO
+4,29116,other,22,male,75002,NO
+5,18618,african american,46,male,95149,NO
+1,75349,african american,33,female,96513,NO
+3,48997,other,12,female,40939,NO
+8,13402,caucasian,59,male,37228,YES
+1,86812,african american,26,female,80976,NO
+2,19590,african american,46,female,94963,NO
+7,45873,caucasian,42,male,51001,YES
+5,37020,asian,60,male,48580,NO
+5,44509,caucasian,43,male,48005,NO
+5,99772,african american,12,male,36338,NO
+3,20416,asian,35,female,70452,NO
+4,31864,caucasian,19,male,84517,NO
+8,25501,caucasian,21,male,42067,YES
+5,69681,hispanic,10,female,94953,NO
+7,57332,hispanic,32,female,65076,YES
+5,31767,hispanic,49,female,56524,NO
+2,37815,african american,44,female,73069,NO
+9,65353,asian,49,female,45470,YES
+3,48380,caucasian,33,female,34166,NO
+1,19717,asian,39,male,64218,NO
+1,41580,asian,26,male,57562,NO
+4,14250,asian,0,male,18187,NO
+5,64247,african american,54,female,29457,NO
+1,54912,caucasian,56,female,34100,NO
+7,37047,african american,0,female,19122,YES
+6,23148,african american,20,female,48980,YES
+7,81598,asian,4,male,11966,YES
+10,62772,african american,41,male,34958,YES
+9,23573,asian,12,male,26382,YES
+3,26925,asian,47,male,50380,NO
+6,28326,asian,45,male,14513,YES
+9,88331,african american,36,male,57527,YES
+9,84585,caucasian,54,male,86870,YES
+2,44455,caucasian,27,female,52723,NO
+3,74628,hispanic,42,male,40714,NO
+5,88338,caucasian,45,male,64698,NO
+7,81364,asian,8,male,65533,YES
+7,50453,african american,16,female,67469,YES
+6,97196,other,47,male,64635,YES
+4,93456,hispanic,17,female,26297,NO
+7,47319,african american,59,female,52701,YES
+9,34733,african american,19,female,81464,YES
+2,28307,asian,53,female,13671,NO
+8,38344,other,1,female,87934,YES
+8,69648,other,0,female,87713,YES
+10,31826,asian,34,female,34750,YES
+5,61147,asian,10,female,81426,NO
+4,74984,hispanic,36,male,53601,NO
+9,32783,african american,23,male,29139,YES
+9,96089,other,34,male,28818,YES
+1,27203,asian,21,female,57702,NO
+4,49997,caucasian,37,male,31402,NO
+5,80149,caucasian,21,female,31150,NO
+9,66026,asian,58,male,35291,YES
+5,96998,hispanic,1,male,74404,NO
+2,93662,caucasian,46,male,27259,NO
+9,45728,hispanic,49,male,97162,YES
+7,34031,caucasian,43,male,11304,YES
+2,12585,asian,13,female,98735,NO
+5,18105,hispanic,31,male,57129,NO
+10,48364,asian,16,female,99152,YES
+9,9885,asian,42,male,50476,YES
+8,94826,asian,25,male,88981,YES
+7,38362,other,7,male,38020,YES
+3,37721,other,46,male,58038,NO
+6,64762,asian,21,male,16863,YES
+3,40236,caucasian,45,female,90654,NO
+2,33659,hispanic,44,female,53766,NO
+3,75384,asian,29,male,44743,NO
+1,49485,asian,37,female,64925,NO
+3,64589,hispanic,44,female,96039,NO
+1,79576,african american,60,male,41499,NO
+7,77059,caucasian,60,male,39576,YES
+3,98158,caucasian,45,female,84983,NO
+6,56045,hispanic,32,male,13642,YES
+3,91483,asian,49,male,45167,NO
+5,14040,asian,11,female,31978,NO
+5,38027,african american,8,male,23494,NO
+3,38018,asian,58,male,56591,NO
+4,68718,hispanic,6,female,75391,NO
+5,41357,african american,9,male,76021,NO
+10,11741,african american,6,male,98471,YES
+4,27139,african american,14,male,41788,NO
+2,78355,african american,49,female,76352,NO
+5,63750,african american,15,female,52032,NO
+3,99267,hispanic,26,male,22707,NO
+5,58539,asian,20,male,34115,NO
+5,77548,asian,51,male,20560,NO
+2,91586,asian,48,female,39364,NO
+9,50410,asian,30,female,62294,YES
+2,48636,other,8,male,14736,NO
+7,96174,hispanic,38,female,25927,YES
+7,52570,african american,53,male,67518,YES
+9,33552,other,2,male,85815,YES
+1,61644,african american,31,male,42336,NO
+5,42733,asian,44,female,90027,NO
+9,32568,other,22,female,39615,YES
+3,68540,hispanic,22,female,79578,NO
+6,45278,african american,14,female,31155,YES
+6,69201,hispanic,43,female,41126,YES
+8,36969,hispanic,22,female,11268,YES
+3,17961,african american,16,female,20094,NO
+8,87375,hispanic,20,male,90402,YES
+4,30408,hispanic,29,male,23059,NO
+5,13246,asian,39,male,56056,NO
+1,20038,caucasian,30,female,99566,NO
+9,96863,caucasian,30,male,38750,YES
+9,41857,hispanic,35,female,31521,YES
+4,9399,african american,42,female,33780,NO
+4,94255,african american,39,female,40615,NO
+7,74260,other,5,female,54663,YES
+5,25883,caucasian,5,male,18161,NO
+9,35814,asian,19,female,95651,YES
+5,47047,asian,18,female,99473,NO
+2,9495,other,49,male,39769,NO
+8,82392,asian,54,male,98009,YES
+8,18896,caucasian,23,male,46243,YES
+7,20106,african american,46,female,77196,YES
+8,39865,african american,43,male,47321,YES
+6,10155,other,0,male,70313,YES
+2,27984,hispanic,14,female,72436,NO
+2,29026,caucasian,36,male,91364,NO
+4,65517,african american,23,male,31088,NO
+8,39831,african american,51,female,89129,YES
+8,96255,other,28,male,54735,YES
+4,99493,other,55,male,87051,NO
+3,23413,other,40,female,28308,NO
+6,73617,other,44,male,22026,YES
+8,9446,caucasian,26,female,49609,YES
+3,13210,caucasian,2,male,99971,NO
+3,10771,asian,25,female,47995,NO
+1,91050,other,9,male,34247,NO
+7,50622,hispanic,2,male,55286,YES
+1,81247,caucasian,51,male,55771,NO
+6,16667,caucasian,20,female,10324,YES
+10,76726,hispanic,13,male,82794,YES
+10,78231,hispanic,4,female,74091,YES
+4,15260,caucasian,7,female,48808,NO
+4,48667,caucasian,44,male,63280,NO
+9,21174,other,58,male,76354,YES
+9,72243,african american,27,male,54855,YES
+5,73464,other,49,female,18659,NO
+1,30010,hispanic,11,male,42888,NO
+8,79099,asian,7,female,80061,YES
+3,39732,hispanic,46,male,72769,NO
+4,60508,african american,51,male,62423,NO
+4,83200,caucasian,25,female,27210,NO
+5,27789,caucasian,21,female,15434,NO
+10,88380,other,17,female,91783,YES
+8,27453,hispanic,26,male,53408,YES
+9,80227,african american,3,female,40724,YES
+8,16606,other,48,female,38209,YES
+7,74304,asian,50,female,51357,YES
+2,23538,other,55,female,61061,NO
+6,54656,hispanic,55,male,31741,YES
+1,24159,asian,0,female,93646,NO
+4,42280,hispanic,59,male,36769,NO
+7,91181,other,30,female,81554,YES
+2,35807,other,19,male,99752,NO
+3,13592,hispanic,38,male,66763,NO
+7,78206,other,55,female,10425,YES
+2,17444,african american,42,female,70488,NO
+6,74892,hispanic,42,female,45514,YES
+10,10292,caucasian,39,female,30109,YES
+9,69587,asian,39,female,30409,YES
+4,89279,hispanic,10,male,87312,NO
+6,69183,caucasian,53,male,23274,YES
+10,30193,hispanic,30,male,29713,YES
+5,23972,hispanic,29,female,97925,NO
+10,93069,other,12,male,16789,YES
+1,26384,african american,28,male,10204,NO
+9,48433,asian,32,female,36695,YES
+3,82951,caucasian,6,male,33555,NO
+4,26624,african american,3,male,51919,NO
+10,98420,hispanic,25,male,42997,YES
+5,58670,caucasian,8,male,95430,NO
+7,66544,asian,8,male,35079,YES
+3,63005,hispanic,20,male,37271,NO
+2,27525,caucasian,30,female,82687,NO
+5,91509,african american,5,female,35072,NO
+9,95427,african american,46,male,40375,YES
+3,85185,asian,10,female,19410,NO
+10,69543,other,18,female,20642,YES
+5,53462,asian,28,male,33987,NO
+8,64487,asian,56,male,35643,YES
+1,24239,caucasian,60,male,37540,NO
+4,25883,other,37,female,22820,NO
+7,94797,african american,59,male,39452,YES
+3,78612,hispanic,47,male,94286,NO
+3,69961,caucasian,13,female,13309,NO
+4,37084,hispanic,58,female,43355,NO
+10,98410,other,5,male,28566,YES
+7,64828,hispanic,9,female,71613,YES
+4,92879,hispanic,17,male,11930,NO
+8,58357,african american,13,male,85680,YES
+5,10415,asian,27,male,54161,NO
+2,60218,caucasian,13,female,40688,NO
+1,74247,other,51,male,80570,NO
+4,97647,caucasian,46,male,42247,NO
+8,94120,caucasian,2,male,42934,YES
+7,17687,other,16,male,15652,YES
+9,30366,other,49,female,21656,YES
+1,39636,african american,54,female,88437,NO
+1,64946,hispanic,17,female,20646,NO
+2,73763,hispanic,6,male,47813,NO
+6,39677,african american,41,male,43623,YES
+9,30939,hispanic,17,female,62670,YES
+2,15770,asian,32,female,40127,NO
+9,56643,other,25,female,99950,YES
+1,66793,caucasian,51,female,76498,NO
+5,72567,asian,50,male,28395,NO
+1,21414,asian,29,female,77638,NO
+2,57361,hispanic,23,female,77634,NO
+1,56722,caucasian,54,female,13722,NO
+5,33877,caucasian,26,male,47540,NO
+5,92624,hispanic,39,male,68103,NO
+3,81074,other,1,male,41886,NO
+2,79056,other,47,female,98891,NO
+5,24213,caucasian,55,female,30219,NO
+9,59443,asian,28,male,56348,YES
+6,80571,african american,20,male,67377,YES
+8,48555,african american,54,male,96011,YES
+3,44550,caucasian,50,female,92340,NO
+1,69084,asian,31,male,61784,NO
+7,17516,african american,21,male,16921,YES
+3,38560,asian,52,female,82354,NO
+10,86182,asian,43,female,70447,YES
+10,98316,asian,3,male,23045,YES
+3,69664,asian,53,female,46025,NO
+3,90050,asian,28,female,89489,NO
+6,57618,other,6,female,27388,YES
+8,12375,caucasian,5,male,84348,YES
+8,72001,caucasian,12,female,29684,YES
+9,29520,hispanic,45,male,90841,YES
+10,15102,asian,53,male,41348,YES
+3,62059,caucasian,20,male,39922,NO
+5,80844,asian,50,female,67456,NO
+5,15782,hispanic,21,male,13936,NO
+10,53867,caucasian,11,male,21172,YES
+7,45117,hispanic,51,male,70196,YES
+5,39242,hispanic,44,male,70673,NO
+2,32951,african american,53,female,40057,NO
+4,65948,african american,30,female,35793,NO
+7,81019,hispanic,45,male,37094,YES
+6,72186,other,16,female,84721,YES
+4,86438,caucasian,59,female,83179,NO
+2,43394,other,48,female,73060,NO
+7,93519,hispanic,17,female,52469,YES
+4,39196,african american,11,female,53797,NO
+4,75256,caucasian,5,female,55338,NO
+7,80164,asian,14,male,94343,YES
+5,64042,african american,51,male,18368,NO
+3,95631,asian,26,male,54441,NO
+9,90881,african american,2,male,68289,YES
+3,56257,other,29,male,10652,NO
+1,20077,hispanic,8,female,94838,NO
+1,88774,asian,3,male,59853,NO
+8,96278,hispanic,24,female,28538,YES
+5,49788,asian,17,male,66993,NO
+6,34740,asian,54,female,94615,YES
+4,50883,other,4,male,77687,NO
+10,59444,other,10,male,32152,YES
+10,59675,african american,45,male,25182,YES
+7,38715,asian,28,male,54123,YES
+6,38093,african american,45,female,61581,YES
+5,43318,asian,45,female,58239,NO
+6,97499,caucasian,11,male,72731,YES
+2,32951,hispanic,1,female,74080,NO
+10,44585,asian,33,male,66170,YES
+8,95718,hispanic,43,female,98401,YES
+4,10148,other,23,female,93174,NO
+4,48962,african american,47,female,50901,NO
+9,11588,caucasian,7,female,10379,YES
+3,79867,caucasian,23,female,41253,NO
+8,49266,other,8,female,79155,YES
+10,94304,caucasian,55,male,39286,YES
+4,20635,african american,10,male,28552,NO
+9,28847,other,24,female,39978,YES
+5,71272,hispanic,0,male,91396,NO
+2,34735,caucasian,53,female,22299,NO
+3,41777,other,1,female,94775,NO
+7,38821,other,56,female,95105,YES
+6,92129,asian,23,female,23629,YES
+5,54206,hispanic,1,male,70706,NO
+7,66217,caucasian,19,male,21564,YES
+9,19317,other,48,female,88587,YES
+1,96980,hispanic,17,male,73587,NO
+2,71808,hispanic,40,male,21445,NO
+4,96363,asian,53,male,59342,NO
+3,77781,african american,33,female,92656,NO
+9,45432,african american,34,female,82703,YES
+5,76947,hispanic,23,male,11139,NO
+7,57202,other,24,male,24736,YES
+6,55438,asian,34,female,51552,YES
+9,38403,asian,46,male,22947,YES
+6,62824,other,60,male,20210,YES
+10,74945,asian,11,male,65759,YES
+1,44703,other,26,male,46183,NO
+7,96503,asian,12,male,76313,YES
+3,67061,caucasian,43,male,27420,NO
+4,74379,hispanic,20,male,12780,NO
+4,50369,other,5,female,43420,NO
+6,9144,caucasian,42,female,47853,YES
+10,66089,caucasian,41,female,84851,YES
+4,65514,other,25,male,52590,NO
+6,55316,asian,20,male,12539,YES
+8,83346,caucasian,14,female,69624,YES
+9,87187,other,0,male,49004,YES
+2,84150,african american,35,female,77172,NO
+1,38568,other,25,female,16817,NO
+9,21132,asian,27,female,25935,YES
+2,69840,african american,1,male,21552,NO
+6,52229,hispanic,22,female,71225,YES
+3,88484,hispanic,30,male,99899,NO
+2,23157,asian,16,male,76421,NO
+6,52572,hispanic,51,male,57973,YES
+2,78585,asian,4,male,47406,NO
+9,80096,asian,51,male,53360,YES
+8,96069,hispanic,57,female,52956,YES
+1,86695,caucasian,48,male,55425,NO
+9,76909,african american,52,male,19330,YES
+4,37554,hispanic,1,male,66320,NO
+10,91269,caucasian,11,female,92333,YES
+8,24540,african american,56,female,90950,YES
+2,10077,caucasian,42,male,42232,NO
+8,87372,caucasian,7,male,17308,YES
+4,45031,hispanic,15,male,83190,NO
+6,47770,caucasian,29,female,11804,YES
+10,79201,hispanic,55,female,60145,YES
+7,51619,other,58,female,43905,YES
+8,20596,caucasian,4,male,27168,YES
+8,60009,other,9,female,20045,YES
+4,29848,asian,23,female,62776,NO
+6,37768,african american,50,male,76607,YES
+1,79841,hispanic,48,female,45369,NO
+10,49394,asian,10,female,21214,YES
+5,80359,hispanic,24,male,63106,NO
+4,83783,hispanic,27,female,20548,NO
+3,37463,caucasian,59,male,20590,NO
+2,17610,other,17,female,24010,NO
+2,63075,other,5,female,85625,NO
+6,57510,african american,17,male,64482,YES
+8,19865,hispanic,32,male,85981,YES
+6,40797,african american,17,male,90397,YES
+9,72812,other,37,female,54530,YES
+6,56012,african american,54,female,25226,YES
+8,80886,other,21,male,50588,YES
+1,63914,hispanic,40,male,48383,NO
+3,19135,hispanic,50,male,87611,NO
+2,14556,caucasian,45,male,24762,NO
+7,90465,asian,12,female,55819,YES
+10,93946,hispanic,26,male,18502,YES
+1,34459,hispanic,14,female,41005,NO
+1,36873,caucasian,25,female,53675,NO
+10,68136,caucasian,29,male,75921,YES
+6,42500,other,31,female,97072,YES
+10,10108,caucasian,42,male,90472,YES
+7,63769,hispanic,25,male,70181,YES
+1,10309,african american,39,female,13184,NO
+1,30943,other,49,female,18511,NO
+1,29370,other,49,male,33117,NO
+3,23615,hispanic,12,female,86606,NO
+10,16039,asian,54,male,22545,YES
+2,86749,asian,3,female,43586,NO
+9,18056,other,36,male,42808,YES
+10,10265,african american,12,female,44911,YES
+8,87707,african american,44,female,74615,YES
+2,52324,african american,46,male,37394,NO
+6,96876,african american,23,male,91437,YES
+10,69289,caucasian,56,female,90377,YES
+10,71083,hispanic,35,female,11068,YES
+7,82014,hispanic,1,male,74022,YES
+5,78978,african american,41,male,36951,NO
+4,22149,asian,29,female,50512,NO
+5,79589,other,35,female,38389,NO
+6,90229,african american,40,female,92827,YES
+5,73363,hispanic,18,female,91768,NO
+1,32768,caucasian,32,female,62552,NO
+9,46889,caucasian,32,female,24237,YES
+3,50314,hispanic,15,female,45895,NO
+5,51602,asian,30,male,94985,NO
+5,46283,african american,22,female,12237,NO
+2,63949,african american,35,male,39256,NO
+5,99065,african american,40,male,56282,NO
+1,17303,asian,8,female,90255,NO
+10,63099,asian,0,male,86570,YES
+8,87652,asian,53,female,79866,YES
+9,38952,hispanic,59,male,69633,YES
+9,79045,other,2,female,89647,YES
+6,85340,asian,21,female,99266,YES
+4,95788,caucasian,17,male,42784,NO
+3,84514,caucasian,31,male,19819,NO
+5,37052,caucasian,38,male,25121,NO
+8,9644,asian,16,male,71552,YES
+3,95513,caucasian,14,female,43298,NO
+9,28411,african american,18,female,72619,YES
+4,25501,caucasian,41,female,89210,NO
+6,77012,asian,2,male,48541,YES
+2,77534,caucasian,47,female,42239,NO
+9,43167,hispanic,31,male,30232,YES
+1,72461,asian,36,female,26075,NO
+7,43896,african american,52,male,36278,YES
+9,18604,african american,58,female,65408,YES
+4,58358,hispanic,28,female,74566,NO
+6,76071,other,48,female,16869,YES
+6,79736,other,21,female,99971,YES
+5,70502,caucasian,15,male,57024,NO
+3,89346,hispanic,1,female,51527,NO
+5,36326,caucasian,52,male,76752,NO
+4,94175,african american,45,female,34924,NO
+7,41757,african american,22,male,90160,YES
+4,44639,asian,38,female,11354,NO
+5,65106,african american,8,male,95168,NO
+5,93866,caucasian,51,male,91037,NO
+7,78309,caucasian,3,male,25815,YES
+5,14479,other,18,female,57438,NO
+3,78914,asian,53,male,27546,NO
+4,68087,other,40,male,38773,NO
+8,83814,hispanic,4,female,29681,YES
+1,92556,caucasian,38,male,53951,NO
+3,28003,asian,27,male,49765,NO
+6,37858,hispanic,59,male,12137,YES
+9,57671,asian,30,female,11487,YES
+7,27618,other,25,male,73113,YES
+7,60687,asian,50,male,78685,YES
+6,91649,hispanic,56,male,29834,YES
+5,83455,hispanic,10,female,75707,NO
+2,48644,caucasian,56,male,85213,NO
+5,25785,caucasian,37,male,32213,NO
+7,82743,caucasian,14,female,63458,YES
+3,78918,hispanic,19,male,44303,NO
+1,80082,african american,52,female,50206,NO
+6,44848,caucasian,21,female,26867,YES
+7,75277,asian,35,female,54735,YES
+8,51752,other,35,female,58653,YES
+8,61044,caucasian,41,female,30796,YES
+8,27434,caucasian,23,female,92120,YES
+1,78438,other,34,female,85208,NO
+3,22705,hispanic,14,female,51139,NO
+3,16044,hispanic,8,male,93932,NO
+9,25056,hispanic,46,male,72509,YES
+10,70349,african american,11,female,27759,YES
+7,96632,other,8,male,12120,YES
+9,23541,other,22,female,55874,YES
+8,29870,asian,47,male,81352,YES
+6,23725,african american,16,male,22685,YES
+1,38220,african american,10,male,67303,NO
+10,51920,other,5,female,85672,YES
+7,48456,asian,30,male,42609,YES
+10,80928,hispanic,30,male,14037,YES
+7,67113,african american,51,female,15754,YES
+10,11671,other,45,male,91046,YES
+9,98308,other,21,male,19981,YES
+2,16926,hispanic,57,male,75902,NO
+10,67616,caucasian,19,female,69205,YES
+4,90696,hispanic,35,female,57035,NO
+6,90919,other,33,male,37622,YES
+6,24767,hispanic,13,male,79836,YES
+7,89257,hispanic,33,male,10148,YES
+7,50889,asian,51,male,64183,YES
+3,66390,caucasian,42,female,22317,NO
+7,82597,asian,13,male,27063,YES
+2,11061,hispanic,26,female,90226,NO
+6,41107,hispanic,37,female,16999,YES
+2,82072,other,42,male,81173,NO
+8,53403,african american,24,female,93648,YES
+3,27952,hispanic,45,male,81485,NO
+5,96485,hispanic,36,female,51571,NO
+5,96102,hispanic,37,male,65227,NO
+2,10207,caucasian,55,female,85569,NO
+2,24430,asian,0,female,24797,NO
+6,83773,african american,3,female,28571,YES
+6,51164,caucasian,17,male,14640,YES
+2,41271,asian,40,female,16863,NO
+5,28694,caucasian,2,male,81523,NO
+5,64730,other,15,male,25595,NO
+10,63453,caucasian,0,female,78230,YES
+4,23669,asian,41,female,65788,NO
+2,98371,other,32,female,48458,NO
+6,87643,asian,17,female,49185,YES
+3,62202,asian,13,female,48609,NO
+4,27482,other,34,female,54451,NO
+1,9816,caucasian,57,female,27623,NO
+10,19827,caucasian,33,female,81675,YES
+3,49850,other,27,male,48264,NO
+9,20435,asian,47,female,35619,YES
+2,39576,other,19,female,84856,NO
+10,62181,other,51,male,15038,YES
+9,55310,asian,60,female,80024,YES
+9,74020,other,24,female,64528,YES
+8,62009,caucasian,11,female,49744,YES
+4,34517,asian,55,female,71256,NO
+8,92750,african american,40,female,94627,YES
+6,96153,african american,44,female,37234,YES
+4,10262,other,8,male,89050,NO
+4,98025,caucasian,42,female,98487,NO
+8,72440,caucasian,30,female,82567,YES
+7,24300,other,40,male,43280,YES
+9,20680,caucasian,2,female,47217,YES
+3,14945,african american,22,male,30340,NO
+6,79890,asian,34,male,30310,YES
+2,16643,other,22,male,34328,NO
+9,97257,caucasian,27,male,16931,YES
+6,24571,asian,46,male,13081,YES
+7,42557,caucasian,58,male,80851,YES
+9,42549,hispanic,30,female,83980,YES
+9,62121,caucasian,39,female,92396,YES
+6,46684,asian,42,female,91058,YES
+1,12735,asian,8,male,91165,NO
+1,26942,caucasian,18,female,51552,NO
+9,55401,hispanic,9,female,98120,YES
+7,15247,african american,31,male,94245,YES
+6,41155,caucasian,18,male,63313,YES
+6,58510,other,12,male,18582,YES
+10,48551,other,46,female,49100,YES
+1,24044,hispanic,35,male,16836,NO
+9,17598,asian,55,male,64544,YES
+2,42404,asian,54,male,85059,NO
+2,51453,hispanic,60,male,13886,NO
+8,66842,other,16,female,24271,YES
+9,57750,other,18,male,30929,YES
+1,73687,asian,2,male,88300,NO
+7,15401,hispanic,13,female,81559,YES
+5,27479,african american,52,female,31469,NO
+1,46002,asian,36,female,68901,NO
+1,45322,african american,28,male,23420,NO
+10,77184,hispanic,36,male,92471,YES
+5,43906,asian,9,male,86227,NO
+5,70964,african american,51,female,36600,NO
+3,40353,asian,19,female,27633,NO
+1,53572,african american,12,male,86496,NO
+10,45010,other,5,male,86335,YES
+4,84907,asian,9,female,11550,NO
+6,34336,asian,11,male,55327,YES
+9,12294,asian,57,female,91544,YES
+2,14448,other,24,female,10336,NO
+5,29270,asian,26,female,28561,NO
+4,67338,caucasian,16,female,52227,NO
+5,76979,caucasian,14,male,55757,NO
+10,36666,caucasian,59,female,36537,YES
+8,57638,caucasian,20,male,73257,YES
+7,47712,other,60,male,69575,YES
+2,39762,caucasian,25,male,61343,NO
+6,94814,caucasian,51,female,43165,YES
+10,80382,african american,16,male,39906,YES
+10,72362,african american,8,female,89509,YES
+1,32827,caucasian,8,male,76997,NO
+10,43009,caucasian,7,male,59239,YES
+4,24898,asian,10,male,17808,NO
+10,95685,caucasian,60,male,92667,YES
+4,79160,african american,60,male,59635,NO
+8,20146,hispanic,34,female,29501,YES
+1,68557,other,43,female,39397,NO
+6,56388,caucasian,4,female,16582,YES
+1,29422,other,9,male,16278,NO
+5,48874,african american,39,female,12167,NO
+7,20725,caucasian,4,male,49909,YES
+6,79300,african american,49,male,82550,YES
+2,84037,asian,11,female,33876,NO
+10,94213,hispanic,21,male,86196,YES
+8,90406,african american,22,female,18536,YES
+4,15402,african american,25,female,27481,NO
+3,56462,african american,2,female,66166,NO
+2,31674,other,31,female,21729,NO
+1,57849,caucasian,56,male,94398,NO
+9,33954,african american,60,female,82834,YES
+9,81714,hispanic,33,male,35213,YES
+4,46326,caucasian,51,male,67536,NO
+9,48324,caucasian,37,male,22805,YES
+1,52388,other,9,female,68828,NO
+3,90623,hispanic,38,male,39473,NO
+5,75870,other,3,male,38096,NO
+6,62463,hispanic,59,male,43828,YES
+5,63137,caucasian,28,female,47186,NO
+3,94355,caucasian,57,female,48244,NO
+3,54009,caucasian,4,male,88375,NO
+8,64997,caucasian,45,male,99027,YES
+6,61248,caucasian,23,male,52098,YES
+2,65144,other,32,female,21036,NO
+4,96838,african american,3,female,69861,NO
+1,90945,caucasian,57,male,58896,NO
+4,37627,other,6,male,12230,NO
+10,78301,other,9,female,67746,YES
+4,14833,asian,16,female,97223,NO
+9,26818,african american,0,male,88114,YES
+6,11001,hispanic,38,female,43309,YES
+6,86937,asian,46,male,85467,YES
+10,87380,other,26,male,70437,YES
+9,52653,asian,2,female,72585,YES
+10,68018,african american,15,female,38808,YES
+4,68112,asian,1,female,75790,NO
+8,16705,caucasian,44,female,41890,YES
+9,62499,other,51,female,65190,YES
+8,47829,caucasian,49,female,64378,YES
+1,63876,caucasian,3,female,20861,NO
+10,75936,hispanic,52,female,38728,YES
+1,62365,caucasian,34,male,28532,NO
+6,79679,other,42,female,46319,YES
+9,34742,african american,24,female,81030,YES
+1,54367,hispanic,57,female,97698,NO
+2,27512,other,23,female,34760,NO
+6,61181,other,24,female,58773,YES
+9,24975,other,28,male,29356,YES
+6,15617,asian,45,female,74659,YES
+2,63848,african american,34,male,15052,NO
+3,89404,asian,31,male,62027,NO
+7,97285,asian,56,male,66714,YES
+1,18715,hispanic,15,male,89094,NO
+4,26477,hispanic,44,male,11641,NO
+3,36528,hispanic,9,female,95780,NO
+3,83260,asian,22,male,47333,NO
+2,10968,asian,45,female,93294,NO
+1,63989,other,22,female,52464,NO
+8,53306,hispanic,25,female,68869,YES
+10,35011,hispanic,57,female,91079,YES
+6,88624,caucasian,43,male,55765,YES
+6,27443,other,0,female,21740,YES
+1,14064,other,43,male,82143,NO
+6,46006,caucasian,6,male,34744,YES
+10,38650,caucasian,15,female,66253,YES
+10,42251,caucasian,12,female,71042,YES
+10,90317,hispanic,31,female,62434,YES
+5,75306,caucasian,12,female,64827,NO
+5,20141,other,40,male,49857,NO
+2,69084,other,27,female,43321,NO
+9,12429,caucasian,0,female,91469,YES
+5,73707,african american,58,male,35217,NO
+2,21077,hispanic,13,female,78423,NO
+7,81996,hispanic,46,male,79167,YES
+1,32179,other,29,female,62421,NO
+3,42078,caucasian,51,female,58862,NO
+1,38975,hispanic,11,female,67905,NO
+10,19010,asian,37,female,28296,YES
+3,24080,other,46,male,22086,NO
+7,17321,african american,32,female,67214,YES
+6,37770,african american,28,male,12764,YES
+10,84745,caucasian,14,female,37481,YES
+7,93197,african american,54,male,57772,YES
+2,88708,african american,56,female,96098,NO
+2,52139,african american,37,male,33893,NO
+5,85919,asian,45,male,91575,NO
+4,34750,other,26,female,45691,NO
+3,26236,african american,4,female,40808,NO
+5,35136,hispanic,13,female,61729,NO
+7,69819,other,37,female,66320,YES
+4,17035,african american,59,male,95475,NO
+5,89207,caucasian,38,male,82031,NO
+1,61442,hispanic,7,male,96756,NO
+3,74693,caucasian,45,male,26705,NO
+10,51890,african american,31,female,10371,YES
+8,10908,asian,55,female,18753,YES
+6,46058,asian,21,male,59483,YES
+5,79930,african american,47,female,85862,NO
+10,35651,african american,50,female,30628,YES
+5,61796,african american,44,female,62718,NO
+6,95385,hispanic,57,male,47672,YES
+8,59362,other,36,male,86659,YES
+4,21154,other,40,female,63894,NO
+6,54514,caucasian,38,female,15765,YES
+6,58942,hispanic,45,male,71413,YES
+3,77200,african american,32,female,85821,NO
+5,95212,asian,18,female,59328,NO
+8,84620,asian,35,male,41066,YES
+8,86739,african american,19,male,28736,YES
+6,84372,asian,29,male,82674,YES
+10,14046,hispanic,55,male,47762,YES
+4,24564,hispanic,46,male,36627,NO
+9,43893,hispanic,6,male,50865,YES
+10,25801,hispanic,35,male,47902,YES
+10,54880,hispanic,6,male,17408,YES
+1,96040,other,31,female,65515,NO
+5,84718,african american,30,female,28587,NO
+10,98009,caucasian,2,female,23445,YES
+9,20590,african american,40,male,24957,YES
+10,89200,other,26,female,70966,YES
+3,60315,asian,44,female,36236,NO
+6,80407,caucasian,34,female,93392,YES
+7,14452,other,13,male,71246,YES
+4,78574,caucasian,52,male,93434,NO
+6,92661,hispanic,56,male,53863,YES
+7,67411,hispanic,44,male,97444,YES
+6,36049,hispanic,60,male,47538,YES
+9,51211,caucasian,25,male,62461,YES
+4,77351,caucasian,47,female,73362,NO
+9,49763,african american,53,male,60233,YES
+3,49053,caucasian,3,female,96171,NO
+10,70569,asian,42,female,23644,YES
+7,21932,caucasian,24,female,91976,YES
+9,58024,asian,12,male,82439,YES
+8,17523,african american,55,female,69270,YES
+2,81034,other,55,female,62030,NO
+1,33930,hispanic,26,male,21907,NO
+9,45568,asian,2,female,15325,YES
+3,87067,african american,18,male,69163,NO
+1,36595,caucasian,0,female,15534,NO
+7,26275,other,60,female,40733,YES
+10,18485,asian,40,male,49586,YES
+2,12630,caucasian,42,female,79982,NO
+3,82354,asian,37,female,16684,NO
+2,12962,african american,58,male,72712,NO
+8,31661,asian,17,female,40666,YES
+1,97224,hispanic,8,male,71162,NO
+2,94113,african american,36,female,51413,NO
+7,38367,caucasian,50,male,52061,YES
+9,25383,asian,23,male,47238,YES
+7,29945,african american,29,female,83999,YES
+3,92271,african american,45,male,55347,NO
+1,49792,asian,8,male,57151,NO
+7,57904,african american,30,female,51746,YES
+10,44272,caucasian,5,male,87393,YES
+6,67985,asian,0,female,83199,YES
+8,67300,caucasian,4,male,59666,YES
+5,75230,asian,41,female,56030,NO
+3,97362,african american,8,female,40737,NO
+3,74394,hispanic,59,female,30566,NO
+8,35569,asian,26,female,74512,YES
+1,72976,african american,24,female,54408,NO
+6,95148,hispanic,54,female,50182,YES
+10,88235,hispanic,23,male,47058,YES
+8,21482,hispanic,20,male,26745,YES
+5,16617,other,26,male,92133,NO
+7,12144,hispanic,41,male,73461,YES
+4,98997,asian,48,female,56342,NO
+4,65804,other,6,male,84559,NO
+5,66546,african american,14,male,80506,NO
+2,35893,other,38,male,15080,NO
+1,33505,hispanic,42,female,86250,NO
+4,28644,african american,2,male,95014,NO
+7,44619,african american,16,male,31705,YES
+7,92484,caucasian,56,female,88990,YES
+1,71556,asian,22,male,89692,NO
+10,43113,caucasian,28,male,46618,YES
+6,65223,african american,54,male,97635,YES
+5,10428,asian,3,male,61661,NO
+7,79874,asian,52,male,65628,YES
+2,29386,asian,54,male,85157,NO
+7,86322,caucasian,30,female,40826,YES
+3,51037,hispanic,18,female,48710,NO
+5,84565,african american,30,male,51856,NO
+2,19059,caucasian,32,female,10119,NO
+2,23261,hispanic,47,male,98445,NO
+6,95003,caucasian,32,male,73874,YES
+7,64340,caucasian,59,male,50275,YES
+4,21943,african american,46,male,50403,NO
+5,91865,hispanic,5,female,75404,NO
+2,41098,african american,20,female,40836,NO
+2,16111,asian,18,male,59264,NO
+4,33245,other,2,male,82685,NO
+8,86573,other,35,male,19904,YES
+2,63994,caucasian,21,male,24992,NO
+4,49518,african american,32,female,19282,NO
+6,57787,asian,50,male,28812,YES
+4,62353,other,57,female,23156,NO
+3,27503,asian,52,male,37852,NO
+1,74331,other,19,female,56769,NO
+3,48286,other,41,female,43773,NO
+6,91279,african american,37,male,42037,YES
+3,85173,asian,32,female,74512,NO
+2,37103,caucasian,7,male,74262,NO
+2,30612,hispanic,4,female,65601,NO
+7,9506,hispanic,11,female,68888,YES
+9,15146,african american,20,male,59455,YES
+4,71372,asian,56,male,51086,NO
+10,67057,hispanic,48,male,71478,YES
+7,27158,hispanic,60,female,47215,YES
+5,14046,caucasian,7,female,28692,NO
+10,53335,hispanic,3,male,24349,YES
+9,54062,caucasian,13,male,59888,YES
+10,20308,other,21,female,68404,YES
+4,89074,other,48,male,54046,NO
+2,64057,african american,40,male,49007,NO
+3,89705,african american,11,female,21364,NO
+7,94371,hispanic,37,male,94893,YES
+1,57354,other,25,female,14021,NO
+2,32945,hispanic,3,female,39035,NO
+3,77533,caucasian,48,female,25467,NO
+5,41266,other,21,male,52016,NO
+5,16070,caucasian,1,female,57542,NO
+6,58086,caucasian,2,male,39781,YES
+8,19416,caucasian,41,female,95618,YES
+4,22849,african american,29,male,19452,NO
+10,63786,asian,37,female,29257,YES
+4,63065,caucasian,58,male,27531,NO
+6,55312,other,58,female,80960,YES
+8,23591,african american,19,male,88228,YES
+8,90156,hispanic,12,female,25202,YES
+4,32316,african american,24,male,72887,NO
+6,82653,hispanic,27,male,63293,YES
+6,61271,other,6,male,42731,YES
+2,59578,african american,47,female,99373,NO
+2,68164,asian,37,male,17909,NO
+1,40700,caucasian,12,male,97910,NO
+8,51166,asian,32,male,74364,YES
+6,72904,hispanic,38,female,13079,YES
+3,14552,other,47,male,18142,NO
+9,82910,hispanic,3,female,23734,YES
+8,74910,african american,35,female,52714,YES
+8,34226,caucasian,3,female,56804,YES
+6,53556,caucasian,28,male,34660,YES
+4,88272,african american,8,male,71034,NO
+5,60522,asian,3,female,51688,NO
+8,28068,african american,33,female,64944,YES
+3,33368,other,13,male,21741,NO
+1,23305,hispanic,10,female,89727,NO
+1,36687,hispanic,45,male,58961,NO
+4,33321,asian,42,male,76906,NO
+5,89517,hispanic,27,female,90774,NO
+2,53766,asian,26,male,81654,NO
+6,18837,hispanic,41,male,95297,YES
+6,80360,other,56,male,40405,YES
