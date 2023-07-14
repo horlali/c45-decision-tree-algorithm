@@ -1,6 +1,8 @@
 import csv
 import random
 
+import pandas as pd
+
 from decision_tree_algorithm.directories import household_data
 
 
@@ -24,8 +26,8 @@ def generate_data(number_of_entries: int, output_file: str):
         writer.writerow(["household_size", "income", "race", "age", "sex", "zipcode"])
         writer.writerows(demographic_data)
 
-    print(f"Data generated and exported to {output_file}.")
+    return pd.read_csv(output_file)
 
 
-if __name__ == "__main__":
-    generate_data(3000, household_data)
+# if __name__ == "__main__":
+#     generate_data(3000, household_data)

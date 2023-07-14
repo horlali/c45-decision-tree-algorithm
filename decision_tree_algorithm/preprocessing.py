@@ -57,7 +57,7 @@ def preprocess_data(input_csv, output_csv):
     # Write the transformed data to the output CSV file
     data.to_csv(output_csv, index=False)
 
-    print(f"Data transformed and exported to {output_csv}.")
+    return pd.read_csv(output_csv)
 
 
 if __name__ == "__main__":

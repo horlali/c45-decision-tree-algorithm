@@ -1,42 +1,40 @@
-import numpy as np
 import pandas as pd
 
-from decision_tree_algorithm.c45 import build_tree, predict
+from decision_tree_algorithm.c45_algorithm import C45DecisionTree
 from decision_tree_algorithm.directories import transformed_data
 
 
-def make_predictions(input_data):
-    # Load the data
-    data = pd.read_csv(input_data)
+def make_prediction(input_data):
+    # Load the transformed data from the CSV file
+    data = pd.read_csv(transformed_data)
 
-    # Preprocess the data
-    data = data.dropna()  # Remove rows with missing values if any
-    X = data.drop("decision", axis=1).values  # Features
-    y = data["decision"].values  # Target variable
+    # Split the data into 80% training and 20% testing
+    train_data = data.sample(frac=0.1, random_state=42)
+    test_data = data.drop(train_data.index)
 
-    # Convert categorical variables to numerical using one-hot encoding
-    X_encoded = pd.get_dummies(data.drop("decision", axis=1)).values
+    # Separate the features (X) and the target variable (y)
+    X_train = train_data.drop("decision", axis=1)
+    y_train = train_data["decision"]
 
-    # Split the data into training and testing sets (you can adjust the split ratio as needed)
-    split_ratio = 0.8
-    split_index = int(split_ratio * len(X))
-    X_train, X_test = X_encoded[:split_index], X_encoded[split_index:]
-    y_train, y_test = y[:split_index], y[split_index:]
+    X_test = test_data.drop("decision", axis=1)
+    y_test = test_data["decision"]
 
-    # Build the decision tree model
-    tree = build_tree(X_train, y_train)
+    # Create and train the C4.5 decision tree
+    tree = C45DecisionTree()
+    tree.fit(X_train, y_train)
 
-    # Make predictions on the test set
-    predictions = []
-    for sample in X_test:
-        predicted_class = predict(tree, sample)
-        predictions.append(predicted_class)
+    decision = tree.predict(X_test)
 
-    # Evaluate the model
-    accuracy = np.mean(predictions == y_test)
+    # print("Before the test Predictions")
+    # print(X_test)
 
-    print("Predictions:", predictions)
+    X_test["predicted_decision"] = decision
 
+    # print("After the test Predictions")
+    # print(X_test)
 
-if __name__ == "__main__":
-    make_predictions(transformed_data)
+    compare_y_test_and_predicted = pd.DataFrame(
+        {"y_test": y_test, "predicted_decision": decision}
+    )
+
+    return train_data, X_test
