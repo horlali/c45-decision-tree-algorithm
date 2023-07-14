@@ -10,7 +10,7 @@ def make_prediction(input_data):
     data = pd.read_csv(transformed_data)
 
     # Split the data into 80% training and 20% testing
-    train_data = data.sample(frac=0.1, random_state=42)
+    train_data = data.sample(frac=0.8, random_state=42)
     test_data = data.drop(train_data.index)
 
     # Separate the features (X) and the target variable (y)

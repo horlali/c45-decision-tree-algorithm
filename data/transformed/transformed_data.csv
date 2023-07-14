@@ -1,2001 +1,2001 @@
 household_size,income,race,age,sex,zipcode,decision
-6,59719,african american,37,male,17668,YES
-8,88365,hispanic,29,male,44237,YES
-1,86833,caucasian,38,male,68615,NO
-1,19375,asian,16,female,19838,NO
-1,83146,caucasian,56,female,51604,NO
-6,42495,hispanic,2,female,87923,YES
-3,57194,asian,8,male,96752,NO
-3,88740,african american,14,male,72929,NO
-7,56780,caucasian,57,female,93194,YES
-8,70233,caucasian,57,female,61294,YES
-7,38365,asian,14,female,62616,YES
-5,26021,caucasian,3,female,51228,NO
-2,80895,hispanic,42,female,11025,NO
-9,53029,african american,37,male,91370,YES
-4,75383,asian,60,male,16631,NO
-3,57240,hispanic,18,male,22571,NO
-6,46863,caucasian,48,male,64541,YES
-8,83364,other,52,female,60134,YES
-4,32041,asian,47,female,60968,NO
-3,93778,other,20,male,32151,NO
-4,78908,african american,9,male,33424,NO
-7,95794,african american,50,female,56428,YES
-7,22699,caucasian,59,male,66790,YES
-3,23457,asian,31,male,11232,NO
-7,10683,hispanic,18,female,99476,YES
-9,44756,hispanic,60,male,21966,YES
-7,28662,hispanic,37,female,67542,YES
-10,21408,hispanic,58,male,73475,YES
-1,54684,asian,10,male,68023,NO
-10,39868,caucasian,52,male,91950,YES
-8,28363,caucasian,43,male,70376,YES
-9,85998,other,13,male,56609,YES
-10,88277,caucasian,14,male,59153,YES
-1,93389,african american,38,male,15275,NO
-7,49945,hispanic,53,male,43313,YES
-10,85919,hispanic,55,male,27594,YES
-4,15541,african american,51,female,37936,NO
-9,43898,caucasian,38,female,59152,YES
-7,51402,hispanic,39,male,30435,YES
-1,64756,asian,50,male,18196,NO
-1,36340,asian,0,female,52683,NO
-2,86078,caucasian,33,male,55242,NO
-2,42173,hispanic,30,male,23622,NO
-3,90444,hispanic,50,male,36303,NO
-2,76779,hispanic,0,female,58233,NO
-7,40640,caucasian,33,female,44070,YES
-3,16972,hispanic,21,male,79103,NO
-10,87605,other,2,male,51114,YES
-8,95878,caucasian,53,female,10825,YES
-8,31788,hispanic,17,male,24650,YES
-8,14919,hispanic,2,male,92563,YES
-6,42568,other,34,male,90272,YES
-2,35368,caucasian,0,female,93319,NO
-5,18707,other,17,female,21761,NO
-8,57330,other,24,male,48063,YES
-6,82824,african american,37,male,80541,YES
-4,59987,african american,42,female,13462,NO
-10,89775,caucasian,14,female,63183,YES
-6,38590,african american,52,female,95623,YES
-5,41729,asian,15,female,27391,NO
-8,75390,other,9,male,86661,YES
-10,87504,hispanic,19,male,65579,YES
-4,25374,asian,54,male,24506,NO
-10,64873,african american,16,male,96628,YES
-5,45711,caucasian,25,male,24517,NO
-5,53702,other,43,female,18144,NO
-6,89464,hispanic,16,female,51922,YES
-7,79655,other,7,male,89947,YES
-1,75941,other,33,male,34308,NO
-2,95913,asian,46,female,27768,NO
-8,53155,caucasian,53,female,30182,YES
-3,20295,asian,24,female,96969,NO
-2,45949,other,30,male,24330,NO
-4,31982,other,37,male,61992,NO
-8,84427,hispanic,39,male,40484,YES
-9,11000,caucasian,22,female,53724,YES
-8,84040,african american,0,male,38545,YES
-8,31528,other,50,male,21064,YES
-9,25495,african american,57,female,54228,YES
-5,78827,caucasian,3,female,39774,NO
-8,94577,asian,18,male,80219,YES
-10,88784,african american,55,male,57507,YES
-9,52360,asian,17,female,94936,YES
-8,75577,asian,35,female,37152,YES
-9,88404,african american,33,male,35258,YES
-1,34028,caucasian,32,female,96349,NO
-3,23685,hispanic,14,male,64436,NO
-2,51479,asian,34,female,64742,NO
-3,48052,caucasian,10,male,21126,NO
-3,42261,asian,21,male,52442,NO
-4,83217,hispanic,24,female,96992,NO
-9,91552,caucasian,46,male,75969,YES
-7,84741,other,5,male,49568,YES
-7,49491,caucasian,40,male,24980,YES
-1,68452,caucasian,24,male,79620,NO
-5,42883,other,54,female,63595,NO
-10,27900,other,56,male,20668,YES
-8,59799,asian,46,female,61232,YES
-3,43809,caucasian,41,female,74077,NO
-9,64971,asian,15,female,49174,YES
-3,17505,asian,49,male,89755,NO
-9,41601,caucasian,30,male,23073,YES
-5,15377,other,42,female,55604,NO
-9,20387,asian,56,male,71584,YES
-4,47209,other,51,male,57144,NO
-10,88334,asian,34,male,42559,YES
-8,91464,african american,33,female,46647,YES
-4,9792,asian,8,female,90262,NO
-3,19965,asian,50,female,85945,NO
-10,51899,caucasian,42,female,89697,YES
-1,80109,asian,38,female,17919,NO
-10,59942,hispanic,18,male,92973,YES
-7,57571,caucasian,59,female,68793,YES
-7,14581,other,37,male,58271,YES
-4,64631,hispanic,5,male,78731,NO
-3,29943,hispanic,60,male,88888,NO
-5,37425,other,30,female,94077,NO
-4,92959,hispanic,25,female,42137,NO
-5,23576,asian,46,male,43876,NO
-1,33685,asian,15,male,78954,NO
-6,61384,african american,22,male,25397,YES
-9,52994,asian,57,male,55244,YES
-10,51319,asian,9,female,46885,YES
-3,32257,other,14,female,62394,NO
-2,93944,caucasian,19,female,96707,NO
-8,33567,hispanic,33,male,29929,YES
-3,90405,african american,16,female,68198,NO
-8,88361,caucasian,46,male,68864,YES
-10,51610,other,26,male,88391,YES
-7,98455,caucasian,38,female,20613,YES
-1,47364,hispanic,28,female,66070,NO
-3,79154,asian,15,female,97541,NO
-1,45800,hispanic,20,female,27151,NO
-7,61513,caucasian,38,female,24530,YES
-1,38887,asian,46,female,17082,NO
-8,36432,hispanic,54,male,58572,YES
-6,76619,hispanic,26,male,35256,YES
-3,16011,asian,22,female,63626,NO
-3,92852,caucasian,58,female,68446,NO
-1,23893,caucasian,30,female,60434,NO
-1,55668,hispanic,4,male,55048,NO
-5,64578,caucasian,52,male,93240,NO
-5,88850,asian,60,male,95311,NO
-9,39759,asian,6,male,16889,YES
-4,31959,african american,38,female,23231,NO
-9,70702,african american,49,male,71343,YES
-7,56421,hispanic,43,male,65160,YES
-5,45145,asian,28,female,65648,NO
-4,63560,asian,9,male,44096,NO
-4,70473,other,58,male,91872,NO
-2,88632,caucasian,20,female,77060,NO
-2,9751,caucasian,48,male,42690,NO
-6,38546,hispanic,58,female,98023,YES
-8,19297,hispanic,32,male,60820,YES
-8,62404,caucasian,45,female,25188,YES
-6,21038,asian,4,female,41412,YES
-2,80601,asian,42,male,56398,NO
-1,56865,african american,57,male,63545,NO
-9,81059,hispanic,56,female,51279,YES
-10,13141,african american,2,female,59324,YES
-3,72564,african american,43,female,11603,NO
-4,40505,hispanic,16,female,90253,NO
-9,71270,african american,27,female,12299,YES
-6,13043,hispanic,1,male,39869,YES
-7,12874,asian,38,male,24349,YES
-2,41087,other,39,female,83378,NO
-10,77513,caucasian,48,male,51662,YES
-6,86479,caucasian,10,female,63043,YES
-3,88162,hispanic,28,female,38710,NO
-6,82865,other,10,female,20986,YES
-2,76250,hispanic,31,female,88386,NO
-10,34503,other,41,male,59755,YES
-7,92316,caucasian,29,female,24189,YES
-4,46639,caucasian,2,male,91708,NO
-2,28951,caucasian,33,female,15606,NO
-2,23702,african american,24,male,60437,NO
-4,9572,caucasian,48,male,10353,NO
-8,80083,african american,4,female,34314,YES
-9,25141,african american,19,female,51813,YES
-7,20556,asian,37,female,55050,YES
-3,99307,hispanic,34,female,26738,NO
-5,49821,asian,25,female,68415,NO
-5,89042,african american,12,male,62638,NO
-3,43550,asian,9,male,97124,NO
-7,43320,hispanic,2,female,23630,YES
-1,24061,asian,21,male,52034,NO
-5,93871,african american,33,male,85947,NO
-8,75817,caucasian,53,male,96180,YES
-8,59022,hispanic,10,female,72878,YES
-8,79034,asian,46,male,77013,YES
-7,78271,asian,49,male,43308,YES
-10,36050,african american,16,male,74821,YES
-2,67443,african american,42,male,27686,NO
-6,99842,caucasian,38,male,57569,YES
-8,52860,asian,13,female,59904,YES
-4,36773,african american,2,female,69421,NO
-4,63103,caucasian,31,female,36483,NO
-3,44256,caucasian,24,male,19087,NO
-3,82948,other,30,female,88786,NO
-4,88612,african american,6,female,58802,NO
-6,45239,other,52,female,94262,YES
-1,62879,hispanic,53,male,41625,NO
-7,49059,caucasian,36,male,57163,YES
-10,54927,hispanic,32,female,33440,YES
-8,20104,other,35,male,74962,YES
-4,26634,asian,52,male,26988,NO
-10,13614,hispanic,14,female,70933,YES
-1,34230,asian,32,male,41014,NO
-10,12800,african american,0,female,62719,YES
-5,74669,other,33,female,70029,NO
-9,99279,hispanic,41,female,53502,YES
-10,53561,other,50,female,86715,YES
-6,17815,caucasian,56,male,81668,YES
-8,37449,asian,17,male,75309,YES
-10,20104,asian,52,male,93728,YES
-9,25740,caucasian,5,male,72645,YES
-10,90410,african american,25,male,82642,YES
-7,43231,other,55,male,91640,YES
-2,38964,hispanic,24,female,64672,NO
-3,24296,asian,49,female,45393,NO
-1,76071,hispanic,48,female,29789,NO
-1,78627,african american,43,female,86286,NO
-1,50087,other,0,female,17146,NO
-5,76227,caucasian,17,male,41238,NO
-5,55745,caucasian,14,male,10461,NO
-5,19662,caucasian,54,male,82272,NO
-7,62067,other,2,male,80161,YES
-4,60524,other,17,male,60189,NO
-6,12965,african american,26,female,77599,YES
-1,62108,african american,17,male,39600,NO
-9,68063,other,54,male,62950,YES
-4,59936,hispanic,13,male,44699,NO
-5,13418,caucasian,48,female,45262,NO
-6,59880,asian,38,male,41358,YES
-3,10849,hispanic,7,female,66629,NO
-2,65770,caucasian,30,female,68331,NO
-8,29328,other,23,female,66544,YES
-7,95811,hispanic,59,female,15362,YES
-2,58366,hispanic,41,male,32868,NO
-10,76027,hispanic,32,female,94028,YES
-2,64921,african american,20,female,73705,NO
-10,50492,hispanic,35,female,85801,YES
-8,22151,other,36,male,37374,YES
-8,72245,asian,3,male,58041,YES
-9,24847,caucasian,60,female,23423,YES
-5,76291,hispanic,2,female,66368,NO
-10,84293,asian,46,male,36362,YES
-9,21576,african american,23,male,28484,YES
-5,61626,caucasian,60,female,94327,NO
-3,45771,hispanic,55,male,44305,NO
-8,94537,african american,41,male,95445,YES
-3,90343,hispanic,21,male,38165,NO
-4,59204,other,28,female,96858,NO
-1,85667,african american,18,female,67010,NO
-4,89686,hispanic,55,male,51071,NO
-3,49494,african american,32,male,49818,NO
-9,84344,african american,50,female,91117,YES
-8,97479,asian,25,female,11488,YES
-8,39866,other,51,male,72556,YES
-4,57435,asian,36,female,86889,NO
-9,63156,asian,41,male,32203,YES
-8,90756,caucasian,14,female,17439,YES
-10,77970,african american,4,male,60202,YES
-6,62434,asian,57,male,79641,YES
-8,62433,african american,52,female,53699,YES
-7,37074,asian,13,male,89955,YES
-1,89815,caucasian,6,male,44866,NO
-9,90675,asian,3,female,29741,YES
-4,50994,caucasian,60,female,47603,NO
-3,71522,asian,57,male,10643,NO
-9,81721,african american,40,male,30418,YES
-8,80633,asian,7,female,82992,YES
-2,30922,caucasian,57,female,84498,NO
-7,11224,hispanic,0,female,87261,YES
-2,82625,other,39,female,28202,NO
-3,44303,caucasian,6,female,20409,NO
-1,89517,caucasian,56,female,12385,NO
-6,21707,hispanic,1,male,27935,YES
-1,96590,hispanic,36,male,55576,NO
-2,80942,caucasian,52,female,85148,NO
-7,28497,hispanic,58,female,17887,YES
-2,22748,african american,29,female,46074,NO
-2,12162,hispanic,57,male,77532,NO
-7,73351,african american,27,female,95747,YES
-3,31910,other,42,female,85034,NO
-7,98437,other,46,male,39742,YES
-3,27282,african american,48,female,38358,NO
-6,15254,african american,42,female,61082,YES
-10,96637,hispanic,56,female,83103,YES
-3,73233,hispanic,41,female,36041,NO
-3,40757,african american,14,female,17277,NO
-2,56185,caucasian,58,female,41882,NO
-8,75505,hispanic,48,male,57265,YES
-7,96009,hispanic,39,female,32415,YES
-1,80379,caucasian,21,male,73371,NO
-6,22856,caucasian,45,male,53708,YES
-6,37868,hispanic,20,male,53271,YES
-1,40013,hispanic,42,female,18231,NO
-8,71579,asian,38,female,44399,YES
-5,23324,african american,50,female,31782,NO
-9,19463,asian,45,female,29691,YES
-1,41597,african american,41,male,25271,NO
-6,14665,african american,12,female,34951,YES
-10,35230,caucasian,37,male,63026,YES
-4,84664,caucasian,33,male,23526,NO
-10,31151,other,46,male,76681,YES
-5,34944,other,57,male,91170,NO
-3,90870,other,42,female,92669,NO
-7,47684,african american,40,female,45162,YES
-1,78081,asian,28,male,92989,NO
-9,48380,asian,25,male,76368,YES
-1,55355,hispanic,23,female,48113,NO
-8,44644,african american,33,female,76437,YES
-3,43066,asian,47,male,30342,NO
-8,68699,hispanic,55,female,37831,YES
-1,31482,african american,60,male,97454,NO
-6,88457,other,57,male,17153,YES
-10,84465,hispanic,5,male,92770,YES
-3,17649,african american,59,male,28595,NO
-3,96853,african american,15,female,51391,NO
-2,70599,caucasian,24,male,65501,NO
-1,35271,caucasian,5,female,77704,NO
-3,10436,caucasian,22,male,43474,NO
-4,94834,african american,49,male,67785,NO
-2,73239,african american,21,female,21439,NO
-8,62691,caucasian,57,male,16002,YES
-7,17648,african american,60,female,53807,YES
-10,15365,hispanic,55,male,29717,YES
-8,16342,caucasian,37,male,23870,YES
-1,74855,asian,15,female,74600,NO
-9,98237,hispanic,47,female,48608,YES
-7,20275,other,30,male,72212,YES
-9,81852,other,57,female,57743,YES
-7,28625,african american,9,male,61063,YES
-6,37500,asian,7,female,46810,YES
-4,22975,asian,2,male,51030,NO
-8,65504,asian,12,male,38423,YES
-8,77959,other,48,male,11748,YES
-7,14364,hispanic,8,male,50578,YES
-3,55117,african american,59,male,28763,NO
-2,48198,african american,57,female,72539,NO
-8,40519,caucasian,42,male,30405,YES
-7,55601,hispanic,46,male,46984,YES
-10,53123,african american,32,male,53247,YES
-5,16054,asian,19,male,70721,NO
-6,68276,hispanic,55,female,95441,YES
-10,12663,african american,45,male,39287,YES
-5,34273,hispanic,9,female,27050,NO
-8,91298,hispanic,54,female,66012,YES
-3,72790,asian,60,male,60319,NO
-8,45553,asian,24,female,88777,YES
-1,21959,other,14,male,70734,NO
-2,36094,asian,21,male,31955,NO
-9,30133,caucasian,10,male,67878,YES
-8,62258,asian,14,male,47272,YES
-2,52972,other,56,male,80227,NO
-6,47934,other,31,male,98586,YES
-6,25419,other,33,male,61423,YES
-4,29816,african american,36,male,29359,NO
-1,55917,asian,57,female,64411,NO
-4,11275,asian,15,male,43247,NO
-4,11984,caucasian,56,male,52474,NO
-3,80675,hispanic,24,male,95794,NO
-7,90365,other,17,female,67004,YES
-4,17391,caucasian,6,male,19722,NO
-5,88062,caucasian,50,male,73107,NO
-9,34660,caucasian,59,female,35077,YES
-4,99152,caucasian,5,female,60246,NO
-1,47470,hispanic,17,female,87691,NO
-9,51049,other,23,female,15443,YES
-10,64092,asian,46,female,67629,YES
-7,39099,african american,10,male,80642,YES
-10,97424,hispanic,19,female,32148,YES
-1,31187,other,30,male,81138,NO
-7,21819,hispanic,44,female,90299,YES
-3,68388,asian,38,male,68509,NO
-10,79364,hispanic,5,female,99727,YES
-9,23842,caucasian,40,female,70434,YES
-5,67755,hispanic,44,male,46703,NO
-6,69583,asian,55,male,52477,YES
-10,90414,hispanic,30,female,63140,YES
-2,37076,caucasian,14,male,43845,NO
-4,90710,asian,55,female,41815,NO
-3,34233,hispanic,36,female,59678,NO
-9,22599,hispanic,41,female,27321,YES
-4,61533,african american,35,male,28337,NO
-9,71624,other,50,male,86772,YES
-3,58601,caucasian,23,male,13288,NO
-3,81459,caucasian,59,male,55534,NO
-5,27858,asian,40,male,87442,NO
-10,72090,other,16,female,23925,YES
-7,96868,hispanic,52,female,69333,YES
-6,43822,other,41,male,79066,YES
-8,35500,caucasian,56,male,66265,YES
-6,98052,african american,15,female,28282,YES
-8,64777,asian,4,male,36935,YES
-9,76293,asian,23,female,70933,YES
-5,40183,african american,16,female,69500,NO
-3,18962,caucasian,60,male,45248,NO
-2,66762,african american,46,female,61113,NO
-9,83470,african american,8,male,78335,YES
-10,68768,asian,4,male,12277,YES
-4,80995,african american,47,female,56598,NO
-3,81050,asian,49,male,27762,NO
-8,21342,asian,38,male,96770,YES
-8,35736,other,16,female,94056,YES
-1,89336,caucasian,57,male,38291,NO
-9,71477,asian,19,female,56865,YES
-5,99857,african american,47,male,42400,NO
-5,12796,african american,31,female,62791,NO
-3,14158,asian,45,male,21640,NO
-3,65679,african american,54,female,17506,NO
-6,68640,asian,21,male,73490,YES
-5,46841,african american,21,female,64012,NO
-2,12879,hispanic,27,female,25121,NO
-10,37731,african american,5,female,21542,YES
-8,14953,african american,26,female,79513,YES
-5,70012,african american,32,male,68917,NO
-5,17260,african american,40,male,42154,NO
-3,58858,hispanic,32,male,69744,NO
-9,62676,asian,53,female,27228,YES
-10,91361,african american,5,female,94754,YES
-6,19514,hispanic,23,male,85449,YES
-5,46134,hispanic,51,male,39517,NO
-7,59109,caucasian,14,male,76116,YES
-1,92108,other,3,male,75855,NO
-2,10025,caucasian,23,female,60164,NO
-10,69294,asian,13,female,66392,YES
-9,88176,other,39,male,14128,YES
-6,54552,other,32,female,57238,YES
-3,28955,caucasian,50,male,78424,NO
-9,83804,african american,26,female,83076,YES
-6,79957,other,14,male,47365,YES
-7,32852,african american,12,male,28488,YES
-3,95536,african american,53,male,83827,NO
-6,32596,caucasian,23,male,82602,YES
-4,28748,african american,11,male,49391,NO
-2,31371,asian,47,female,24922,NO
-1,44298,other,43,male,64090,NO
-4,87316,asian,54,female,57291,NO
-9,78535,other,16,male,44061,YES
-3,33700,other,37,male,12486,NO
-3,78524,hispanic,4,male,43230,NO
-8,23171,other,56,female,75723,YES
-7,26398,asian,49,male,53776,YES
-5,85557,hispanic,52,female,75811,NO
-5,85344,other,31,female,57443,NO
-7,67339,caucasian,15,male,98062,YES
-9,61151,caucasian,26,male,30983,YES
-4,58003,other,46,male,60126,NO
-9,78604,african american,36,female,82922,YES
-7,19539,african american,20,female,42010,YES
-5,94218,african american,15,male,61220,NO
-2,66554,caucasian,13,female,98399,NO
-5,77051,caucasian,13,female,59693,NO
-6,9358,caucasian,3,male,46516,YES
-10,41158,caucasian,32,female,79581,YES
-8,47096,asian,32,male,83319,YES
-6,78730,caucasian,7,male,13702,YES
-5,93491,hispanic,37,female,42945,NO
-5,54574,african american,58,female,33437,NO
-9,16280,african american,27,male,34886,YES
-2,94067,hispanic,18,male,97417,NO
-10,91523,caucasian,22,female,98633,YES
-1,76846,african american,42,male,64568,NO
-4,61568,other,25,female,70313,NO
-4,88210,asian,15,female,91510,NO
-7,74411,caucasian,43,female,32224,YES
-7,14475,asian,35,male,86484,YES
-2,56688,hispanic,57,female,61351,NO
-10,84863,hispanic,56,female,82433,YES
-3,65472,hispanic,13,female,41303,NO
-3,87471,african american,58,male,53591,NO
-9,10387,caucasian,52,male,41159,YES
-6,46597,hispanic,55,male,54604,YES
-9,87824,asian,14,male,59186,YES
-5,70780,african american,15,male,23878,NO
-8,91484,other,1,female,73597,YES
-10,36389,asian,2,male,36923,YES
-9,46931,hispanic,49,male,12079,YES
-4,56510,caucasian,46,female,77566,NO
-5,30806,asian,55,female,26217,NO
-7,22926,asian,51,female,78849,YES
-10,56032,asian,40,female,11118,YES
-4,42778,other,39,male,56301,NO
-4,35367,asian,42,female,69204,NO
-8,85365,african american,53,male,80606,YES
-2,9487,african american,45,female,53192,NO
-5,63116,caucasian,45,female,91293,NO
-10,39113,other,1,male,89845,YES
-4,99009,hispanic,47,male,59464,NO
-7,85961,other,3,female,49426,YES
-8,35901,caucasian,7,female,17327,YES
-1,20079,african american,60,male,81789,NO
-6,48873,african american,15,female,45332,YES
-6,72503,hispanic,19,male,77510,YES
-7,43566,african american,3,female,77507,YES
-6,79441,caucasian,60,female,35072,YES
-5,35741,other,59,female,39023,NO
-8,19514,hispanic,45,male,64315,YES
-9,87231,african american,7,male,79422,YES
-5,42849,african american,39,female,95258,NO
-6,19624,caucasian,42,male,65683,YES
-1,87667,african american,21,male,67058,NO
-9,16681,african american,15,female,25055,YES
-4,98429,hispanic,43,male,19185,NO
-10,84215,other,48,male,37281,YES
-3,47274,hispanic,51,female,91527,NO
-1,39233,hispanic,48,male,78235,NO
-8,65346,asian,15,male,97633,YES
-2,65027,caucasian,0,female,79169,NO
-1,67498,asian,35,male,71145,NO
-4,43919,other,23,male,40822,NO
-6,41590,caucasian,30,female,17668,YES
-10,19197,asian,25,male,39812,YES
-7,25320,african american,39,male,89144,YES
-1,12966,asian,60,female,70390,NO
-7,34727,hispanic,24,female,52042,YES
-3,67503,asian,60,female,63982,NO
-5,17653,asian,27,male,55955,NO
-4,37947,african american,60,male,12933,NO
-6,25838,other,40,male,20966,YES
-9,66508,asian,20,male,10162,YES
-3,80992,asian,32,female,45929,NO
-3,64514,other,57,male,93512,NO
-7,93989,other,40,male,95586,YES
-7,96120,caucasian,54,male,44569,YES
-7,44547,caucasian,46,female,31690,YES
-10,12551,caucasian,54,male,80533,YES
-4,71548,other,16,male,35882,NO
-9,17324,african american,20,female,13427,YES
-7,27008,caucasian,42,female,84976,YES
-5,88779,other,25,male,82492,NO
-2,19095,asian,29,female,10331,NO
-3,97912,other,2,female,93271,NO
-3,18194,caucasian,38,male,50714,NO
-9,41688,african american,28,male,56296,YES
-8,97438,african american,13,female,79017,YES
-8,24423,asian,41,male,29365,YES
-7,80125,hispanic,60,female,89233,YES
-1,82819,caucasian,42,male,82366,NO
-10,63003,other,12,male,91207,YES
-10,58785,other,35,female,14777,YES
-2,11368,hispanic,22,female,84930,NO
-1,66944,caucasian,45,female,67508,NO
-7,97111,african american,51,male,29570,YES
-2,28762,african american,44,female,32509,NO
-5,15312,hispanic,57,male,89165,NO
-5,35371,hispanic,37,female,84542,NO
-7,39210,other,4,female,70907,YES
-6,12216,african american,17,male,77913,YES
-6,49810,caucasian,26,female,29787,YES
-10,33055,asian,52,female,55197,YES
-3,92137,asian,5,male,98934,NO
-5,72100,asian,50,female,96857,NO
-9,44950,other,36,female,57930,YES
-7,32066,asian,55,male,57817,YES
-5,72825,african american,27,female,15684,NO
-8,51047,hispanic,26,female,61319,YES
-8,77784,hispanic,53,female,23661,YES
-9,39245,african american,18,male,45726,YES
-5,79599,caucasian,55,female,22614,NO
-9,61813,african american,18,female,48451,YES
-5,55389,caucasian,4,male,63231,NO
-8,76371,asian,28,female,68114,YES
-3,88569,caucasian,12,female,35337,NO
-10,21120,african american,30,male,91777,YES
-3,15430,asian,34,female,24745,NO
-3,39467,hispanic,1,male,52696,NO
-8,14015,other,36,female,86632,YES
-6,34925,other,25,female,44309,YES
-5,56996,african american,60,female,77956,NO
-10,21588,caucasian,56,male,13819,YES
-6,64963,asian,5,male,10253,YES
-8,53681,african american,28,female,44960,YES
-4,57296,asian,47,female,44413,NO
-3,48464,hispanic,15,male,53527,NO
-9,69774,african american,45,male,34448,YES
-7,94942,asian,22,female,37550,YES
-5,33441,caucasian,11,female,59974,NO
-3,33044,asian,48,female,21596,NO
-10,26572,african american,19,male,16909,YES
-7,32373,other,25,female,27287,YES
-2,31819,other,42,male,95516,NO
-7,92816,asian,0,male,80247,YES
-1,63621,asian,27,female,23541,NO
-2,73817,caucasian,32,female,89083,NO
-8,55569,african american,1,female,24699,YES
-6,65324,hispanic,21,male,37948,YES
-10,15737,hispanic,41,male,28694,YES
-3,86515,asian,46,female,16093,NO
-1,60391,caucasian,49,female,47465,NO
-7,42703,african american,17,female,82444,YES
-6,98050,other,37,female,24375,YES
-9,53266,asian,4,male,47134,YES
-1,12545,hispanic,49,male,59663,NO
-10,19798,other,60,male,22057,YES
-6,78159,asian,47,male,96472,YES
-7,64528,asian,60,female,20209,YES
-8,94141,hispanic,57,female,79350,YES
-10,76041,asian,58,male,27876,YES
-9,85052,african american,0,female,80014,YES
-7,99400,other,46,female,78649,YES
-8,13649,african american,53,female,55557,YES
-8,60450,african american,47,male,76021,YES
-7,92560,other,43,female,82004,YES
-9,73969,hispanic,24,female,68395,YES
-8,84870,asian,6,female,77689,YES
-2,39379,african american,38,female,84070,NO
-3,80474,caucasian,24,female,95703,NO
-8,96840,other,27,male,94055,YES
-5,39598,hispanic,9,male,18702,NO
-4,63684,african american,57,female,61650,NO
-4,65768,other,15,female,62154,NO
-9,45622,asian,36,female,92892,YES
-6,19272,other,45,female,12363,YES
-6,91039,caucasian,16,female,21171,YES
-3,39581,caucasian,44,female,85153,NO
-3,99486,african american,54,male,23081,NO
-6,89209,african american,19,female,54386,YES
-7,87785,caucasian,26,female,77970,YES
-3,22679,caucasian,16,female,70754,NO
-5,63463,african american,40,female,10751,NO
-8,75356,asian,8,male,13020,YES
-2,16974,hispanic,51,female,33066,NO
-1,19056,african american,14,female,13119,NO
-8,20503,hispanic,10,female,52710,YES
-5,30436,african american,43,female,52187,NO
-3,57284,asian,25,female,95672,NO
-10,82745,asian,1,male,48260,YES
-2,41928,other,58,male,87299,NO
-7,59478,other,51,male,34970,YES
-6,34852,asian,1,female,13479,YES
-7,58307,african american,28,female,18641,YES
-4,40488,caucasian,56,male,26132,NO
-9,18258,african american,44,male,30858,YES
-2,60167,hispanic,5,male,98165,NO
-8,11613,hispanic,35,male,67379,YES
-7,62017,caucasian,55,female,77628,YES
-7,48170,other,6,female,94754,YES
-4,26490,hispanic,31,male,60414,NO
-8,22148,african american,7,male,16529,YES
-4,99050,caucasian,57,male,74891,NO
-5,82207,other,26,female,72105,NO
-8,39910,asian,18,male,10293,YES
-1,98023,african american,39,male,55181,NO
-10,73669,asian,14,female,50338,YES
-6,31220,asian,44,female,36651,YES
-2,61559,asian,26,male,71277,NO
-2,97990,african american,17,male,83513,NO
-7,22141,asian,52,female,75669,YES
-3,13178,african american,16,female,58717,NO
-1,52123,other,44,male,92045,NO
-9,61725,asian,39,female,57988,YES
-3,52946,hispanic,24,female,85702,NO
-9,9350,hispanic,56,female,22372,YES
-7,75861,asian,52,male,31989,YES
-4,18999,asian,44,male,69298,NO
-6,64174,other,41,female,49494,YES
-1,39308,african american,39,male,55630,NO
-2,45319,other,17,male,91385,NO
-5,28001,african american,11,female,35421,NO
-2,46201,african american,12,male,72658,NO
-6,23647,hispanic,49,male,57466,YES
-6,85618,hispanic,44,male,88938,YES
-3,51293,asian,6,female,98077,NO
-2,82570,asian,17,female,65173,NO
-4,59840,hispanic,30,male,47283,NO
-10,9602,african american,32,male,12204,YES
-5,24202,other,50,female,78068,NO
-3,29228,asian,13,male,60618,NO
-3,78492,hispanic,32,female,80850,NO
-6,28049,asian,46,female,69733,YES
-7,76260,hispanic,11,male,35328,YES
-4,79690,other,38,female,69329,NO
-5,72519,asian,32,female,99485,NO
-5,10506,asian,8,male,14983,NO
-3,14031,caucasian,4,female,96256,NO
-4,65124,asian,35,male,78244,NO
-10,69273,hispanic,38,female,89301,YES
-8,47921,asian,29,female,34615,YES
-5,94123,other,18,male,26189,NO
-1,68588,hispanic,42,male,90170,NO
-10,78987,caucasian,15,female,93120,YES
-6,85474,african american,29,female,11507,YES
-9,79109,asian,25,female,51216,YES
-9,52876,caucasian,46,male,59771,YES
-4,10555,hispanic,45,female,30936,NO
-8,33519,asian,7,male,70165,YES
-4,43790,hispanic,43,female,70596,NO
-8,73755,asian,13,female,65304,YES
-4,63325,caucasian,17,female,88085,NO
-9,43172,asian,40,male,67643,YES
-5,16768,other,31,male,25645,NO
-5,77239,african american,59,female,27322,NO
-9,9565,asian,36,female,83515,YES
-7,83165,caucasian,37,female,46949,YES
-4,42914,african american,27,male,34095,NO
-3,32030,caucasian,53,female,19621,NO
-5,98703,asian,12,female,20520,NO
-5,47643,caucasian,59,female,65754,NO
-10,59917,caucasian,47,male,54271,YES
-5,24888,hispanic,7,female,55869,NO
-5,72954,african american,5,male,22083,NO
-2,51247,caucasian,20,female,55791,NO
-9,90800,hispanic,3,male,85166,YES
-8,39658,hispanic,2,male,74037,YES
-9,24403,caucasian,28,female,49047,YES
-8,40723,hispanic,35,female,73969,YES
-9,58807,hispanic,2,female,89915,YES
-1,23170,hispanic,31,male,76982,NO
-7,35143,hispanic,10,female,94227,YES
-2,52999,caucasian,54,female,16883,NO
-7,98559,hispanic,47,female,88092,YES
-4,39384,other,27,male,76531,NO
-8,59225,hispanic,12,female,36476,YES
-6,60838,other,37,male,38031,YES
-7,10544,asian,47,female,83443,YES
-7,20555,african american,32,male,51666,YES
-6,62525,asian,40,female,66278,YES
-1,10701,other,3,female,73969,NO
-9,23407,other,37,female,83089,YES
-6,44049,caucasian,19,male,73959,YES
-4,47780,asian,56,male,68873,NO
-3,97319,hispanic,53,female,59555,NO
-8,47792,hispanic,13,female,62677,YES
-3,86356,other,34,female,41043,NO
-6,93718,african american,44,male,86771,YES
-5,93275,african american,16,female,48405,NO
-3,22238,african american,51,female,17141,NO
-9,60932,asian,32,female,67075,YES
-8,43679,other,35,female,73820,YES
-2,60434,hispanic,39,male,11306,NO
-10,92471,other,21,male,49713,YES
-5,52655,hispanic,4,female,22394,NO
-8,90360,hispanic,43,male,16313,YES
-10,52506,other,52,female,97266,YES
-7,55845,hispanic,34,male,93696,YES
-2,76906,asian,19,female,32310,NO
-10,74636,other,9,female,34941,YES
-2,17029,other,35,male,50684,NO
-10,25228,african american,3,female,39677,YES
-9,57038,other,6,female,68414,YES
-4,51289,african american,4,male,77318,NO
-5,42357,african american,4,male,63733,NO
-6,55510,african american,46,male,81576,YES
-2,59352,african american,6,female,21957,NO
-4,98715,caucasian,27,male,74168,NO
-5,77893,african american,10,female,67862,NO
-9,10966,african american,51,male,62723,YES
-5,76948,caucasian,5,female,60795,NO
-1,41471,asian,36,male,50987,NO
-1,58493,other,33,male,44764,NO
-5,20397,other,24,male,51988,NO
-10,18527,asian,23,female,10455,YES
-3,18992,caucasian,29,male,54064,NO
-9,29797,other,28,female,13543,YES
-8,48554,caucasian,38,male,80267,YES
-2,62372,asian,55,male,50211,NO
-5,56080,asian,59,female,91942,NO
-1,77550,african american,15,female,78916,NO
-6,25348,caucasian,28,female,44434,YES
-5,22341,other,2,male,51273,NO
-2,55648,caucasian,16,female,94057,NO
-6,50210,hispanic,27,male,80804,YES
-7,91233,asian,48,male,27294,YES
-6,68109,hispanic,57,female,18979,YES
-9,88816,asian,57,female,16896,YES
-7,98640,caucasian,4,male,40596,YES
-9,30781,other,35,male,39906,YES
-5,69926,other,16,female,17479,NO
-6,89082,african american,40,male,17645,YES
-1,33610,caucasian,1,female,21845,NO
-1,72500,african american,47,male,83392,NO
-1,70430,other,30,male,42039,NO
-7,86815,other,45,female,88976,YES
-7,58012,other,36,female,19318,YES
-5,70162,hispanic,30,female,62693,NO
-9,88211,african american,29,male,36916,YES
-8,44044,caucasian,9,female,79688,YES
-3,35619,african american,17,male,57839,NO
-9,55578,caucasian,38,female,32420,YES
-7,78596,other,12,male,25138,YES
-7,86212,other,18,male,64277,YES
-3,29828,asian,42,male,87642,NO
-10,14465,asian,26,male,28307,YES
-8,35051,african american,24,female,15228,YES
-2,99055,other,37,male,70081,NO
-7,72966,hispanic,2,male,98659,YES
-1,27236,african american,38,male,27503,NO
-7,44739,other,0,male,38324,YES
-10,32135,african american,52,male,40642,YES
-8,40367,african american,14,male,84177,YES
-10,33796,other,35,male,17877,YES
-6,95700,asian,58,female,22849,YES
-6,22221,caucasian,53,male,27005,YES
-7,20691,hispanic,33,male,90360,YES
-2,70342,other,56,female,59541,NO
-8,47904,caucasian,50,female,29041,YES
-3,67065,african american,53,male,95369,NO
-10,52997,other,25,female,14103,YES
-3,18543,hispanic,21,female,77123,NO
-10,41891,asian,23,female,38091,YES
-9,13873,other,37,female,81258,YES
-6,41349,african american,2,female,88990,YES
-1,18227,asian,17,female,51891,NO
-2,77017,caucasian,17,male,31920,NO
-9,49130,african american,49,male,24920,YES
-8,38897,hispanic,48,male,66017,YES
-9,83288,hispanic,4,female,70548,YES
-5,18973,caucasian,2,male,32979,NO
-6,26633,asian,46,male,86039,YES
-10,73189,other,8,male,44319,YES
-4,94397,other,58,male,94827,NO
-8,59717,caucasian,28,female,87825,YES
-4,72090,asian,36,female,65748,NO
-5,46993,caucasian,11,female,41728,NO
-8,70750,african american,27,male,59175,YES
-10,37359,hispanic,48,female,23840,YES
-7,86451,caucasian,8,male,62522,YES
-2,41191,asian,19,male,28803,NO
-9,61086,hispanic,2,male,70471,YES
-10,95803,african american,18,female,88616,YES
-3,33080,caucasian,32,female,35200,NO
-2,57380,hispanic,23,female,19605,NO
-4,96519,african american,34,female,40449,NO
-6,41100,asian,0,female,55645,YES
-8,31659,caucasian,7,male,14216,YES
-6,10870,other,18,female,56194,YES
-9,78982,other,59,female,55942,YES
-7,92852,african american,59,female,73957,YES
-10,54464,other,18,male,42955,YES
-6,20684,hispanic,11,male,69360,YES
-10,73960,other,55,male,43275,YES
-9,61548,african american,37,female,31308,YES
-6,49641,asian,50,male,39677,YES
-5,20084,hispanic,18,male,91653,NO
-1,9785,asian,28,male,66147,NO
-4,98192,hispanic,56,female,95779,NO
-2,46856,african american,55,female,78816,NO
-10,98113,caucasian,45,female,61855,YES
-10,23220,hispanic,14,male,56315,YES
-4,64561,hispanic,28,male,45709,NO
-7,12694,other,29,male,21395,YES
-3,13352,asian,46,female,10631,NO
-6,86224,other,9,female,98447,YES
-10,20583,hispanic,46,female,34348,YES
-7,47849,other,29,female,75328,YES
-7,20705,asian,31,female,22094,YES
-9,61492,other,8,male,88069,YES
-8,95992,asian,55,male,75178,YES
-6,86866,other,30,male,68245,YES
-3,52319,other,3,male,66336,NO
-1,24695,african american,36,male,41861,NO
-10,33592,caucasian,53,male,79904,YES
-7,12375,hispanic,55,male,18457,YES
-4,50664,other,49,female,86558,NO
-10,73277,african american,46,male,79642,YES
-3,10861,hispanic,26,female,54831,NO
-10,50626,asian,28,male,30999,YES
-7,50497,african american,18,female,55446,YES
-8,14554,african american,39,female,76429,YES
-3,54201,caucasian,12,female,26527,NO
-7,30499,african american,46,male,24632,YES
-6,67955,african american,9,female,26103,YES
-6,14813,african american,22,male,54426,YES
-10,30792,african american,28,male,68302,YES
-4,57107,other,47,male,29992,NO
-8,54675,caucasian,57,male,90625,YES
-4,77262,asian,49,female,38131,NO
-7,46098,african american,5,female,76565,YES
-9,96298,caucasian,44,male,45763,YES
-3,10557,caucasian,39,male,64286,NO
-8,15991,asian,40,male,40720,YES
-6,9254,caucasian,0,male,68205,YES
-10,68972,african american,20,female,88367,YES
-2,58179,asian,43,male,38941,NO
-4,24036,asian,20,male,99154,NO
-10,38958,caucasian,22,male,18423,YES
-5,45550,caucasian,44,male,35968,NO
-2,98172,asian,40,male,73645,NO
-5,43983,african american,1,female,85963,NO
-9,57227,caucasian,2,female,54262,YES
-7,93456,asian,53,male,16451,YES
-6,91189,hispanic,38,female,76808,YES
-2,99797,african american,34,male,19123,NO
-6,93545,hispanic,10,male,78098,YES
-4,18272,other,6,female,11591,NO
-5,98839,caucasian,20,male,88144,NO
-6,21921,hispanic,50,male,85052,YES
-6,52240,asian,36,male,79320,YES
-6,67019,asian,59,female,75904,YES
-2,29984,hispanic,39,male,96267,NO
-1,44106,other,59,male,69629,NO
-1,13723,other,27,male,90872,NO
-1,97500,hispanic,9,male,11934,NO
-10,32458,caucasian,53,female,84561,YES
-3,79197,african american,50,male,82608,NO
-9,88391,caucasian,23,female,96563,YES
-7,40395,african american,29,female,83261,YES
-1,36562,other,39,male,99392,NO
-2,83998,african american,53,female,47499,NO
-7,80061,asian,32,male,36652,YES
-9,18696,asian,59,male,27942,YES
-2,35095,asian,0,male,35493,NO
-6,39740,hispanic,28,female,74997,YES
-6,49824,other,54,male,46816,YES
-5,81803,other,50,male,42404,NO
-7,41274,asian,26,male,56580,YES
-10,80859,hispanic,22,male,77981,YES
-1,54036,caucasian,52,male,52483,NO
-2,31084,caucasian,1,female,64581,NO
-9,21201,caucasian,32,male,15830,YES
-3,84223,african american,38,female,16483,NO
-8,55228,other,49,male,34067,YES
-8,31162,hispanic,0,female,71117,YES
-1,25041,caucasian,41,male,22448,NO
-7,35655,african american,55,female,86196,YES
-8,50467,other,4,male,78266,YES
-4,40030,other,14,female,89524,NO
-4,20371,african american,59,female,57429,NO
-7,51664,african american,55,female,13998,YES
-8,43500,african american,38,male,15993,YES
-7,66753,asian,26,female,91403,YES
-3,24186,other,48,female,51378,NO
-8,81283,caucasian,48,female,49108,YES
-1,68470,caucasian,8,female,68340,NO
-7,15144,hispanic,56,male,83665,YES
-8,16233,asian,7,female,98922,YES
-4,69043,other,1,female,48439,NO
-9,40653,african american,42,female,88801,YES
-10,10053,asian,11,male,36934,YES
-8,97462,african american,34,male,98350,YES
-5,83188,other,35,female,73907,NO
-10,60047,african american,26,male,54515,YES
-2,18301,hispanic,5,male,58931,NO
-1,38009,other,56,male,98293,NO
-7,32391,asian,20,female,57180,YES
-4,48533,hispanic,43,male,44171,NO
-2,25937,caucasian,11,female,54460,NO
-8,39371,asian,43,male,38286,YES
-5,19185,african american,37,male,89030,NO
-1,69273,asian,23,male,29227,NO
-4,60014,african american,3,male,14523,NO
-7,48579,african american,60,female,81170,YES
-8,67732,caucasian,1,female,63444,YES
-9,46112,african american,33,male,62398,YES
-1,75941,other,43,male,85366,NO
-4,37970,african american,50,male,14096,NO
-6,18703,african american,38,male,27785,YES
-9,44077,caucasian,52,female,28191,YES
-8,59126,hispanic,15,male,35933,YES
-3,44708,hispanic,54,female,66188,NO
-3,54215,caucasian,25,female,96311,NO
-2,70467,other,33,male,78822,NO
-9,77263,caucasian,0,male,58643,YES
-6,58475,caucasian,60,male,15801,YES
-8,88575,hispanic,5,female,27604,YES
-2,89845,african american,36,male,41334,NO
-7,71506,other,1,male,42082,YES
-6,96968,caucasian,44,female,53728,YES
-3,89344,other,10,female,21361,NO
-5,62448,african american,6,female,96227,NO
-9,39068,other,17,female,32099,YES
-9,92557,hispanic,4,female,57610,YES
-5,43456,other,50,male,89382,NO
-7,63568,other,52,female,58892,YES
-4,9837,hispanic,26,male,46354,NO
-7,28116,asian,3,male,52621,YES
-1,9880,caucasian,25,male,98727,NO
-7,87244,other,25,female,19498,YES
-10,86609,hispanic,44,male,97347,YES
-5,17360,asian,17,female,57841,NO
-7,25523,african american,42,female,21126,YES
-4,35002,asian,39,male,80453,NO
-1,32166,hispanic,35,male,47484,NO
-6,65308,african american,46,female,10989,YES
-7,93385,caucasian,14,female,64865,YES
-9,35867,african american,3,female,24552,YES
-5,39272,other,42,male,12776,NO
-9,43277,hispanic,17,female,95104,YES
-6,34187,hispanic,60,male,68992,YES
-5,10921,african american,20,male,85951,NO
-7,20185,hispanic,32,male,31442,YES
-4,99107,caucasian,26,female,27946,NO
-9,11592,asian,33,male,33010,YES
-3,28808,other,18,female,22692,NO
-9,75358,caucasian,50,female,57114,YES
-9,16496,caucasian,18,male,42422,YES
-2,15369,hispanic,60,male,24661,NO
-2,77124,asian,14,female,22715,NO
-9,98213,asian,23,male,82404,YES
-10,78114,asian,8,female,71150,YES
-4,90333,asian,6,female,16648,NO
-8,65341,african american,49,female,33871,YES
-9,47511,asian,17,female,43668,YES
-10,44529,caucasian,40,female,69219,YES
-8,71682,african american,1,male,10339,YES
-5,36705,hispanic,3,female,97421,NO
-9,33757,asian,51,female,50815,YES
-1,81427,african american,22,male,67008,NO
-5,89124,hispanic,60,female,49882,NO
-1,46580,caucasian,59,female,29006,NO
-8,23466,other,37,male,13116,YES
-1,24897,asian,8,female,29459,NO
-8,57857,caucasian,0,male,96940,YES
-8,53460,hispanic,54,male,69399,YES
-10,30813,asian,16,female,60127,YES
-9,21457,hispanic,12,female,18215,YES
-10,70776,caucasian,21,female,98388,YES
-7,79166,asian,36,male,24579,YES
-3,98890,caucasian,40,female,45446,NO
-5,35130,hispanic,10,male,50933,NO
-10,63190,asian,51,male,71624,YES
-6,56084,other,36,male,40932,YES
-10,52516,african american,50,male,69689,YES
-5,25955,hispanic,36,male,27128,NO
-3,30305,african american,7,male,88332,NO
-4,80244,asian,55,female,38724,NO
-2,47405,asian,31,female,82838,NO
-9,24785,other,10,male,70701,YES
-4,11195,caucasian,50,male,73786,NO
-1,50544,asian,41,female,54348,NO
-5,24217,hispanic,31,female,13857,NO
-3,38003,asian,21,female,51080,NO
-9,89627,asian,5,female,14184,YES
-10,42794,hispanic,31,male,32517,YES
-9,62023,hispanic,57,male,73915,YES
-10,36389,asian,36,male,24058,YES
-4,68889,hispanic,60,male,55419,NO
-7,38510,caucasian,44,female,88396,YES
-7,43929,african american,6,female,31392,YES
-3,64257,african american,20,male,20754,NO
-2,88523,african american,17,male,86326,NO
-1,34379,caucasian,4,female,40575,NO
-3,44522,african american,31,male,75246,NO
-3,73385,other,28,female,70199,NO
-6,54085,caucasian,59,male,25020,YES
-3,49563,african american,22,male,12573,NO
-8,52206,asian,22,male,45404,YES
-10,26934,caucasian,54,male,76122,YES
-10,85156,caucasian,50,female,20602,YES
-3,22831,african american,59,male,87917,NO
-3,51874,caucasian,58,male,14837,NO
-4,46408,african american,8,female,49678,NO
-10,61341,caucasian,15,female,89524,YES
-8,98061,african american,31,male,68673,YES
-6,45946,caucasian,54,male,30614,YES
-1,53006,other,19,female,23563,NO
-4,44426,african american,12,female,62573,NO
-10,99736,african american,50,female,55684,YES
-2,30687,hispanic,14,male,93573,NO
-7,80677,other,5,female,71837,YES
-7,45016,caucasian,33,male,48557,YES
-9,61135,caucasian,34,male,62607,YES
-5,26777,caucasian,41,male,88591,NO
-10,16655,african american,45,female,41409,YES
-5,31523,caucasian,43,female,67365,NO
-2,95713,asian,50,female,37796,NO
-9,43720,asian,54,female,64756,YES
-5,93748,other,49,male,86582,NO
-1,75584,hispanic,21,female,42227,NO
-4,82412,asian,60,female,53100,NO
-2,78671,asian,7,male,40588,NO
-10,46995,asian,8,female,72732,YES
-10,56209,hispanic,4,male,95935,YES
-7,81453,asian,37,male,38448,YES
-2,30238,other,37,male,49692,NO
-7,86380,asian,39,male,31692,YES
-1,35721,african american,26,female,22660,NO
-2,14707,other,16,female,80814,NO
-5,84287,other,36,male,23903,NO
-6,97702,other,26,female,40909,YES
-1,18327,hispanic,30,female,63466,NO
-3,34421,hispanic,42,male,78565,NO
-3,93311,caucasian,47,male,31303,NO
-5,20114,asian,43,male,30142,NO
-10,74735,african american,35,female,86392,YES
-1,70845,caucasian,15,female,82158,NO
-3,19947,caucasian,17,male,81678,NO
-8,69304,hispanic,4,male,12855,YES
-2,46364,other,35,female,90669,NO
-4,14444,african american,45,female,27985,NO
-4,97514,caucasian,7,female,60917,NO
-6,42688,african american,39,male,47285,YES
-2,45437,asian,42,male,75562,NO
-7,49949,african american,43,male,52290,YES
-6,24377,other,8,female,25761,YES
-6,69959,other,31,female,69544,YES
-7,65997,african american,43,male,63268,YES
-3,82301,other,36,female,41097,NO
-3,74610,african american,33,male,54616,NO
-2,44857,caucasian,14,male,53859,NO
-1,56130,hispanic,33,female,56308,NO
-2,79739,african american,58,female,19196,NO
-8,62728,hispanic,4,male,16022,YES
-5,10078,asian,6,male,87901,NO
-3,58599,hispanic,15,male,18274,NO
-7,50432,caucasian,55,male,13607,YES
-10,36469,caucasian,29,female,90378,YES
-7,17897,african american,58,male,75410,YES
-5,53636,other,40,male,91313,NO
-5,25938,hispanic,20,female,48492,NO
-8,40650,african american,46,female,85345,YES
-2,98734,asian,27,male,32469,NO
-4,9056,hispanic,48,female,35991,NO
-10,32749,asian,14,female,16178,YES
-2,16247,other,23,male,86288,NO
-7,91159,caucasian,24,male,49065,YES
-6,53012,other,20,female,38558,YES
-3,85878,caucasian,52,male,26655,NO
-7,66495,african american,29,male,85525,YES
-5,97009,african american,32,male,16999,NO
-10,34151,african american,45,female,60828,YES
-9,15545,asian,38,female,16744,YES
-6,39730,other,60,male,97373,YES
-10,46180,asian,55,female,86035,YES
-2,38141,african american,47,female,26305,NO
-10,42704,asian,48,male,21075,YES
-4,91215,other,22,male,48064,NO
-4,35949,caucasian,16,male,83094,NO
-6,39405,asian,46,female,68635,YES
-3,58060,caucasian,3,male,17679,NO
-10,43779,asian,43,female,47265,YES
-10,64302,asian,23,female,59738,YES
-7,55179,other,2,female,55536,YES
-6,90182,asian,23,female,67140,YES
-1,89102,african american,24,female,65799,NO
-7,67901,caucasian,15,male,40597,YES
-3,53406,caucasian,18,male,53147,NO
-7,76948,african american,38,male,16545,YES
-1,27646,other,58,male,30398,NO
-1,36624,other,36,male,87607,NO
-1,37129,african american,16,female,78160,NO
-3,51371,asian,39,male,10139,NO
-10,32437,other,46,female,39430,YES
-4,50074,other,6,male,18666,NO
-8,71590,caucasian,56,male,78619,YES
-9,96235,asian,31,female,48873,YES
-8,52717,african american,44,female,27949,YES
-1,37812,other,17,male,64323,NO
-10,31654,other,51,male,56711,YES
-4,39978,hispanic,28,female,48532,NO
-8,38670,asian,18,male,41120,YES
-7,88998,other,27,male,11929,YES
-3,10718,asian,10,female,30161,NO
-9,94458,hispanic,18,male,94935,YES
-3,13340,asian,35,female,60635,NO
-8,87484,african american,48,female,78353,YES
-4,79261,other,15,male,33671,NO
-1,33291,other,35,female,50241,NO
-4,91217,caucasian,34,female,36695,NO
-7,37435,hispanic,8,female,99908,YES
-7,50911,asian,6,female,14399,YES
-8,20939,hispanic,39,male,40138,YES
-10,32971,caucasian,53,female,59272,YES
-1,38983,caucasian,12,female,29180,NO
-7,63068,other,54,male,37954,YES
-6,94843,african american,12,male,60910,YES
-4,40313,asian,33,female,71713,NO
-9,18357,asian,5,female,34841,YES
-9,77191,caucasian,58,female,26312,YES
-5,64390,african american,3,male,52509,NO
-3,48987,hispanic,44,female,54750,NO
-10,41286,african american,41,male,44916,YES
-9,67371,hispanic,45,male,36456,YES
-7,74668,hispanic,15,female,19899,YES
-8,31967,hispanic,26,male,98553,YES
-6,82809,asian,20,male,43576,YES
-3,12400,other,19,male,54447,NO
-3,9955,asian,13,female,79253,NO
-3,38099,hispanic,23,female,48238,NO
-1,55940,hispanic,50,male,65926,NO
-8,25635,hispanic,38,female,70603,YES
-1,52100,asian,33,female,46412,NO
-3,45337,hispanic,48,female,30688,NO
-4,82785,hispanic,32,male,22292,NO
-2,35131,african american,35,male,59313,NO
-9,28323,african american,7,male,15069,YES
-2,86738,hispanic,51,male,38040,NO
-6,42616,hispanic,52,female,12050,YES
-6,27520,caucasian,39,female,18103,YES
-9,26664,hispanic,6,female,26321,YES
-7,94100,hispanic,53,female,94118,YES
-2,78860,other,58,female,75529,NO
-9,40737,hispanic,16,female,99536,YES
-7,64595,other,46,female,30089,YES
-5,69144,african american,44,female,93929,NO
-8,73701,african american,54,female,92711,YES
-5,25987,other,9,male,21458,NO
-6,90333,caucasian,13,female,14178,YES
-9,84088,asian,57,female,66389,YES
-1,53036,other,49,male,29956,NO
-5,40217,other,38,male,78168,NO
-10,79392,african american,40,female,63652,YES
-3,22462,african american,9,male,17703,NO
-9,97771,asian,8,male,82899,YES
-5,92369,other,30,male,22138,NO
-7,88664,asian,46,female,57725,YES
-8,95459,caucasian,21,female,11426,YES
-9,66153,african american,25,male,61402,YES
-7,48871,caucasian,6,male,33466,YES
-5,87734,other,24,female,14321,NO
-2,43451,other,22,male,11323,NO
-7,16470,asian,34,male,34393,YES
-3,50873,african american,47,female,86745,NO
-1,42254,african american,47,female,35544,NO
-8,71153,other,57,female,29107,YES
-2,30003,caucasian,49,male,24468,NO
-2,48205,asian,13,female,27060,NO
-3,30068,african american,36,female,14149,NO
-3,21093,african american,14,male,25747,NO
-9,38739,asian,45,female,69663,YES
-1,76571,african american,28,female,74424,NO
-6,38497,hispanic,0,female,73248,YES
-6,94591,hispanic,19,male,37050,YES
-10,97493,hispanic,55,female,14100,YES
-1,19614,other,32,male,43884,NO
-4,57968,hispanic,3,male,35647,NO
-1,97946,other,43,female,48530,NO
-4,9771,hispanic,44,male,66182,NO
-3,97418,hispanic,44,female,77228,NO
-4,84571,african american,26,male,12770,NO
-10,42755,hispanic,45,female,61711,YES
-5,58493,caucasian,30,female,95910,NO
-4,24582,hispanic,39,male,46470,NO
-7,41822,other,45,male,35924,YES
-7,12917,caucasian,43,male,42362,YES
-6,46600,hispanic,35,male,85240,YES
-9,31250,caucasian,59,female,40629,YES
-1,34952,hispanic,26,female,35292,NO
-10,48810,african american,27,male,18968,YES
-5,10685,african american,29,female,30177,NO
-7,97186,asian,9,male,28631,YES
-10,9229,asian,26,male,15864,YES
-5,58129,caucasian,45,male,60832,NO
-4,15135,hispanic,5,female,31668,NO
-10,33968,asian,12,male,13622,YES
-7,44121,asian,33,male,92353,YES
-1,49102,other,53,male,36660,NO
-5,66501,african american,31,female,21125,NO
-3,70983,asian,2,female,28501,NO
-1,29456,african american,38,male,38656,NO
-2,9799,hispanic,52,male,90735,NO
-5,24931,caucasian,33,female,50732,NO
-4,98766,other,20,female,71160,NO
-4,31875,caucasian,55,female,53548,NO
-9,63204,other,44,female,52417,YES
-1,44439,caucasian,44,male,48972,NO
-6,29518,caucasian,53,male,57353,YES
-8,51358,african american,56,male,85563,YES
-7,13522,asian,58,male,69922,YES
-7,72515,asian,27,female,75981,YES
-5,61165,other,12,male,85318,NO
-2,41364,caucasian,37,female,38632,NO
-5,91962,other,55,female,92589,NO
-1,61843,african american,20,male,75345,NO
-4,79125,other,22,male,80697,NO
-8,46278,african american,50,female,28178,YES
-1,16410,caucasian,23,male,87058,NO
-3,34185,hispanic,17,male,65423,NO
-3,76675,other,35,male,11154,NO
-1,26363,asian,47,female,96442,NO
-6,42824,asian,19,male,43929,YES
-4,9634,hispanic,23,female,32216,NO
-9,14325,caucasian,39,male,66938,YES
-5,61435,caucasian,14,female,62088,NO
-5,16241,other,12,male,25628,NO
-5,45614,caucasian,58,female,42991,NO
-6,20308,african american,13,male,62028,YES
-6,84492,other,4,male,84235,YES
-5,58223,asian,25,female,43541,NO
-3,48946,hispanic,38,male,19980,NO
-9,83496,caucasian,5,female,12336,YES
-10,52505,hispanic,46,female,28315,YES
-2,32916,asian,43,female,41929,NO
-2,93106,caucasian,13,male,14089,NO
-1,12479,asian,3,female,37070,NO
-2,14251,asian,10,female,47549,NO
-3,97953,asian,20,male,35862,NO
-8,67921,african american,58,female,60293,YES
-6,55816,caucasian,16,male,53874,YES
-4,38044,african american,21,male,27589,NO
-8,11598,other,31,female,29921,YES
-9,23348,caucasian,51,male,51863,YES
-10,62931,african american,15,female,27427,YES
-9,20097,asian,40,male,74619,YES
-3,60937,african american,45,male,73805,NO
-1,71512,asian,9,male,44900,NO
-4,9007,african american,5,male,12157,NO
-5,81898,other,42,female,75111,NO
-5,27050,hispanic,55,male,97392,NO
-9,96695,asian,59,male,52140,YES
-4,65406,other,48,male,15579,NO
-3,98329,asian,52,female,42170,NO
-7,61496,caucasian,60,female,37914,YES
-1,82086,african american,45,male,72475,NO
-2,70327,hispanic,17,female,59956,NO
-4,75446,african american,16,male,95611,NO
-2,92484,asian,47,female,13336,NO
-6,35886,caucasian,45,male,44577,YES
-1,67813,hispanic,2,female,88622,NO
-9,65585,african american,10,female,24907,YES
-8,83295,asian,14,male,71410,YES
-10,72611,caucasian,17,male,38915,YES
-8,42722,asian,3,female,73163,YES
-6,84157,asian,52,female,96547,YES
-7,79377,other,34,female,41789,YES
-9,21046,other,58,male,42878,YES
-1,69794,other,47,male,88559,NO
-4,73108,hispanic,35,male,82139,NO
-3,81151,african american,48,male,25772,NO
-4,10880,hispanic,30,female,57678,NO
-7,40858,asian,23,male,99408,YES
-10,72988,african american,14,female,67646,YES
-1,51568,hispanic,51,female,14792,NO
-9,12694,other,60,male,85889,YES
-3,87174,caucasian,59,male,42892,NO
-3,34588,hispanic,41,male,84850,NO
-3,17590,asian,44,female,40278,NO
-8,70064,other,58,male,26857,YES
-4,13142,asian,25,male,60595,NO
-2,35490,caucasian,30,female,34598,NO
-1,89756,african american,56,female,36665,NO
-1,44238,caucasian,13,female,99249,NO
-1,74097,other,47,female,79130,NO
-7,35030,asian,40,male,91736,YES
-8,87476,caucasian,46,male,61588,YES
-5,37513,african american,8,male,72928,NO
-10,52347,other,29,male,74364,YES
-10,57416,caucasian,4,female,60352,YES
-9,88645,other,36,female,86779,YES
-10,48223,hispanic,2,male,74254,YES
-3,29229,caucasian,50,female,97334,NO
-5,45796,african american,29,male,40149,NO
-8,30538,african american,8,female,24042,YES
-9,11070,asian,20,male,79166,YES
-9,50540,hispanic,7,male,97014,YES
-9,62025,african american,36,male,79708,YES
-8,26974,hispanic,26,female,80994,YES
-7,21112,hispanic,13,male,45886,YES
-9,54487,asian,38,male,30374,YES
-10,34717,african american,50,female,72628,YES
-10,67589,asian,19,female,52910,YES
-7,18268,other,28,female,26158,YES
-4,90141,other,55,female,34664,NO
-5,82449,african american,20,female,27505,NO
-1,17275,african american,12,male,30079,NO
-1,36505,caucasian,35,male,37325,NO
-6,60212,caucasian,50,female,91238,YES
-5,24083,hispanic,19,male,76365,NO
-1,90681,caucasian,8,female,83106,NO
-2,9961,asian,26,female,46351,NO
-4,53465,asian,43,female,87393,NO
-10,16100,other,13,female,89606,YES
-5,68570,caucasian,56,female,99034,NO
-5,39966,other,53,female,54444,NO
-9,87022,hispanic,26,female,47713,YES
-7,64190,african american,20,male,41909,YES
-3,44585,caucasian,50,female,72535,NO
-3,74899,other,55,male,44497,NO
-7,82560,other,16,male,25370,YES
-4,24129,african american,23,female,45613,NO
-1,55584,hispanic,6,male,68951,NO
-2,36447,african american,57,male,17082,NO
-1,77104,caucasian,41,female,56548,NO
-2,64555,hispanic,31,male,46497,NO
-8,81121,asian,21,female,75500,YES
-4,14863,other,3,female,22187,NO
-6,35137,caucasian,6,male,71446,YES
-9,79781,asian,44,female,58100,YES
-4,39637,african american,43,female,71104,NO
-4,40306,caucasian,32,female,62068,NO
-6,17114,african american,49,female,22993,YES
-7,94434,other,42,male,18086,YES
-3,71811,caucasian,2,male,93495,NO
-8,86795,african american,5,female,67030,YES
-3,17922,african american,57,female,79458,NO
-9,70529,caucasian,46,female,53792,YES
-5,55238,other,21,male,78544,NO
-6,68891,african american,49,female,85240,YES
-2,10953,hispanic,12,female,16363,NO
-7,23093,hispanic,34,female,43083,YES
-9,22789,other,56,male,75836,YES
-9,33629,other,31,female,17424,YES
-5,95618,african american,6,female,76114,NO
-6,85796,hispanic,43,male,49918,YES
-9,16520,hispanic,42,female,83840,YES
-7,60820,african american,37,male,90946,YES
-3,57407,hispanic,44,male,68595,NO
-3,10605,hispanic,47,female,75821,NO
-8,9242,african american,41,male,13131,YES
-3,42439,other,9,female,49482,NO
-4,19067,african american,47,male,18513,NO
-10,27940,asian,25,female,54917,YES
-8,12320,asian,3,female,79628,YES
-10,73821,african american,51,female,44523,YES
-8,86009,caucasian,0,male,89717,YES
-10,20228,hispanic,10,female,47888,YES
-3,26999,hispanic,1,female,88099,NO
-1,19248,african american,37,male,77095,NO
-9,96688,hispanic,0,female,50548,YES
-2,66016,hispanic,51,female,44665,NO
-9,87147,hispanic,5,male,54751,YES
-6,50951,other,51,male,89039,YES
-7,79139,other,12,female,31646,YES
-2,48651,caucasian,42,female,62423,NO
-5,17036,hispanic,12,male,28582,NO
-7,16694,african american,20,female,15422,YES
-4,43682,asian,18,female,27290,NO
-7,90667,hispanic,35,male,50292,YES
-9,36159,other,40,female,55682,YES
-3,75329,hispanic,50,female,75074,NO
-6,9436,other,8,female,85794,YES
-9,87926,african american,28,male,69997,YES
-8,99398,hispanic,22,female,86582,YES
-6,41089,asian,22,male,70227,YES
-10,63590,asian,4,male,27463,YES
-1,44986,hispanic,36,male,81412,NO
-7,33261,caucasian,56,female,19201,YES
-6,75592,caucasian,48,male,28003,YES
-5,48173,caucasian,22,female,61625,NO
-6,23877,hispanic,55,female,26626,YES
-9,98589,hispanic,4,male,34654,YES
-5,11325,other,27,male,63518,NO
-2,29966,hispanic,29,female,88279,NO
-10,11927,hispanic,53,female,51580,YES
-4,92417,other,15,female,63875,NO
-8,65933,other,52,male,88085,YES
-4,81525,asian,38,female,20199,NO
-7,59331,other,49,male,96052,YES
-7,90938,caucasian,33,female,66993,YES
-3,21017,african american,31,female,81170,NO
-7,18642,hispanic,33,male,31593,YES
-4,97401,other,9,male,94460,NO
-10,52753,caucasian,60,female,16627,YES
-4,93553,asian,8,female,25498,NO
-10,73274,caucasian,11,male,55051,YES
-4,79051,hispanic,52,female,86126,NO
-5,58141,hispanic,60,male,71367,NO
-7,91747,african american,12,female,92613,YES
-6,66409,asian,40,female,82625,YES
-6,62451,other,37,male,40816,YES
-2,73950,other,36,female,62554,NO
-8,27078,hispanic,41,female,67427,YES
-7,96356,asian,12,male,46817,YES
-8,34892,asian,30,male,26237,YES
-10,25531,african american,29,female,32645,YES
-7,21541,asian,37,female,88371,YES
-2,39963,asian,46,female,85820,NO
-8,89125,asian,51,male,50322,YES
-3,11992,hispanic,16,male,35818,NO
-9,34142,hispanic,37,male,83009,YES
-9,86456,african american,8,female,84184,YES
-2,79687,hispanic,12,female,71481,NO
-8,99067,other,47,male,66223,YES
-6,73326,asian,8,female,20310,YES
-6,53133,african american,51,male,37302,YES
-5,42182,hispanic,11,female,21254,NO
-3,73749,hispanic,41,male,80256,NO
-6,98010,hispanic,43,female,69829,YES
-6,91052,caucasian,3,male,54385,YES
-5,59057,african american,44,female,98034,NO
-5,37422,asian,24,female,95588,NO
-1,36877,african american,13,male,98630,NO
-8,36361,hispanic,6,male,24910,YES
-5,15301,caucasian,56,female,95617,NO
-9,82653,hispanic,55,female,91317,YES
-5,52329,asian,18,male,50863,NO
-6,94989,asian,9,female,25872,YES
-2,61182,hispanic,12,male,33958,NO
-1,17179,african american,12,female,94882,NO
-5,36457,caucasian,41,male,12431,NO
-7,44851,hispanic,47,male,95899,YES
-4,60546,other,43,female,63714,NO
-5,63503,african american,40,male,72771,NO
-3,20366,asian,14,female,37368,NO
-3,46103,other,40,male,53291,NO
-4,15944,african american,24,female,76709,NO
-10,25998,asian,56,female,99966,YES
-2,93005,hispanic,15,female,23269,NO
-3,27134,african american,25,female,35566,NO
-4,59099,african american,41,male,63818,NO
-6,44379,hispanic,57,male,30508,YES
-5,16234,hispanic,39,male,32393,NO
-8,40047,african american,47,female,79328,YES
-3,67077,caucasian,5,male,93047,NO
-7,44725,other,27,female,46126,YES
-10,27596,hispanic,15,female,61705,YES
-8,44523,hispanic,17,male,47932,YES
-8,62819,african american,51,female,10034,YES
-10,72213,african american,34,male,71055,YES
-6,30104,caucasian,36,female,82494,YES
-7,77000,african american,46,male,35588,YES
-7,48054,african american,39,female,15291,YES
-1,78141,caucasian,34,female,69964,NO
-4,62730,caucasian,50,female,93357,NO
-6,58520,caucasian,4,male,34917,YES
-10,33959,asian,60,male,37878,YES
-10,18940,hispanic,41,male,88822,YES
-4,88688,hispanic,17,female,55275,NO
-2,17598,african american,30,male,25504,NO
-9,47732,caucasian,25,female,64364,YES
-5,15670,other,47,male,49270,NO
-3,72045,caucasian,49,male,19409,NO
-8,94733,caucasian,48,male,79237,YES
-8,51687,african american,41,female,67660,YES
-1,29775,african american,15,male,58461,NO
-10,77984,hispanic,0,female,17727,YES
-3,65832,hispanic,58,female,73021,NO
-10,23799,asian,55,male,25986,YES
-5,51846,other,51,female,29423,NO
-9,43102,caucasian,18,male,70549,YES
-5,51043,other,44,male,68835,NO
-5,97927,african american,38,male,80743,NO
-4,66038,asian,7,female,86998,NO
-5,46878,other,26,male,82027,NO
-7,28660,hispanic,5,male,43821,YES
-7,81235,african american,7,male,55396,YES
-1,45237,african american,56,male,33244,NO
-2,9053,hispanic,7,male,45508,NO
-4,53349,hispanic,53,female,23225,NO
-8,74082,hispanic,34,female,54863,YES
-1,80256,caucasian,38,male,37985,NO
-8,84152,hispanic,5,female,25305,YES
-4,57882,hispanic,38,female,40670,NO
-2,64890,other,35,male,36919,NO
-6,90605,caucasian,12,male,88386,YES
-7,56914,hispanic,2,female,65933,YES
-7,75336,caucasian,47,male,71758,YES
-1,40703,asian,19,female,96867,NO
-4,79343,other,4,female,41321,NO
-7,96811,asian,32,male,36074,YES
-8,31244,caucasian,27,female,28967,YES
-10,17008,african american,29,male,38266,YES
-2,33091,african american,32,female,74838,NO
-10,82912,african american,40,male,86071,YES
-9,29790,asian,50,female,52663,YES
-1,58042,caucasian,20,male,46316,NO
-1,13056,african american,14,female,50722,NO
-1,40725,hispanic,25,female,65389,NO
-1,67183,caucasian,13,male,80283,NO
-8,21247,hispanic,18,male,42966,YES
-2,83881,asian,11,female,54204,NO
-5,46971,hispanic,29,male,41899,NO
-1,15253,other,22,male,77699,NO
-5,26631,caucasian,23,female,30925,NO
-2,59566,other,60,male,24833,NO
-5,15308,other,36,male,79369,NO
-6,51154,caucasian,10,male,30604,YES
-3,55116,african american,49,female,44958,NO
-3,81853,hispanic,51,male,38657,NO
-8,41542,hispanic,54,male,32217,YES
-9,89214,asian,22,male,16377,YES
-4,78750,african american,42,male,49427,NO
-7,33590,caucasian,44,female,12341,YES
-3,61722,african american,36,male,53155,NO
-6,73205,other,57,female,73275,YES
-8,96070,caucasian,26,male,28726,YES
-9,34850,african american,53,male,55033,YES
-7,81332,hispanic,53,male,97568,YES
-5,95822,hispanic,11,female,83640,NO
-4,91115,other,10,female,31313,NO
-5,96501,caucasian,21,female,26465,NO
-2,73622,african american,59,female,63423,NO
-2,84722,african american,32,female,78589,NO
-10,95518,other,18,male,63941,YES
-6,77975,hispanic,18,female,19321,YES
-2,86273,asian,3,male,51492,NO
-9,94822,caucasian,41,male,95687,YES
-6,89700,hispanic,54,female,37937,YES
-2,96087,african american,12,male,71020,NO
-3,68823,other,10,male,31760,NO
-6,64922,caucasian,47,female,52966,YES
-4,19664,caucasian,8,male,84649,NO
-7,79575,african american,58,female,94447,YES
-9,48075,african american,10,female,48603,YES
-8,64803,african american,15,female,35796,YES
-5,23932,african american,3,male,33589,NO
-2,62375,hispanic,11,male,25962,NO
-9,50689,hispanic,9,female,20259,YES
-9,17249,other,2,male,20115,YES
-8,27193,asian,31,female,53289,YES
-2,19036,other,13,female,28607,NO
-9,20087,hispanic,57,female,63275,YES
-2,91590,caucasian,6,male,34491,NO
-9,48076,other,42,female,61358,YES
-6,66426,hispanic,25,male,41550,YES
-3,9307,asian,25,male,77304,NO
-9,19922,caucasian,22,male,69860,YES
-5,13910,caucasian,40,male,54334,NO
-7,51601,asian,43,male,18419,YES
-5,73639,asian,18,female,50401,NO
-1,70080,asian,47,male,39837,NO
-2,45693,asian,27,female,58298,NO
-8,25529,other,9,male,48869,YES
-4,73928,asian,11,female,42685,NO
-4,85840,african american,43,male,21669,NO
-3,55676,asian,29,male,94131,NO
-1,20982,asian,56,female,58266,NO
-10,29829,other,3,female,12573,YES
-4,82784,asian,10,male,45991,NO
-3,90204,african american,38,female,52523,NO
-6,56270,other,47,male,72833,YES
-2,39131,other,0,female,97522,NO
-3,14574,african american,34,female,56679,NO
-10,97075,asian,6,male,77047,YES
-6,10347,asian,24,female,55909,YES
-9,76226,other,1,male,39401,YES
-6,86004,other,1,male,56899,YES
-7,99661,other,19,male,31142,YES
-9,10943,asian,25,male,88296,YES
-1,36562,asian,51,female,75958,NO
-10,85445,caucasian,31,female,35127,YES
-3,64515,african american,39,female,66530,NO
-2,68575,african american,33,female,30840,NO
-3,73011,asian,48,female,75492,NO
-2,12644,hispanic,19,male,77483,NO
-2,20740,african american,34,male,28735,NO
-10,89937,african american,45,male,52822,YES
-2,39639,other,1,male,96187,NO
-10,94975,hispanic,27,male,36730,YES
-8,73718,other,30,female,78782,YES
-7,68948,african american,60,female,23423,YES
-6,21359,caucasian,19,female,67107,YES
-2,73621,hispanic,43,male,30717,NO
-8,26511,other,25,female,42032,YES
-3,59214,asian,19,female,98879,NO
-2,26453,asian,52,female,33521,NO
-8,21993,hispanic,40,male,54070,YES
-6,34602,asian,22,female,81413,YES
-6,56020,other,56,female,98947,YES
-2,38152,caucasian,46,female,94489,NO
-8,37383,hispanic,41,male,54907,YES
-3,99300,caucasian,28,female,49107,NO
-9,88354,other,15,male,75073,YES
-10,25919,other,32,female,32493,YES
-3,25633,hispanic,23,male,22345,NO
-10,17919,hispanic,22,female,10918,YES
-9,44636,other,24,female,40671,YES
-3,83755,caucasian,56,female,76639,NO
-5,86985,caucasian,3,female,59656,NO
-4,56701,hispanic,0,female,50460,NO
-7,95334,asian,44,female,88980,YES
-3,27423,hispanic,39,female,10083,NO
-8,40736,asian,52,male,16961,YES
-6,80582,african american,36,male,24803,YES
-9,61585,asian,41,male,46865,YES
-1,51344,asian,6,male,79588,NO
-8,19634,asian,3,male,85377,YES
-4,16707,caucasian,33,male,40355,NO
-8,55890,hispanic,52,female,85508,YES
-3,54124,other,16,male,87834,NO
-2,11002,other,31,female,57701,NO
-2,24297,african american,40,male,21840,NO
-2,45039,hispanic,56,male,30522,NO
-8,57557,asian,52,female,72931,YES
-4,50500,caucasian,5,female,22350,NO
-9,30365,african american,8,female,37955,YES
-2,18592,caucasian,17,female,82323,NO
-7,28757,asian,14,female,28652,YES
-1,16721,african american,10,male,56208,NO
-9,91749,asian,40,male,47932,YES
-6,45195,caucasian,54,female,31241,YES
-8,19241,caucasian,43,male,75049,YES
-7,10201,hispanic,47,male,74989,YES
-7,21038,caucasian,50,female,64527,YES
-7,32638,hispanic,31,male,18086,YES
-7,75735,asian,31,female,58905,YES
-9,61271,hispanic,19,male,15644,YES
-7,11493,other,8,female,19580,YES
-8,82268,caucasian,28,male,71878,YES
-1,26031,caucasian,39,male,48158,NO
-3,32789,african american,43,female,26799,NO
-6,52488,caucasian,28,female,48280,YES
-8,41368,african american,35,male,26742,YES
-1,86999,hispanic,22,male,13665,NO
-5,21595,hispanic,51,female,29926,NO
-5,19948,caucasian,59,female,78866,NO
-5,11654,hispanic,16,female,77941,NO
-2,57745,other,47,female,59539,NO
-6,10902,african american,57,female,21833,YES
-5,50295,asian,57,female,95265,NO
-6,53008,asian,39,female,91334,YES
-9,64652,caucasian,34,male,43532,YES
-7,95285,african american,51,male,19287,YES
-10,75676,hispanic,37,male,96039,YES
-5,78013,other,45,female,51893,NO
-6,78524,african american,53,female,15181,YES
-5,33242,hispanic,4,male,15478,NO
-10,38848,african american,48,male,42553,YES
-1,97656,asian,13,female,25275,NO
-10,51127,hispanic,9,female,67025,YES
-8,48630,caucasian,18,female,13646,YES
-8,79419,asian,21,male,17540,YES
-5,11930,asian,17,male,90248,NO
-8,83544,asian,38,male,33691,YES
-8,38246,hispanic,45,female,95343,YES
-1,91269,hispanic,44,male,20731,NO
-9,55186,african american,18,female,65249,YES
-6,21249,african american,37,male,44210,YES
-1,13384,african american,56,female,33816,NO
-1,43730,african american,35,female,78211,NO
-6,21871,african american,10,male,48201,YES
-5,38072,caucasian,58,female,36259,NO
-6,43207,african american,43,female,74624,YES
-7,43391,other,52,male,10950,YES
-10,98370,caucasian,45,female,64739,YES
-9,95122,caucasian,41,male,52943,YES
-1,26944,caucasian,18,female,72423,NO
-3,13037,caucasian,39,male,21020,NO
-9,40166,african american,54,male,82658,YES
-10,61468,caucasian,20,female,35105,YES
-8,64113,caucasian,57,male,20025,YES
-7,57696,african american,55,male,12861,YES
-3,19283,other,4,male,45380,NO
-2,27747,african american,25,male,78839,NO
-3,73107,caucasian,55,female,38170,NO
-7,45083,hispanic,43,female,48557,YES
-5,81360,caucasian,26,female,66901,NO
-9,82862,caucasian,50,female,83843,YES
-3,58073,african american,9,male,23407,NO
-2,26751,asian,7,male,71077,NO
-6,18485,caucasian,12,female,93207,YES
-2,76600,other,50,female,96793,NO
-6,64745,hispanic,35,female,65838,YES
-5,32715,other,18,female,64215,NO
-10,23840,hispanic,25,female,74366,YES
-3,77182,african american,19,female,80504,NO
-2,73918,caucasian,59,male,34771,NO
-6,85884,hispanic,43,female,92564,YES
-5,96763,african american,7,female,18816,NO
-5,49281,african american,28,female,71472,NO
-9,42793,other,3,female,22124,YES
-10,15211,asian,29,male,30537,YES
-5,27065,caucasian,44,female,35849,NO
-8,43150,hispanic,16,female,91818,YES
-7,85676,hispanic,13,male,10110,YES
-2,58603,other,24,female,25218,NO
-10,34853,caucasian,6,female,76212,YES
-6,62264,caucasian,55,male,54976,YES
-8,23655,asian,4,female,99570,YES
-9,86879,african american,12,male,60218,YES
-6,35456,other,11,male,23942,YES
-9,49687,hispanic,55,male,94760,YES
-8,92992,asian,41,male,73536,YES
-10,13441,african american,30,female,40709,YES
-2,86181,caucasian,59,male,95528,NO
-5,33796,other,3,female,34182,NO
-10,77854,caucasian,20,female,54273,YES
-4,31991,african american,42,male,20670,NO
-9,55682,caucasian,16,female,71156,YES
-3,10466,other,54,male,72198,NO
-5,27920,african american,40,male,90876,NO
-9,33273,other,55,female,12969,YES
-3,87974,african american,6,female,39083,NO
-6,31922,hispanic,51,male,77051,YES
-4,57593,hispanic,56,female,25805,NO
-8,34416,hispanic,31,male,76937,YES
-6,40024,other,41,male,77486,YES
-9,10772,other,56,female,85047,YES
-3,86960,african american,59,female,88382,NO
-4,34070,other,40,female,85647,NO
-8,16607,other,5,male,86250,YES
-4,60980,other,48,female,99538,NO
-2,27927,asian,48,female,40003,NO
-3,93397,asian,33,male,32895,NO
-7,23865,hispanic,28,male,42411,YES
-2,81781,african american,49,female,88266,NO
-1,17217,asian,42,female,55003,NO
-5,49030,caucasian,42,female,75135,NO
-1,99545,african american,51,female,49926,NO
-3,67680,asian,44,female,13920,NO
-5,36903,african american,49,female,37493,NO
-5,76973,asian,25,female,50581,NO
-2,71146,hispanic,46,male,33249,NO
-9,25569,hispanic,58,female,50602,YES
-3,93996,caucasian,11,male,53241,NO
-1,70642,african american,28,male,39996,NO
-2,93552,caucasian,37,male,39283,NO
-2,15578,caucasian,22,male,53693,NO
-7,67061,hispanic,41,male,73790,YES
-10,50775,african american,6,male,18478,YES
-9,93373,african american,23,female,65411,YES
-8,63178,african american,0,female,67496,YES
-2,19979,other,33,female,35252,NO
-4,62453,caucasian,45,female,52274,NO
-3,94430,other,50,female,16355,NO
-1,86876,african american,14,male,53706,NO
-2,95457,hispanic,24,male,80688,NO
-3,50421,hispanic,28,male,28943,NO
-7,26321,asian,15,female,15021,YES
-1,46704,hispanic,34,female,42600,NO
-9,14098,african american,30,male,63948,YES
-2,75325,hispanic,34,male,32348,NO
-2,74444,other,31,female,19342,NO
-10,30981,other,6,male,73300,YES
-5,51271,african american,1,female,39911,NO
-10,17868,african american,35,male,87534,YES
-1,91041,hispanic,5,male,20474,NO
-1,97209,hispanic,22,male,17116,NO
-4,51050,asian,8,female,14102,NO
-6,21033,caucasian,43,female,59244,YES
-4,35411,hispanic,60,male,99471,NO
-7,79337,hispanic,4,male,17622,YES
-5,10858,caucasian,48,female,79204,NO
-1,99242,hispanic,26,male,19701,NO
-7,44752,hispanic,24,female,83540,YES
-8,50095,hispanic,33,female,12409,YES
-2,71422,hispanic,12,female,88205,NO
-9,91624,other,5,male,75839,YES
-8,90231,other,43,male,48402,YES
-8,50583,other,20,male,12270,YES
-4,50333,hispanic,52,male,33696,NO
-10,56075,hispanic,60,female,80630,YES
-6,96402,asian,47,female,57263,YES
-10,71710,other,50,male,44909,YES
-3,29410,other,11,female,87062,NO
-7,77568,caucasian,36,male,56138,YES
-8,67880,african american,6,male,75203,YES
-7,14990,asian,12,male,90103,YES
-1,61855,african american,33,female,97774,NO
-5,15553,african american,6,male,99024,NO
-3,18532,asian,21,male,12235,NO
-10,56079,african american,33,female,55189,YES
-8,12807,caucasian,18,female,66151,YES
-6,56098,other,35,female,59982,YES
-2,68564,asian,52,male,84839,NO
-3,44197,asian,36,female,37081,NO
-1,79053,hispanic,41,male,39287,NO
-6,23877,hispanic,15,male,11431,YES
-2,83412,caucasian,19,male,37431,NO
-7,17044,caucasian,20,female,76940,YES
-1,71784,hispanic,24,female,92500,NO
-7,98631,african american,50,female,73881,YES
-1,21354,african american,20,male,26512,NO
-1,62984,african american,48,male,23000,NO
-1,27222,other,59,female,34449,NO
-4,57605,asian,45,male,73759,NO
-5,32422,hispanic,46,male,83599,NO
-6,83178,hispanic,42,male,91027,YES
-3,93587,hispanic,55,female,81639,NO
-8,75442,african american,41,female,87791,YES
-9,71155,hispanic,56,female,18312,YES
-10,83113,hispanic,49,female,64998,YES
-1,87914,asian,33,male,94638,NO
-1,37081,african american,46,male,42994,NO
-3,99376,other,18,female,85028,NO
-6,22260,hispanic,20,female,39683,YES
-7,19416,caucasian,51,male,36285,YES
-3,67765,caucasian,44,male,63044,NO
-7,18625,hispanic,5,female,30126,YES
-10,49289,african american,32,male,68969,YES
-7,95930,asian,34,male,80750,YES
-5,37215,caucasian,6,female,69888,NO
-6,72324,other,45,female,62011,YES
-4,84181,asian,10,female,67826,NO
-5,44018,hispanic,0,male,21704,NO
-2,55866,other,60,female,38097,NO
-5,76237,african american,58,male,86652,NO
-9,39511,african american,38,male,44232,YES
-6,10918,other,1,female,37186,YES
-4,87967,asian,38,female,27832,NO
-7,91761,other,45,male,91479,YES
-9,22874,caucasian,51,male,70127,YES
-1,89435,hispanic,19,female,29981,NO
-10,87189,asian,24,female,51556,YES
-5,15664,african american,1,female,47923,NO
-9,97094,african american,59,male,51248,YES
-1,89221,caucasian,13,female,51015,NO
-2,32011,african american,55,female,51723,NO
-7,41991,other,53,female,16798,YES
-4,24871,african american,46,male,71033,NO
-7,94671,asian,27,female,33287,YES
-5,87860,hispanic,29,male,65868,NO
-3,39447,hispanic,10,female,75487,NO
-3,69610,hispanic,22,male,82652,NO
-7,63042,asian,60,male,70636,YES
-1,10155,caucasian,51,male,17722,NO
-1,25552,african american,0,female,27134,NO
-1,37370,hispanic,43,female,86672,NO
-1,19308,other,33,female,85732,NO
-5,75787,caucasian,56,male,74744,NO
-5,43862,other,30,female,79603,NO
-4,81825,other,48,male,81850,NO
-2,79828,hispanic,51,female,79523,NO
-10,54789,hispanic,25,male,14508,YES
-5,74318,african american,4,male,69913,NO
-2,81467,hispanic,24,female,24083,NO
-2,93123,asian,30,female,22124,NO
-1,9752,african american,2,male,47104,NO
-6,83319,asian,51,female,78325,YES
-7,73767,hispanic,59,female,26507,YES
-3,72010,caucasian,42,female,78833,NO
-3,85632,caucasian,28,female,51224,NO
-1,12121,caucasian,16,female,20926,NO
-6,13555,asian,42,male,38826,YES
-9,59399,african american,54,male,16116,YES
-8,97717,asian,57,male,17426,YES
-6,57913,other,39,female,44874,YES
-7,14889,other,4,female,57542,YES
-5,39304,other,29,male,14673,NO
-10,25711,caucasian,0,female,82471,YES
-1,62603,african american,16,male,66078,NO
-8,92253,hispanic,11,male,34789,YES
-9,71161,african american,31,female,37732,YES
-3,86717,caucasian,30,female,12946,NO
-7,33725,hispanic,14,female,48351,YES
-2,57461,african american,18,male,31273,NO
-10,41093,asian,41,male,33061,YES
-5,73919,asian,20,male,82304,NO
-9,72955,hispanic,4,female,51070,YES
-8,61098,other,27,female,38303,YES
-10,49469,hispanic,56,female,59137,YES
-3,19482,other,22,male,19024,NO
-5,50971,hispanic,55,male,18117,NO
-3,66775,asian,54,male,61260,NO
-8,35696,other,27,male,65880,YES
-6,91242,african american,5,male,32156,YES
-10,22994,hispanic,28,female,44514,YES
-6,55172,other,47,female,13357,YES
-7,25067,caucasian,24,male,22781,YES
-8,32746,asian,16,female,69800,YES
-3,58048,african american,47,female,49630,NO
-4,23237,asian,40,male,68092,NO
-4,70632,hispanic,59,male,43732,NO
-4,99006,other,29,male,70598,NO
-4,43708,hispanic,4,male,84403,NO
-4,73865,asian,24,female,99031,NO
-4,15672,african american,16,male,44958,NO
-3,23391,african american,2,female,40368,NO
-5,69541,hispanic,16,female,50952,NO
-6,28315,hispanic,41,female,16208,YES
-3,17186,hispanic,51,male,17254,NO
-2,85900,african american,13,female,78078,NO
-3,39286,caucasian,39,male,70409,NO
-1,96183,african american,8,male,36848,NO
-5,85212,hispanic,7,female,17738,NO
-2,84736,other,24,male,71052,NO
-2,47920,other,12,female,28540,NO
-9,81499,caucasian,18,female,76068,YES
-7,87258,other,17,male,94131,YES
-3,56182,asian,24,female,30815,NO
-3,48144,asian,14,female,38354,NO
-7,19263,other,55,male,10821,YES
-5,90903,african american,15,male,38045,NO
-10,45775,other,59,female,23819,YES
-4,27330,african american,2,female,81937,NO
-9,49774,other,0,female,12212,YES
-5,95249,african american,5,female,20442,NO
-4,30129,caucasian,36,female,96472,NO
-2,22823,caucasian,42,male,60796,NO
-10,46054,asian,33,female,53571,YES
-10,61125,african american,39,female,38158,YES
-8,28399,african american,51,female,94242,YES
-3,9506,other,7,male,28077,NO
-4,57036,african american,36,male,22172,NO
-9,18926,other,8,female,97399,YES
-6,91043,hispanic,2,female,98390,YES
-10,18101,hispanic,1,male,95482,YES
-6,69801,hispanic,48,male,98701,YES
-4,14787,hispanic,55,male,91758,NO
-6,35769,other,5,female,57473,YES
-7,37143,asian,18,female,37720,YES
-9,68093,african american,40,female,85324,YES
-8,89460,hispanic,30,female,11057,YES
-2,17440,other,35,female,60326,NO
-3,70430,asian,5,female,86118,NO
-10,60539,other,5,male,16228,YES
-3,70329,other,21,male,36163,NO
-2,54265,african american,33,female,91191,NO
-8,89471,asian,54,male,39364,YES
-8,47386,asian,31,female,54722,YES
-5,71144,caucasian,7,female,14415,NO
-8,88898,other,48,female,53902,YES
-8,66687,other,16,female,70650,YES
-3,84202,african american,37,male,37722,NO
-1,77009,asian,15,female,18574,NO
-7,84027,hispanic,9,female,46980,YES
-9,92348,african american,9,female,73302,YES
-5,20532,asian,47,female,14379,NO
-6,89325,asian,51,male,76554,YES
-2,52343,asian,5,male,33383,NO
-5,99033,asian,15,female,32082,NO
-9,11533,other,12,female,22266,YES
-4,99990,caucasian,26,female,35956,NO
-5,21306,hispanic,23,male,45117,NO
-1,43329,other,45,female,17686,NO
-8,45756,caucasian,36,male,60141,YES
-10,68304,caucasian,13,female,37724,YES
-8,76852,african american,28,male,34171,YES
-3,12266,other,60,female,42670,NO
-4,70714,other,37,male,88080,NO
-6,95955,hispanic,4,female,33713,YES
-6,40968,african american,60,male,95261,YES
-5,22906,hispanic,39,male,66707,NO
-8,46963,asian,8,male,28452,YES
-3,22987,other,50,male,33786,NO
-10,67137,hispanic,37,female,43180,YES
-9,99778,hispanic,16,male,29745,YES
+8,85392,asian,10,male,"Las Vegas, Nevada",NO
+9,79721,african american,38,female,"Nashville, Tennessee",NO
+3,17881,other,10,male,"Miami, Florida",NO
+7,47101,hispanic,49,female,"Oakland, California",NO
+7,45909,hispanic,38,male,"Fresno, California",NO
+7,85597,asian,13,female,"Oklahoma City, Oklahoma",NO
+2,33888,asian,40,male,"Atlanta, Georgia",NO
+5,89468,asian,28,female,"Wichita, Kansas",NO
+9,70168,hispanic,60,male,"Long Beach, California",NO
+3,78984,african american,34,male,"Dallas, Texas",NO
+10,24676,african american,5,female,"Minneapolis, Minnesota",NO
+6,60944,other,18,male,"Cleveland, Ohio",NO
+2,69265,hispanic,4,male,"Arlington, Texas",NO
+1,72816,asian,53,male,"Tampa, Florida",NO
+1,40459,other,35,female,"San Diego, California",NO
+4,38813,african american,24,male,"San Jose, California",NO
+7,41374,hispanic,27,male,"Wichita, Kansas",NO
+4,85505,caucasian,57,male,"Dallas, Texas",NO
+10,70819,other,13,male,"San Jose, California",NO
+4,58912,african american,10,female,"Atlanta, Georgia",NO
+7,50379,hispanic,28,female,"Jacksonville, Florida",NO
+6,35095,african american,1,male,"Fort Worth, Texas",NO
+7,36619,african american,59,female,"San Francisco, California",NO
+4,69177,asian,29,female,"San Antonio, Texas",NO
+1,89686,african american,60,male,"Baltimore, Maryland",NO
+2,43778,caucasian,27,female,"Phoenix, Arizona",NO
+2,59780,hispanic,42,female,"Columbus, Ohio",NO
+6,39253,other,53,male,"Oklahoma City, Oklahoma",NO
+5,12821,caucasian,19,male,"Tulsa, Oklahoma",NO
+6,40543,other,55,female,"Milwaukee, Wisconsin",NO
+9,16268,asian,52,female,"New Orleans, Louisiana",NO
+2,52277,other,55,female,"Colorado Springs, Colorado",NO
+9,48413,hispanic,51,male,"Fort Worth, Texas",NO
+8,76250,asian,14,male,"Atlanta, Georgia",NO
+3,70378,other,7,male,"San Jose, California",NO
+3,85965,hispanic,48,female,"Los Angeles, California",NO
+4,39341,asian,53,male,"Memphis, Tennessee",NO
+2,41747,asian,30,male,"Atlanta, Georgia",NO
+4,24164,asian,31,female,"Las Vegas, Nevada",NO
+1,66898,other,8,female,"Albuquerque, New Mexico",NO
+8,51877,hispanic,8,female,"Boston, Massachusetts",NO
+6,48432,asian,52,male,"Fort Worth, Texas",NO
+1,55727,other,59,female,"Austin, Texas",NO
+7,33200,caucasian,37,female,"Memphis, Tennessee",NO
+8,90009,hispanic,46,male,"Minneapolis, Minnesota",NO
+1,86354,african american,39,female,"Wichita, Kansas",NO
+7,45880,african american,14,female,"Miami, Florida",NO
+7,81372,asian,46,male,"Washington, D.C.",NO
+3,22412,caucasian,50,male,"Houston, Texas",NO
+4,79313,other,40,female,"Oklahoma City, Oklahoma",NO
+9,41355,asian,44,female,"Long Beach, California",NO
+4,13675,asian,12,male,"Atlanta, Georgia",NO
+9,55328,caucasian,54,male,"Charlotte, North Carolina",NO
+10,23986,hispanic,26,male,"Houston, Texas",NO
+9,83841,asian,16,male,"Tulsa, Oklahoma",NO
+6,11828,african american,6,female,"San Diego, California",NO
+2,40003,african american,25,male,"Kansas City, Missouri",NO
+3,62410,hispanic,38,female,"San Antonio, Texas",NO
+1,90336,caucasian,28,male,"Washington, D.C.",NO
+3,24760,hispanic,4,male,"Phoenix, Arizona",NO
+4,32017,asian,44,female,"Raleigh, North Carolina",NO
+10,65252,other,8,female,"Milwaukee, Wisconsin",NO
+9,51822,other,17,female,"Miami, Florida",NO
+8,90114,hispanic,57,male,"Columbus, Ohio",NO
+1,9000,other,1,male,"Dallas, Texas",NO
+9,72958,african american,55,female,"Mesa, Arizona",NO
+1,22405,african american,11,male,"Jacksonville, Florida",NO
+5,32853,asian,55,male,"Los Angeles, California",NO
+4,72780,caucasian,3,female,"Kansas City, Missouri",NO
+1,20751,african american,0,female,"Baltimore, Maryland",NO
+5,57475,other,59,male,"Miami, Florida",NO
+5,24867,african american,60,female,"Seattle, Washington",NO
+10,80647,asian,33,male,"Fresno, California",NO
+6,66285,other,16,male,"Oakland, California",NO
+10,97899,caucasian,15,female,"Fort Worth, Texas",NO
+9,89694,african american,52,male,"Tulsa, Oklahoma",NO
+5,70045,hispanic,29,male,"Nashville, Tennessee",NO
+3,68869,caucasian,34,male,"Minneapolis, Minnesota",NO
+10,21379,african american,50,male,"Fresno, California",NO
+2,40592,african american,49,male,"Miami, Florida",NO
+6,25274,african american,46,male,"New Orleans, Louisiana",NO
+2,58412,other,49,female,"Sacramento, California",NO
+8,24775,african american,27,female,"Dallas, Texas",NO
+4,97187,caucasian,0,female,"Washington, D.C.",NO
+6,19037,other,42,female,"Fort Worth, Texas",NO
+5,30145,caucasian,0,male,"Chicago, Illinois",NO
+5,74621,hispanic,23,female,"Phoenix, Arizona",NO
+5,74763,caucasian,30,male,"Cleveland, Ohio",NO
+6,25528,other,19,female,"New Orleans, Louisiana",NO
+1,76417,african american,17,male,"Long Beach, California",NO
+7,54566,african american,45,male,"Dallas, Texas",NO
+6,56298,african american,3,female,"Kansas City, Missouri",NO
+7,83233,other,47,female,"San Jose, California",NO
+9,24723,hispanic,19,male,"Omaha, Nebraska",NO
+9,79239,african american,7,female,"Los Angeles, California",NO
+5,57164,caucasian,0,male,"Virginia Beach, Virginia",NO
+6,23540,hispanic,16,female,"Denver, Colorado",NO
+1,86065,african american,0,male,"Mesa, Arizona",NO
+6,13921,asian,53,male,"San Francisco, California",NO
+9,14531,other,43,male,"Phoenix, Arizona",NO
+5,80485,caucasian,30,female,"Houston, Texas",NO
+7,67196,caucasian,30,female,"Fort Worth, Texas",NO
+5,79226,caucasian,50,female,"Atlanta, Georgia",NO
+8,82259,other,24,female,"Indianapolis, Indiana",NO
+2,69658,african american,30,male,"Dallas, Texas",NO
+5,87831,asian,37,female,"Columbus, Ohio",NO
+4,81187,caucasian,44,male,"Memphis, Tennessee",NO
+8,72262,caucasian,6,male,"Long Beach, California",NO
+3,61134,asian,12,male,"Washington, D.C.",NO
+5,64382,asian,38,female,"Oakland, California",NO
+3,80834,caucasian,24,male,"Dallas, Texas",NO
+3,67085,asian,32,male,"Houston, Texas",NO
+5,99966,asian,53,female,"Memphis, Tennessee",NO
+10,60582,asian,41,male,"Louisville, Kentucky",NO
+5,21569,african american,55,male,"Washington, D.C.",NO
+9,27362,asian,13,female,"Jacksonville, Florida",NO
+4,21815,hispanic,22,male,"Cleveland, Ohio",NO
+3,34621,african american,56,female,"Tucson, Arizona",NO
+2,56004,other,33,female,"Long Beach, California",NO
+10,12585,african american,20,male,"Las Vegas, Nevada",NO
+7,80574,other,19,female,"Long Beach, California",NO
+1,86099,african american,8,male,"Dallas, Texas",NO
+10,71842,hispanic,43,female,"Fresno, California",NO
+8,43838,asian,30,female,"Baltimore, Maryland",NO
+10,95497,other,53,female,"New Orleans, Louisiana",NO
+2,22694,african american,60,female,"Arlington, Texas",NO
+5,44013,hispanic,43,female,"Colorado Springs, Colorado",NO
+5,32834,asian,48,female,"Tucson, Arizona",NO
+3,42552,hispanic,14,male,"El Paso, Texas",NO
+10,88239,other,39,male,"Portland, Oregon",NO
+6,59378,african american,55,female,"Cleveland, Ohio",NO
+3,64236,african american,28,female,"Oakland, California",NO
+1,76456,asian,9,female,"Milwaukee, Wisconsin",NO
+2,43884,caucasian,8,male,"Fort Worth, Texas",NO
+1,33256,hispanic,12,female,"New York City, New York",NO
+5,73229,african american,10,male,"Phoenix, Arizona",NO
+9,59143,african american,55,female,"New York City, New York",NO
+3,73090,other,50,male,"Atlanta, Georgia",NO
+8,9662,hispanic,23,female,"Nashville, Tennessee",NO
+5,73065,caucasian,44,male,"Tampa, Florida",NO
+3,85625,other,26,female,"Washington, D.C.",NO
+3,63042,asian,45,female,"Tucson, Arizona",NO
+7,97404,hispanic,7,male,"Omaha, Nebraska",NO
+6,68564,caucasian,24,female,"San Francisco, California",NO
+10,53324,african american,17,male,"Fort Worth, Texas",NO
+9,33004,caucasian,25,male,"Las Vegas, Nevada",NO
+1,18762,hispanic,37,female,"Virginia Beach, Virginia",NO
+4,64290,asian,1,female,"Arlington, Texas",NO
+6,51240,asian,52,male,"Mesa, Arizona",NO
+1,78394,african american,20,female,"Louisville, Kentucky",NO
+5,24804,african american,20,female,"Oklahoma City, Oklahoma",NO
+5,59429,asian,45,female,"Nashville, Tennessee",NO
+8,45485,african american,8,female,"Virginia Beach, Virginia",NO
+7,96233,caucasian,3,male,"Mesa, Arizona",NO
+3,61166,hispanic,5,male,"Virginia Beach, Virginia",NO
+3,66408,caucasian,43,female,"Virginia Beach, Virginia",NO
+2,43707,hispanic,60,female,"Philadelphia, Pennsylvania",NO
+8,29481,other,35,female,"Atlanta, Georgia",NO
+9,51224,hispanic,33,female,"Albuquerque, New Mexico",NO
+8,12959,caucasian,2,male,"Dallas, Texas",NO
+6,22199,hispanic,60,female,"Nashville, Tennessee",NO
+3,32367,african american,9,female,"Nashville, Tennessee",NO
+6,25788,asian,8,female,"Indianapolis, Indiana",NO
+5,41387,hispanic,49,male,"Memphis, Tennessee",NO
+4,79123,other,40,female,"San Antonio, Texas",NO
+4,57192,other,18,female,"New York City, New York",NO
+8,53994,asian,38,male,"Chicago, Illinois",NO
+5,87466,african american,35,female,"Tampa, Florida",NO
+6,53444,asian,0,female,"Long Beach, California",NO
+8,57496,hispanic,20,female,"Minneapolis, Minnesota",NO
+10,48365,other,60,male,"Boston, Massachusetts",NO
+5,34496,caucasian,37,male,"New Orleans, Louisiana",NO
+1,9957,caucasian,52,male,"Atlanta, Georgia",NO
+6,17514,other,3,male,"Raleigh, North Carolina",NO
+4,54144,asian,2,male,"Charlotte, North Carolina",NO
+1,16103,asian,30,female,"Baltimore, Maryland",NO
+9,80080,hispanic,43,male,"Indianapolis, Indiana",NO
+9,99971,asian,9,male,"San Antonio, Texas",NO
+5,69763,african american,5,female,"San Diego, California",NO
+8,72581,hispanic,28,male,"Kansas City, Missouri",NO
+2,63026,asian,35,male,"Las Vegas, Nevada",NO
+6,66038,caucasian,36,male,"Dallas, Texas",NO
+9,32323,asian,10,male,"Phoenix, Arizona",NO
+5,29487,caucasian,45,female,"Charlotte, North Carolina",NO
+9,99679,other,11,male,"San Diego, California",NO
+8,28475,hispanic,17,female,"Tulsa, Oklahoma",NO
+3,85103,hispanic,49,female,"Columbus, Ohio",NO
+7,51096,hispanic,52,male,"Oklahoma City, Oklahoma",NO
+1,79829,asian,18,female,"Tulsa, Oklahoma",NO
+2,88645,other,52,male,"Louisville, Kentucky",NO
+3,94731,hispanic,52,female,"Columbus, Ohio",NO
+4,75916,caucasian,34,female,"Austin, Texas",NO
+5,67178,other,58,female,"Los Angeles, California",NO
+8,47517,other,5,male,"San Diego, California",NO
+1,50677,caucasian,17,male,"Indianapolis, Indiana",NO
+3,87897,asian,18,male,"Denver, Colorado",NO
+8,88564,other,22,male,"Omaha, Nebraska",NO
+5,71326,other,7,male,"San Antonio, Texas",NO
+2,89885,other,23,male,"San Francisco, California",NO
+10,67054,hispanic,2,female,"Omaha, Nebraska",NO
+9,38692,asian,29,female,"Charlotte, North Carolina",NO
+1,15196,other,34,male,"San Diego, California",NO
+8,74679,african american,50,female,"Raleigh, North Carolina",NO
+7,67605,other,31,female,"Raleigh, North Carolina",NO
+2,19749,other,48,male,"Colorado Springs, Colorado",NO
+1,30907,other,1,female,"Jacksonville, Florida",NO
+10,88603,hispanic,17,male,"Chicago, Illinois",NO
+8,13722,caucasian,26,male,"San Diego, California",NO
+7,31974,caucasian,58,female,"Las Vegas, Nevada",NO
+2,50736,african american,31,male,"San Francisco, California",NO
+2,49563,other,55,male,"Jacksonville, Florida",NO
+6,41640,asian,0,female,"Raleigh, North Carolina",NO
+8,54500,african american,10,male,"Dallas, Texas",NO
+4,25659,caucasian,54,male,"San Francisco, California",NO
+8,40770,caucasian,12,female,"Oklahoma City, Oklahoma",NO
+2,67737,african american,4,male,"Cleveland, Ohio",NO
+2,33525,asian,15,female,"Baltimore, Maryland",NO
+5,12336,caucasian,39,male,"Wichita, Kansas",NO
+4,67853,african american,4,female,"Fresno, California",NO
+2,54116,other,38,male,"Minneapolis, Minnesota",NO
+1,79489,hispanic,11,male,"Tucson, Arizona",NO
+1,60517,caucasian,34,female,"Jacksonville, Florida",NO
+6,22293,hispanic,30,female,"Philadelphia, Pennsylvania",NO
+8,14765,caucasian,11,male,"Dallas, Texas",NO
+8,23411,caucasian,2,male,"Oklahoma City, Oklahoma",NO
+5,71229,other,31,female,"Colorado Springs, Colorado",NO
+3,52926,caucasian,49,female,"Omaha, Nebraska",NO
+5,83716,african american,37,female,"San Jose, California",NO
+3,13728,african american,21,male,"Jacksonville, Florida",NO
+1,68296,other,25,female,"Milwaukee, Wisconsin",NO
+2,28521,other,24,female,"Albuquerque, New Mexico",NO
+4,23343,caucasian,30,female,"Sacramento, California",NO
+6,64421,african american,3,male,"Fresno, California",NO
+6,77690,hispanic,3,male,"New Orleans, Louisiana",NO
+2,74342,caucasian,58,female,"San Francisco, California",NO
+9,62792,other,46,female,"Long Beach, California",NO
+7,86449,asian,31,male,"Denver, Colorado",NO
+10,64923,african american,55,male,"Long Beach, California",NO
+5,96865,asian,8,female,"Las Vegas, Nevada",NO
+10,23470,african american,26,male,"Tucson, Arizona",NO
+4,82787,caucasian,19,male,"Minneapolis, Minnesota",NO
+6,60758,asian,22,female,"New Orleans, Louisiana",NO
+10,52510,asian,28,male,"New York City, New York",NO
+3,56903,asian,17,male,"Long Beach, California",NO
+2,17447,other,22,female,"Long Beach, California",NO
+8,21671,asian,11,male,"Tampa, Florida",NO
+7,28116,other,22,male,"Washington, D.C.",NO
+4,77453,african american,52,male,"Kansas City, Missouri",NO
+6,78996,asian,5,female,"Boston, Massachusetts",NO
+1,71793,other,55,female,"Omaha, Nebraska",NO
+5,36533,african american,5,male,"Washington, D.C.",NO
+2,12867,african american,24,male,"Seattle, Washington",NO
+10,19886,hispanic,1,female,"Omaha, Nebraska",NO
+7,96541,asian,46,male,"Baltimore, Maryland",NO
+5,51494,caucasian,33,female,"Arlington, Texas",NO
+9,53304,caucasian,56,male,"Las Vegas, Nevada",NO
+1,78124,african american,19,female,"Columbus, Ohio",NO
+3,95143,caucasian,9,male,"Miami, Florida",NO
+7,82199,african american,12,female,"Oklahoma City, Oklahoma",NO
+8,59310,african american,43,male,"Austin, Texas",NO
+7,80317,caucasian,17,female,"Los Angeles, California",NO
+7,58979,other,24,male,"Raleigh, North Carolina",NO
+9,90777,african american,16,male,"New York City, New York",NO
+6,37398,hispanic,8,female,"Dallas, Texas",NO
+4,67159,hispanic,32,male,"Virginia Beach, Virginia",NO
+7,78646,caucasian,54,male,"Tucson, Arizona",NO
+8,93291,asian,22,female,"Tucson, Arizona",NO
+9,46274,other,30,male,"Oklahoma City, Oklahoma",NO
+9,87452,caucasian,43,male,"Long Beach, California",NO
+6,41694,hispanic,13,male,"Oklahoma City, Oklahoma",NO
+10,89421,other,27,female,"Cleveland, Ohio",NO
+10,93542,hispanic,29,female,"Cleveland, Ohio",NO
+10,74120,other,8,male,"Tulsa, Oklahoma",NO
+8,23552,african american,11,female,"Oklahoma City, Oklahoma",NO
+3,62145,caucasian,36,female,"San Diego, California",NO
+7,66230,caucasian,18,female,"Houston, Texas",NO
+4,33950,hispanic,32,male,"Milwaukee, Wisconsin",NO
+2,13305,caucasian,0,female,"Minneapolis, Minnesota",NO
+7,61436,african american,25,male,"Indianapolis, Indiana",NO
+6,76702,caucasian,12,male,"Jacksonville, Florida",NO
+8,43471,other,46,male,"Austin, Texas",NO
+3,84949,hispanic,48,female,"Oklahoma City, Oklahoma",NO
+9,41627,other,27,male,"New York City, New York",NO
+5,19943,hispanic,34,female,"Atlanta, Georgia",NO
+6,56936,african american,33,female,"Sacramento, California",NO
+4,51904,caucasian,0,male,"San Francisco, California",NO
+6,55761,hispanic,54,male,"Detroit, Michigan",NO
+3,87838,caucasian,42,female,"Austin, Texas",NO
+2,97849,other,24,male,"San Francisco, California",NO
+10,88456,other,4,female,"Washington, D.C.",NO
+1,74836,caucasian,59,male,"Jacksonville, Florida",NO
+4,39476,other,16,female,"Fresno, California",NO
+6,61687,other,1,male,"Portland, Oregon",NO
+8,28177,hispanic,59,female,"Columbus, Ohio",NO
+8,24146,other,8,female,"Houston, Texas",NO
+8,21241,caucasian,55,female,"New Orleans, Louisiana",NO
+8,73490,hispanic,20,male,"Arlington, Texas",NO
+4,19559,asian,26,male,"Baltimore, Maryland",NO
+8,66495,hispanic,43,male,"Phoenix, Arizona",NO
+10,86236,hispanic,60,male,"Indianapolis, Indiana",NO
+2,97357,asian,53,female,"Portland, Oregon",NO
+9,31401,asian,24,female,"Houston, Texas",NO
+2,52368,other,4,male,"Las Vegas, Nevada",NO
+2,53448,asian,2,male,"New Orleans, Louisiana",NO
+8,85556,asian,3,male,"Washington, D.C.",NO
+10,85161,asian,9,female,"Milwaukee, Wisconsin",NO
+10,92585,african american,9,female,"Minneapolis, Minnesota",NO
+4,15186,caucasian,23,male,"Jacksonville, Florida",NO
+2,11361,caucasian,49,male,"Los Angeles, California",NO
+4,23036,african american,6,male,"Atlanta, Georgia",NO
+6,91167,hispanic,31,male,"Colorado Springs, Colorado",NO
+6,39299,other,26,female,"El Paso, Texas",NO
+4,14614,african american,52,male,"Sacramento, California",NO
+3,47520,other,53,female,"Chicago, Illinois",NO
+3,32659,other,54,female,"Miami, Florida",NO
+3,34812,african american,37,female,"New Orleans, Louisiana",NO
+1,91662,other,41,male,"San Francisco, California",NO
+10,97058,asian,6,female,"San Diego, California",NO
+1,13095,other,53,female,"Tulsa, Oklahoma",NO
+4,40340,asian,15,female,"Houston, Texas",NO
+7,55105,caucasian,33,male,"Wichita, Kansas",NO
+1,15134,other,49,female,"Charlotte, North Carolina",NO
+3,14630,african american,52,female,"Washington, D.C.",NO
+5,48280,asian,35,male,"San Diego, California",NO
+3,39351,african american,60,female,"Seattle, Washington",NO
+1,46451,hispanic,31,male,"San Jose, California",NO
+2,44045,caucasian,24,female,"Virginia Beach, Virginia",NO
+6,53801,asian,20,female,"Oklahoma City, Oklahoma",NO
+10,9486,caucasian,24,female,"Washington, D.C.",NO
+5,45797,other,57,female,"Charlotte, North Carolina",NO
+7,24196,asian,16,female,"Seattle, Washington",NO
+9,15373,hispanic,0,male,"Washington, D.C.",NO
+4,59199,african american,60,male,"Albuquerque, New Mexico",NO
+10,40845,asian,55,female,"San Diego, California",NO
+8,36647,asian,33,male,"Denver, Colorado",NO
+1,44089,hispanic,40,male,"Oakland, California",NO
+10,49869,hispanic,59,female,"Denver, Colorado",NO
+2,27861,caucasian,14,male,"Louisville, Kentucky",NO
+10,31367,caucasian,14,male,"Houston, Texas",NO
+10,39844,hispanic,46,male,"Dallas, Texas",NO
+2,68705,other,22,female,"Oakland, California",NO
+6,24093,african american,4,male,"San Francisco, California",NO
+1,44754,asian,2,female,"Seattle, Washington",NO
+8,10551,other,37,female,"Baltimore, Maryland",NO
+7,18937,caucasian,30,female,"Arlington, Texas",NO
+3,80524,other,25,female,"Dallas, Texas",NO
+2,82832,hispanic,14,female,"Seattle, Washington",NO
+3,84078,asian,26,male,"Arlington, Texas",NO
+5,62114,hispanic,10,female,"Philadelphia, Pennsylvania",NO
+8,44573,african american,52,male,"Arlington, Texas",NO
+2,48226,caucasian,25,female,"San Francisco, California",NO
+9,49255,african american,42,female,"Philadelphia, Pennsylvania",NO
+3,24265,african american,6,male,"Arlington, Texas",NO
+1,14760,hispanic,50,male,"Philadelphia, Pennsylvania",NO
+7,99810,caucasian,47,male,"San Diego, California",NO
+1,64969,hispanic,16,female,"Los Angeles, California",NO
+2,96293,caucasian,15,male,"Columbus, Ohio",NO
+7,21872,asian,27,female,"Oakland, California",NO
+2,85681,asian,28,female,"Las Vegas, Nevada",NO
+2,67017,african american,26,female,"Fort Worth, Texas",NO
+9,94726,hispanic,33,male,"Kansas City, Missouri",NO
+2,25291,caucasian,50,male,"Jacksonville, Florida",NO
+1,17483,other,8,male,"San Francisco, California",NO
+4,22636,hispanic,0,male,"Las Vegas, Nevada",NO
+4,55990,asian,55,female,"Wichita, Kansas",NO
+9,26351,asian,6,female,"Tampa, Florida",NO
+5,55351,asian,38,female,"Minneapolis, Minnesota",NO
+3,63467,african american,45,female,"Memphis, Tennessee",NO
+5,12450,hispanic,25,female,"Fort Worth, Texas",NO
+9,9814,caucasian,12,male,"Detroit, Michigan",NO
+3,75282,african american,60,male,"Oakland, California",NO
+6,47625,other,47,male,"Sacramento, California",NO
+6,65933,african american,37,male,"Philadelphia, Pennsylvania",NO
+2,16216,hispanic,32,male,"Charlotte, North Carolina",NO
+4,36308,african american,36,male,"Virginia Beach, Virginia",NO
+4,13027,african american,26,male,"Philadelphia, Pennsylvania",NO
+5,58034,hispanic,31,female,"Denver, Colorado",NO
+3,58052,african american,24,female,"Houston, Texas",NO
+1,62044,other,51,female,"Washington, D.C.",NO
+4,73027,african american,36,female,"Raleigh, North Carolina",NO
+4,78451,african american,31,female,"New Orleans, Louisiana",NO
+3,24659,asian,34,female,"Wichita, Kansas",NO
+4,79940,african american,9,female,"San Jose, California",NO
+9,66171,caucasian,48,male,"Boston, Massachusetts",NO
+5,68973,caucasian,48,male,"Fort Worth, Texas",NO
+6,41988,african american,54,male,"Virginia Beach, Virginia",NO
+8,20534,caucasian,0,male,"Fresno, California",NO
+9,14766,african american,30,female,"Arlington, Texas",NO
+8,18930,caucasian,29,female,"Minneapolis, Minnesota",NO
+5,83133,asian,14,female,"Minneapolis, Minnesota",NO
+9,10773,caucasian,40,female,"San Diego, California",NO
+2,38585,hispanic,30,male,"Oklahoma City, Oklahoma",NO
+5,29004,caucasian,59,female,"Minneapolis, Minnesota",NO
+1,70117,caucasian,1,female,"Indianapolis, Indiana",NO
+9,73905,caucasian,46,female,"Denver, Colorado",NO
+9,85503,asian,24,female,"Philadelphia, Pennsylvania",NO
+5,27028,caucasian,54,female,"Seattle, Washington",NO
+2,38720,asian,56,male,"Baltimore, Maryland",NO
+3,41909,other,57,male,"Milwaukee, Wisconsin",NO
+10,77778,asian,28,female,"Portland, Oregon",NO
+8,71029,asian,43,male,"Los Angeles, California",NO
+9,67301,hispanic,22,male,"Mesa, Arizona",NO
+8,10729,other,5,male,"Albuquerque, New Mexico",NO
+6,53927,asian,19,male,"Denver, Colorado",NO
+2,77356,african american,39,female,"New York City, New York",NO
+10,57094,african american,35,male,"Virginia Beach, Virginia",NO
+9,32855,other,10,female,"San Jose, California",NO
+2,98834,other,51,male,"Phoenix, Arizona",NO
+10,48729,other,39,female,"Charlotte, North Carolina",NO
+9,17778,caucasian,43,male,"Indianapolis, Indiana",NO
+2,77377,other,22,female,"San Francisco, California",NO
+3,69484,asian,46,male,"New Orleans, Louisiana",NO
+4,50714,african american,6,female,"Arlington, Texas",NO
+10,28162,other,59,female,"Memphis, Tennessee",NO
+10,22270,hispanic,10,male,"Tampa, Florida",NO
+4,28983,other,17,female,"Mesa, Arizona",NO
+4,60647,hispanic,47,male,"San Jose, California",NO
+4,33090,african american,19,female,"Dallas, Texas",NO
+5,72449,other,41,female,"Raleigh, North Carolina",NO
+8,71542,caucasian,55,male,"Houston, Texas",NO
+5,67055,asian,49,male,"Indianapolis, Indiana",NO
+10,81710,hispanic,48,male,"Philadelphia, Pennsylvania",NO
+9,21036,other,47,male,"Colorado Springs, Colorado",NO
+10,60025,caucasian,19,male,"Boston, Massachusetts",NO
+8,86041,caucasian,12,male,"Raleigh, North Carolina",NO
+5,38101,african american,12,female,"Houston, Texas",NO
+2,50848,asian,15,male,"New Orleans, Louisiana",NO
+3,59469,other,43,male,"Fresno, California",NO
+4,56350,asian,56,male,"Tulsa, Oklahoma",NO
+4,24054,african american,34,male,"Tucson, Arizona",NO
+3,70669,african american,55,male,"Charlotte, North Carolina",NO
+5,38905,hispanic,33,female,"Indianapolis, Indiana",NO
+2,34698,african american,14,female,"Louisville, Kentucky",NO
+6,52312,asian,16,female,"El Paso, Texas",NO
+8,53493,caucasian,3,female,"Louisville, Kentucky",NO
+1,79649,caucasian,5,male,"Oklahoma City, Oklahoma",NO
+6,32745,asian,33,male,"Los Angeles, California",NO
+3,42580,asian,37,male,"Fresno, California",NO
+6,48128,hispanic,20,female,"Albuquerque, New Mexico",NO
+4,94097,african american,37,male,"Seattle, Washington",NO
+8,14698,other,7,male,"Chicago, Illinois",NO
+4,22957,asian,57,female,"Oklahoma City, Oklahoma",NO
+9,82990,hispanic,53,male,"Nashville, Tennessee",NO
+5,43098,asian,50,female,"Detroit, Michigan",NO
+10,18906,other,30,female,"Oakland, California",NO
+1,26478,asian,49,male,"Fresno, California",NO
+8,46188,african american,6,female,"Atlanta, Georgia",NO
+4,75634,other,4,male,"Chicago, Illinois",NO
+4,46263,asian,59,female,"Tucson, Arizona",NO
+2,44697,african american,46,male,"Oakland, California",NO
+4,53448,other,10,male,"Chicago, Illinois",NO
+10,33558,other,19,male,"Nashville, Tennessee",NO
+7,89468,hispanic,33,female,"Colorado Springs, Colorado",NO
+2,88693,african american,2,male,"Houston, Texas",NO
+1,90402,hispanic,60,female,"San Jose, California",NO
+9,78139,caucasian,20,male,"Kansas City, Missouri",NO
+6,68301,other,4,male,"Los Angeles, California",NO
+9,55682,asian,39,female,"Chicago, Illinois",NO
+5,43645,african american,24,female,"Mesa, Arizona",NO
+6,16320,hispanic,49,female,"Fresno, California",NO
+4,12567,caucasian,46,female,"Chicago, Illinois",NO
+2,40298,other,48,male,"Columbus, Ohio",NO
+7,77819,african american,11,male,"Oakland, California",NO
+6,28754,hispanic,23,male,"Las Vegas, Nevada",NO
+9,98269,other,7,female,"San Antonio, Texas",NO
+4,66561,asian,54,male,"San Francisco, California",NO
+9,40021,hispanic,37,female,"Nashville, Tennessee",NO
+6,26688,hispanic,25,female,"Oakland, California",NO
+8,12996,african american,1,male,"Kansas City, Missouri",NO
+7,82192,caucasian,22,female,"Mesa, Arizona",NO
+8,90360,hispanic,37,female,"Minneapolis, Minnesota",NO
+10,77001,other,49,male,"Columbus, Ohio",NO
+4,20634,african american,2,female,"Sacramento, California",NO
+9,95720,african american,2,female,"Tucson, Arizona",NO
+8,24331,hispanic,23,male,"San Antonio, Texas",NO
+4,84956,asian,6,female,"Oklahoma City, Oklahoma",NO
+9,81376,caucasian,54,male,"Cleveland, Ohio",NO
+1,31511,hispanic,20,female,"Philadelphia, Pennsylvania",NO
+10,14178,caucasian,3,female,"Washington, D.C.",NO
+7,39107,hispanic,11,male,"Columbus, Ohio",NO
+8,88189,caucasian,36,male,"Fort Worth, Texas",NO
+8,71779,other,41,female,"Virginia Beach, Virginia",NO
+8,80290,asian,56,male,"San Francisco, California",NO
+1,41543,caucasian,47,female,"Houston, Texas",NO
+3,57540,african american,14,female,"Tampa, Florida",NO
+4,69974,african american,31,male,"Tampa, Florida",NO
+5,81928,asian,30,female,"Colorado Springs, Colorado",NO
+7,90639,hispanic,11,female,"Charlotte, North Carolina",NO
+1,43906,asian,49,female,"Long Beach, California",NO
+5,59865,caucasian,31,female,"Portland, Oregon",NO
+1,15685,hispanic,7,female,"San Francisco, California",NO
+8,74745,hispanic,37,male,"Portland, Oregon",NO
+2,88868,caucasian,58,male,"New Orleans, Louisiana",NO
+9,99901,african american,26,male,"San Jose, California",NO
+8,76586,asian,53,female,"Virginia Beach, Virginia",NO
+5,49452,hispanic,28,female,"Phoenix, Arizona",NO
+1,18319,african american,17,female,"Tucson, Arizona",NO
+5,31125,caucasian,23,male,"Portland, Oregon",NO
+6,76418,other,4,male,"Phoenix, Arizona",NO
+7,23806,caucasian,34,male,"Washington, D.C.",NO
+1,16804,hispanic,19,female,"San Francisco, California",NO
+7,13796,other,30,male,"Columbus, Ohio",NO
+8,9719,other,29,male,"Phoenix, Arizona",NO
+10,56231,caucasian,24,male,"Fresno, California",NO
+10,46522,hispanic,1,female,"Austin, Texas",NO
+7,22793,caucasian,45,male,"Omaha, Nebraska",NO
+9,30693,african american,48,male,"Arlington, Texas",NO
+7,65581,hispanic,11,female,"Oklahoma City, Oklahoma",NO
+4,40152,asian,53,male,"Oklahoma City, Oklahoma",NO
+7,9790,asian,17,female,"Miami, Florida",NO
+8,87006,african american,7,female,"Albuquerque, New Mexico",NO
+6,57024,hispanic,39,female,"Sacramento, California",NO
+3,75076,other,11,female,"Miami, Florida",NO
+3,94589,hispanic,44,female,"Long Beach, California",NO
+8,89008,other,58,male,"Phoenix, Arizona",NO
+5,16566,caucasian,6,female,"San Francisco, California",NO
+6,86545,other,12,female,"Miami, Florida",NO
+5,96761,asian,39,male,"Long Beach, California",NO
+5,60227,caucasian,18,male,"Phoenix, Arizona",NO
+5,87205,caucasian,23,male,"Philadelphia, Pennsylvania",NO
+10,11247,african american,44,male,"Portland, Oregon",NO
+5,91254,hispanic,31,female,"Oklahoma City, Oklahoma",NO
+2,68286,caucasian,18,male,"Albuquerque, New Mexico",NO
+7,77965,caucasian,23,female,"Tucson, Arizona",NO
+1,21808,other,34,male,"Mesa, Arizona",NO
+1,52197,caucasian,56,male,"Atlanta, Georgia",NO
+9,41458,hispanic,35,male,"Seattle, Washington",NO
+7,89641,caucasian,39,female,"Oakland, California",NO
+7,23413,asian,40,female,"Boston, Massachusetts",NO
+2,94881,caucasian,44,male,"Las Vegas, Nevada",NO
+3,67114,asian,4,male,"Tulsa, Oklahoma",NO
+1,80252,hispanic,59,male,"Albuquerque, New Mexico",NO
+10,15544,hispanic,9,male,"Louisville, Kentucky",NO
+9,58840,other,12,female,"Sacramento, California",NO
+3,83385,caucasian,56,female,"Chicago, Illinois",NO
+2,68012,caucasian,52,female,"Jacksonville, Florida",NO
+1,51666,caucasian,58,male,"Minneapolis, Minnesota",NO
+6,18369,caucasian,21,male,"Philadelphia, Pennsylvania",NO
+6,17582,other,44,female,"Denver, Colorado",NO
+5,71195,asian,18,male,"Fresno, California",NO
+5,23986,hispanic,54,female,"Indianapolis, Indiana",NO
+3,82047,asian,32,male,"Oklahoma City, Oklahoma",NO
+3,31460,asian,45,female,"Fort Worth, Texas",NO
+7,15950,african american,1,female,"Denver, Colorado",NO
+7,63589,african american,11,male,"Milwaukee, Wisconsin",NO
+8,28782,other,46,male,"Louisville, Kentucky",NO
+5,72737,hispanic,3,male,"Phoenix, Arizona",NO
+3,22265,other,53,female,"Los Angeles, California",NO
+4,21580,other,50,female,"Dallas, Texas",NO
+5,66334,other,28,male,"Tampa, Florida",NO
+3,83037,asian,39,female,"Baltimore, Maryland",NO
+3,73193,hispanic,25,female,"Tampa, Florida",NO
+10,42010,asian,12,female,"Wichita, Kansas",NO
+1,27933,caucasian,40,male,"Raleigh, North Carolina",NO
+3,54137,caucasian,7,male,"Boston, Massachusetts",NO
+1,52715,asian,23,female,"San Diego, California",NO
+3,20841,caucasian,14,male,"Milwaukee, Wisconsin",NO
+4,53365,caucasian,0,male,"San Diego, California",NO
+5,38632,hispanic,35,male,"Colorado Springs, Colorado",NO
+5,96768,hispanic,47,male,"Oklahoma City, Oklahoma",NO
+1,46908,caucasian,37,female,"Memphis, Tennessee",NO
+8,60389,asian,41,male,"Albuquerque, New Mexico",NO
+4,57530,african american,18,male,"Memphis, Tennessee",NO
+4,77944,asian,10,male,"Miami, Florida",NO
+7,82027,hispanic,39,female,"Charlotte, North Carolina",NO
+7,86838,caucasian,52,female,"Denver, Colorado",NO
+9,30113,asian,35,male,"Boston, Massachusetts",NO
+4,94411,other,44,female,"Las Vegas, Nevada",NO
+5,61835,other,32,male,"Indianapolis, Indiana",NO
+6,99348,asian,28,male,"Seattle, Washington",NO
+6,62411,caucasian,43,male,"Los Angeles, California",NO
+7,15434,other,30,female,"Boston, Massachusetts",NO
+6,74321,african american,11,female,"Miami, Florida",NO
+2,27199,other,44,male,"Mesa, Arizona",NO
+7,17218,african american,33,female,"Phoenix, Arizona",NO
+4,94734,african american,29,female,"Louisville, Kentucky",NO
+7,36809,african american,19,male,"El Paso, Texas",NO
+7,63104,asian,19,male,"Virginia Beach, Virginia",NO
+4,57728,other,13,male,"Tampa, Florida",NO
+5,11071,hispanic,24,female,"Cleveland, Ohio",NO
+10,68885,asian,59,male,"San Diego, California",NO
+6,32379,african american,30,male,"Raleigh, North Carolina",NO
+6,37400,african american,48,female,"Philadelphia, Pennsylvania",NO
+1,38375,african american,51,female,"Charlotte, North Carolina",NO
+1,9333,other,37,male,"New Orleans, Louisiana",NO
+3,94377,african american,43,female,"Detroit, Michigan",NO
+6,36794,caucasian,60,male,"Colorado Springs, Colorado",NO
+2,74710,other,49,male,"Louisville, Kentucky",NO
+4,84377,other,22,female,"Fresno, California",NO
+3,25124,asian,26,female,"Raleigh, North Carolina",NO
+6,90109,asian,30,female,"Columbus, Ohio",NO
+8,73794,asian,28,female,"New Orleans, Louisiana",NO
+3,71104,hispanic,7,female,"Philadelphia, Pennsylvania",NO
+8,61229,other,21,male,"Fresno, California",NO
+4,94343,hispanic,59,female,"Houston, Texas",NO
+3,13106,asian,49,female,"San Jose, California",NO
+2,50029,caucasian,56,male,"Tampa, Florida",NO
+1,21401,other,41,female,"Raleigh, North Carolina",NO
+6,98569,hispanic,33,female,"Columbus, Ohio",NO
+9,48912,hispanic,15,male,"Wichita, Kansas",NO
+5,50903,african american,18,male,"Fort Worth, Texas",NO
+1,77162,asian,34,male,"Oakland, California",NO
+7,97643,other,3,male,"Oakland, California",NO
+8,36992,other,50,female,"New Orleans, Louisiana",NO
+1,55393,caucasian,11,male,"Chicago, Illinois",NO
+2,90033,asian,22,male,"New Orleans, Louisiana",NO
+4,95076,caucasian,33,female,"Indianapolis, Indiana",NO
+2,16542,caucasian,52,male,"Oakland, California",NO
+6,20206,other,31,female,"Tucson, Arizona",NO
+5,86884,hispanic,45,male,"El Paso, Texas",NO
+1,83074,african american,49,male,"Sacramento, California",NO
+2,49060,other,17,male,"San Francisco, California",NO
+7,92897,hispanic,43,female,"Tucson, Arizona",NO
+10,65269,hispanic,50,female,"Atlanta, Georgia",NO
+3,49001,hispanic,20,male,"Sacramento, California",NO
+10,84983,caucasian,24,female,"Seattle, Washington",NO
+8,36618,hispanic,41,female,"Columbus, Ohio",NO
+8,24975,asian,49,female,"Denver, Colorado",NO
+8,12238,other,23,male,"Louisville, Kentucky",NO
+4,98857,asian,30,female,"Columbus, Ohio",NO
+2,42756,other,55,male,"Seattle, Washington",NO
+10,74558,hispanic,51,female,"San Diego, California",NO
+4,28999,hispanic,38,male,"Kansas City, Missouri",NO
+6,16113,caucasian,8,male,"Minneapolis, Minnesota",NO
+8,25322,hispanic,1,female,"Columbus, Ohio",NO
+1,94004,asian,21,female,"New Orleans, Louisiana",NO
+8,78961,other,4,female,"Columbus, Ohio",NO
+10,16818,african american,7,female,"Albuquerque, New Mexico",NO
+2,38836,other,57,male,"Columbus, Ohio",NO
+7,62318,hispanic,25,female,"Long Beach, California",NO
+9,73720,hispanic,48,female,"Louisville, Kentucky",NO
+8,82996,caucasian,12,female,"Tampa, Florida",NO
+1,21895,asian,38,female,"San Francisco, California",NO
+7,97623,hispanic,16,female,"Los Angeles, California",NO
+3,9698,hispanic,43,male,"Long Beach, California",NO
+5,36054,african american,5,female,"New Orleans, Louisiana",NO
+8,54562,caucasian,42,female,"Washington, D.C.",NO
+5,91596,african american,29,male,"Oakland, California",NO
+8,21108,other,29,male,"San Francisco, California",NO
+4,72200,african american,55,male,"Tucson, Arizona",NO
+1,68209,african american,60,female,"Fresno, California",NO
+6,49233,african american,52,male,"San Francisco, California",NO
+10,56597,caucasian,55,male,"Detroit, Michigan",NO
+8,90672,asian,56,female,"Los Angeles, California",NO
+3,48050,caucasian,44,male,"San Antonio, Texas",NO
+1,81749,asian,58,male,"Philadelphia, Pennsylvania",NO
+9,49765,other,34,female,"Miami, Florida",NO
+4,84022,asian,33,male,"Philadelphia, Pennsylvania",NO
+3,53660,other,11,male,"Los Angeles, California",NO
+7,98259,asian,50,female,"Atlanta, Georgia",NO
+1,96061,hispanic,0,female,"Phoenix, Arizona",NO
+2,98560,caucasian,38,female,"Los Angeles, California",NO
+3,88817,asian,16,male,"San Francisco, California",NO
+4,74382,asian,16,female,"Albuquerque, New Mexico",NO
+7,70179,african american,16,male,"Fort Worth, Texas",NO
+10,70960,other,40,female,"Portland, Oregon",NO
+6,73724,caucasian,11,male,"Charlotte, North Carolina",NO
+8,67083,african american,37,female,"Wichita, Kansas",NO
+1,88709,hispanic,0,male,"Detroit, Michigan",NO
+9,61206,african american,43,female,"Detroit, Michigan",NO
+3,46240,african american,31,female,"Chicago, Illinois",NO
+7,25845,other,35,male,"Detroit, Michigan",NO
+9,99841,hispanic,31,male,"Albuquerque, New Mexico",NO
+2,14550,asian,54,female,"Tulsa, Oklahoma",NO
+8,49852,hispanic,0,female,"Oklahoma City, Oklahoma",NO
+2,29486,caucasian,2,male,"New York City, New York",NO
+9,99998,caucasian,26,male,"Fort Worth, Texas",NO
+7,15180,african american,8,male,"Wichita, Kansas",NO
+1,83223,caucasian,45,female,"Minneapolis, Minnesota",NO
+4,72958,caucasian,16,female,"Portland, Oregon",NO
+1,83317,other,50,female,"Phoenix, Arizona",NO
+9,85880,caucasian,22,male,"Sacramento, California",NO
+9,91199,caucasian,26,female,"Oklahoma City, Oklahoma",NO
+9,96609,african american,9,female,"Fort Worth, Texas",NO
+5,9539,african american,33,male,"Tampa, Florida",NO
+8,38630,other,45,female,"Milwaukee, Wisconsin",NO
+2,44051,asian,10,male,"Washington, D.C.",NO
+1,50522,caucasian,1,male,"Virginia Beach, Virginia",NO
+4,52277,african american,7,male,"Minneapolis, Minnesota",NO
+1,49132,asian,60,male,"Philadelphia, Pennsylvania",NO
+5,72864,asian,50,male,"Boston, Massachusetts",NO
+8,18948,hispanic,36,female,"New Orleans, Louisiana",NO
+2,20612,other,44,female,"Fort Worth, Texas",NO
+6,51333,caucasian,14,female,"Chicago, Illinois",NO
+4,69236,african american,44,male,"Louisville, Kentucky",NO
+7,36437,other,28,female,"Tulsa, Oklahoma",NO
+3,27924,hispanic,56,male,"Kansas City, Missouri",NO
+10,51047,asian,32,female,"New York City, New York",NO
+8,43114,other,20,male,"Kansas City, Missouri",NO
+10,33723,african american,49,female,"San Antonio, Texas",NO
+8,51458,other,59,female,"Los Angeles, California",NO
+5,47698,african american,51,female,"Tampa, Florida",NO
+3,54584,caucasian,46,male,"Atlanta, Georgia",NO
+8,92755,asian,39,male,"San Jose, California",NO
+6,44720,caucasian,57,female,"Tucson, Arizona",NO
+3,70667,caucasian,7,male,"Jacksonville, Florida",NO
+10,94232,caucasian,46,male,"Fort Worth, Texas",NO
+5,49331,asian,38,female,"Portland, Oregon",NO
+9,81193,caucasian,38,male,"Denver, Colorado",NO
+8,66849,other,32,female,"Memphis, Tennessee",NO
+5,83740,hispanic,21,male,"Dallas, Texas",NO
+3,94154,african american,0,female,"Wichita, Kansas",NO
+8,49099,african american,1,male,"Charlotte, North Carolina",NO
+8,51870,hispanic,56,female,"Charlotte, North Carolina",NO
+2,54809,caucasian,11,female,"Omaha, Nebraska",NO
+1,28369,hispanic,3,male,"San Jose, California",NO
+10,81546,other,30,male,"Phoenix, Arizona",NO
+2,14240,other,25,female,"Albuquerque, New Mexico",NO
+9,51319,asian,9,female,"Baltimore, Maryland",NO
+7,55630,caucasian,13,male,"Baltimore, Maryland",NO
+1,86426,other,49,male,"Albuquerque, New Mexico",NO
+9,59482,caucasian,37,male,"Oakland, California",NO
+4,14528,caucasian,44,female,"Denver, Colorado",NO
+9,24424,hispanic,29,female,"Indianapolis, Indiana",NO
+9,11836,hispanic,53,female,"Washington, D.C.",NO
+2,17225,other,36,male,"Seattle, Washington",NO
+9,72325,african american,9,male,"Nashville, Tennessee",NO
+2,41576,other,35,female,"Long Beach, California",NO
+10,98090,hispanic,7,male,"Nashville, Tennessee",NO
+1,50467,other,30,female,"Las Vegas, Nevada",NO
+9,61482,african american,35,male,"Philadelphia, Pennsylvania",NO
+9,10350,other,46,female,"Nashville, Tennessee",NO
+1,41155,other,34,female,"Oklahoma City, Oklahoma",NO
+7,22902,caucasian,32,male,"Fresno, California",NO
+2,20884,hispanic,38,female,"San Jose, California",NO
+7,65620,asian,54,male,"Fort Worth, Texas",NO
+5,23364,asian,23,female,"Jacksonville, Florida",NO
+9,14958,other,26,male,"San Francisco, California",NO
+5,32064,asian,12,male,"Jacksonville, Florida",NO
+6,32424,african american,15,female,"Tucson, Arizona",NO
+8,50396,other,4,female,"Las Vegas, Nevada",NO
+8,42965,other,2,female,"San Antonio, Texas",NO
+9,14028,african american,33,male,"San Jose, California",NO
+7,23518,hispanic,2,male,"Denver, Colorado",NO
+2,76286,other,21,female,"Tulsa, Oklahoma",NO
+9,35616,hispanic,22,male,"Denver, Colorado",NO
+10,62195,asian,25,female,"Arlington, Texas",NO
+3,19699,caucasian,14,female,"Washington, D.C.",NO
+7,29541,hispanic,14,female,"Louisville, Kentucky",NO
+3,45722,african american,0,male,"Las Vegas, Nevada",NO
+9,13521,african american,31,male,"Houston, Texas",NO
+2,34929,asian,7,female,"Denver, Colorado",NO
+10,15170,other,45,male,"Miami, Florida",NO
+8,74184,caucasian,52,female,"Philadelphia, Pennsylvania",NO
+4,34254,caucasian,40,male,"Memphis, Tennessee",NO
+10,75328,hispanic,58,male,"Arlington, Texas",NO
+9,86122,hispanic,13,male,"Washington, D.C.",NO
+7,85299,african american,28,female,"Kansas City, Missouri",NO
+10,52031,asian,38,male,"Cleveland, Ohio",NO
+6,69965,asian,38,female,"Houston, Texas",NO
+1,61337,other,28,female,"Tulsa, Oklahoma",NO
+4,48546,hispanic,6,female,"Jacksonville, Florida",NO
+10,73523,hispanic,58,male,"Fort Worth, Texas",NO
+4,35953,hispanic,5,male,"New York City, New York",NO
+6,80027,other,54,female,"Oklahoma City, Oklahoma",NO
+4,85340,caucasian,51,female,"Cleveland, Ohio",NO
+10,63304,caucasian,8,male,"Fort Worth, Texas",NO
+5,93969,caucasian,25,female,"Chicago, Illinois",NO
+3,19086,other,48,female,"Miami, Florida",NO
+9,23306,african american,25,female,"Oklahoma City, Oklahoma",NO
+4,67758,african american,13,female,"Charlotte, North Carolina",NO
+3,86867,asian,13,male,"Louisville, Kentucky",NO
+10,31072,caucasian,57,male,"Phoenix, Arizona",NO
+7,25067,asian,17,female,"Las Vegas, Nevada",NO
+6,9511,other,47,female,"Arlington, Texas",NO
+6,64875,other,17,female,"Sacramento, California",NO
+3,62043,hispanic,50,male,"Austin, Texas",NO
+8,37571,hispanic,17,female,"Fresno, California",NO
+5,18389,asian,29,female,"Fort Worth, Texas",NO
+7,80636,asian,30,male,"Portland, Oregon",NO
+4,62133,other,3,female,"Louisville, Kentucky",NO
+7,14400,other,41,male,"Baltimore, Maryland",NO
+5,25444,hispanic,1,male,"Miami, Florida",NO
+5,71508,asian,47,male,"Indianapolis, Indiana",NO
+5,48246,caucasian,16,female,"Washington, D.C.",NO
+7,70989,asian,55,female,"Albuquerque, New Mexico",NO
+6,16700,other,30,female,"Milwaukee, Wisconsin",NO
+9,68091,caucasian,29,female,"Columbus, Ohio",NO
+7,73789,hispanic,59,female,"Detroit, Michigan",NO
+1,67580,caucasian,14,male,"Seattle, Washington",NO
+7,82861,asian,24,male,"Albuquerque, New Mexico",NO
+3,77644,other,40,male,"Houston, Texas",NO
+7,51526,hispanic,17,female,"Albuquerque, New Mexico",NO
+4,43103,other,16,female,"Long Beach, California",NO
+6,34872,hispanic,21,male,"Oakland, California",NO
+7,12246,asian,17,male,"Kansas City, Missouri",NO
+8,85753,hispanic,43,male,"New Orleans, Louisiana",NO
+6,96377,caucasian,29,male,"Denver, Colorado",NO
+5,39500,other,15,female,"Indianapolis, Indiana",NO
+7,29299,other,17,male,"Arlington, Texas",NO
+3,24219,african american,17,female,"Phoenix, Arizona",NO
+1,38592,other,54,female,"Sacramento, California",NO
+4,14855,hispanic,52,male,"Atlanta, Georgia",NO
+10,39610,asian,9,male,"Fort Worth, Texas",NO
+2,38092,asian,25,female,"Tulsa, Oklahoma",NO
+2,96718,caucasian,5,male,"Charlotte, North Carolina",NO
+10,33455,caucasian,5,male,"Colorado Springs, Colorado",NO
+8,67580,african american,52,female,"Cleveland, Ohio",NO
+8,17520,african american,52,male,"Sacramento, California",NO
+7,92339,other,0,male,"Virginia Beach, Virginia",NO
+2,21553,hispanic,56,female,"Los Angeles, California",NO
+1,73700,asian,28,male,"Tucson, Arizona",NO
+5,98407,asian,46,female,"Tulsa, Oklahoma",NO
+4,59345,african american,45,female,"Los Angeles, California",NO
+7,32960,african american,49,female,"Chicago, Illinois",NO
+9,27735,other,46,female,"Dallas, Texas",NO
+1,67842,caucasian,17,female,"Baltimore, Maryland",NO
+1,48405,asian,41,male,"Long Beach, California",NO
+6,55702,caucasian,42,female,"Sacramento, California",NO
+1,16334,african american,48,female,"Fort Worth, Texas",NO
+7,41504,african american,31,male,"Sacramento, California",NO
+8,95219,other,45,female,"Tucson, Arizona",NO
+7,28034,other,15,male,"Denver, Colorado",NO
+3,89745,other,4,female,"Denver, Colorado",NO
+1,32261,other,50,male,"Detroit, Michigan",NO
+7,20546,african american,38,female,"Houston, Texas",NO
+8,73361,asian,32,female,"San Jose, California",NO
+2,61069,other,22,male,"San Diego, California",NO
+6,74497,caucasian,52,male,"Wichita, Kansas",NO
+9,96221,caucasian,58,male,"San Diego, California",NO
+1,56127,other,4,male,"Arlington, Texas",NO
+6,80450,asian,20,female,"Omaha, Nebraska",NO
+1,64699,other,41,female,"Mesa, Arizona",NO
+9,66157,african american,60,male,"Miami, Florida",NO
+3,13126,hispanic,20,male,"Minneapolis, Minnesota",NO
+3,89817,hispanic,54,male,"Denver, Colorado",NO
+2,96923,african american,20,male,"Houston, Texas",NO
+8,92156,asian,41,female,"Raleigh, North Carolina",NO
+8,26492,caucasian,0,female,"Fresno, California",NO
+3,31771,other,15,female,"Arlington, Texas",NO
+6,52437,hispanic,16,female,"Tulsa, Oklahoma",NO
+9,28981,caucasian,43,female,"Sacramento, California",NO
+9,15663,asian,57,male,"Mesa, Arizona",NO
+3,31119,african american,12,female,"Jacksonville, Florida",NO
+4,15934,african american,32,male,"Jacksonville, Florida",NO
+4,47391,caucasian,20,female,"Philadelphia, Pennsylvania",NO
+5,46028,hispanic,1,male,"Portland, Oregon",NO
+10,62236,other,55,female,"Chicago, Illinois",NO
+8,29284,hispanic,12,female,"El Paso, Texas",NO
+3,62846,african american,26,male,"San Francisco, California",NO
+4,47086,african american,59,male,"Seattle, Washington",NO
+6,62292,african american,2,male,"Jacksonville, Florida",NO
+10,32703,other,20,female,"Mesa, Arizona",NO
+5,40169,asian,3,male,"San Francisco, California",NO
+8,39189,asian,34,male,"Raleigh, North Carolina",NO
+5,24397,hispanic,12,male,"Long Beach, California",NO
+6,72655,african american,56,male,"Seattle, Washington",NO
+7,44489,caucasian,33,male,"Virginia Beach, Virginia",NO
+2,64451,other,36,female,"Colorado Springs, Colorado",NO
+5,85552,caucasian,54,male,"Seattle, Washington",NO
+10,73457,hispanic,29,female,"Wichita, Kansas",NO
+7,53984,african american,0,female,"Jacksonville, Florida",NO
+1,74312,asian,13,female,"Seattle, Washington",NO
+8,17605,other,42,female,"Tulsa, Oklahoma",NO
+2,48011,caucasian,5,male,"Arlington, Texas",NO
+6,22262,african american,21,female,"Kansas City, Missouri",NO
+8,71715,hispanic,18,female,"Tulsa, Oklahoma",NO
+1,35440,hispanic,54,female,"Philadelphia, Pennsylvania",NO
+2,23196,caucasian,48,female,"Detroit, Michigan",NO
+1,37317,asian,43,female,"Los Angeles, California",NO
+7,89634,other,51,female,"Tampa, Florida",NO
+7,99947,african american,6,female,"Atlanta, Georgia",NO
+4,63515,other,10,female,"Cleveland, Ohio",NO
+6,18411,african american,48,female,"Miami, Florida",NO
+10,27546,hispanic,11,male,"Boston, Massachusetts",NO
+8,92656,asian,46,female,"Raleigh, North Carolina",NO
+10,64334,african american,28,male,"Tampa, Florida",NO
+10,83271,caucasian,30,male,"Charlotte, North Carolina",NO
+4,31782,hispanic,8,female,"Tampa, Florida",NO
+5,22305,caucasian,16,male,"Seattle, Washington",NO
+8,16098,african american,27,female,"Washington, D.C.",NO
+3,78172,hispanic,49,male,"Boston, Massachusetts",NO
+9,32910,other,11,male,"Tucson, Arizona",NO
+5,17922,african american,4,female,"Atlanta, Georgia",NO
+1,35205,african american,36,male,"El Paso, Texas",NO
+9,43807,caucasian,13,male,"Columbus, Ohio",NO
+5,58254,hispanic,1,female,"Mesa, Arizona",NO
+8,41950,african american,40,male,"Wichita, Kansas",NO
+8,14897,african american,3,female,"Nashville, Tennessee",NO
+3,50202,asian,46,female,"Mesa, Arizona",NO
+10,32995,caucasian,31,female,"Long Beach, California",NO
+8,19423,other,45,male,"New York City, New York",NO
+4,72218,other,16,female,"Austin, Texas",NO
+8,98998,asian,9,male,"Los Angeles, California",NO
+3,67705,caucasian,28,female,"Atlanta, Georgia",NO
+1,97368,hispanic,21,male,"Los Angeles, California",NO
+7,51390,other,44,male,"Colorado Springs, Colorado",NO
+2,96493,caucasian,6,female,"Phoenix, Arizona",NO
+9,90217,other,32,male,"Washington, D.C.",NO
+3,35845,hispanic,49,male,"Detroit, Michigan",NO
+7,93664,asian,54,male,"Houston, Texas",NO
+6,88620,hispanic,0,female,"Long Beach, California",NO
+10,70081,asian,19,male,"Kansas City, Missouri",NO
+10,31804,other,39,male,"Raleigh, North Carolina",NO
+9,29759,caucasian,27,male,"Boston, Massachusetts",NO
+3,33078,asian,10,female,"Houston, Texas",NO
+7,83437,caucasian,49,male,"Oakland, California",NO
+8,26762,hispanic,56,female,"Philadelphia, Pennsylvania",NO
+1,92078,african american,10,female,"Tampa, Florida",NO
+2,83735,hispanic,58,male,"Long Beach, California",NO
+9,97267,hispanic,42,female,"Oklahoma City, Oklahoma",NO
+10,39303,asian,38,female,"Colorado Springs, Colorado",NO
+6,9801,asian,51,female,"Tampa, Florida",NO
+4,87055,other,59,male,"Kansas City, Missouri",NO
+3,25111,other,59,male,"Houston, Texas",NO
+5,45752,hispanic,28,female,"Oakland, California",NO
+3,53762,caucasian,2,female,"Cleveland, Ohio",NO
+8,38186,african american,2,male,"San Jose, California",NO
+1,79213,other,33,female,"Fort Worth, Texas",NO
+2,89775,other,23,female,"Tampa, Florida",NO
+2,54851,asian,53,male,"Tulsa, Oklahoma",NO
+8,71021,asian,27,female,"Denver, Colorado",NO
+6,69646,asian,60,female,"Portland, Oregon",NO
+9,15810,caucasian,8,female,"Mesa, Arizona",NO
+8,36927,asian,25,male,"Raleigh, North Carolina",NO
+7,92356,hispanic,15,male,"Detroit, Michigan",NO
+10,14929,african american,14,female,"Minneapolis, Minnesota",NO
+3,90994,other,14,female,"Los Angeles, California",NO
+9,74771,caucasian,6,male,"Detroit, Michigan",NO
+6,49954,other,56,female,"Sacramento, California",NO
+3,79910,asian,41,male,"Omaha, Nebraska",NO
+2,74232,other,9,female,"Tampa, Florida",NO
+4,60713,caucasian,0,female,"San Jose, California",NO
+10,58750,caucasian,32,male,"Tucson, Arizona",NO
+8,10733,hispanic,46,female,"San Francisco, California",NO
+3,77612,hispanic,21,male,"Arlington, Texas",NO
+7,87141,hispanic,10,male,"Miami, Florida",NO
+5,50012,other,58,female,"Atlanta, Georgia",NO
+6,24959,other,10,male,"Portland, Oregon",NO
+2,85652,other,31,female,"Sacramento, California",NO
+8,64350,hispanic,26,male,"Long Beach, California",NO
+6,99973,hispanic,34,female,"Miami, Florida",NO
+3,15047,asian,34,male,"New Orleans, Louisiana",NO
+1,88802,other,44,male,"Jacksonville, Florida",NO
+2,52824,african american,52,male,"Fort Worth, Texas",NO
+5,78944,caucasian,8,male,"Fort Worth, Texas",NO
+7,34143,african american,19,female,"Phoenix, Arizona",NO
+10,87560,hispanic,58,female,"San Antonio, Texas",NO
+8,81650,asian,48,female,"Tucson, Arizona",NO
+7,33994,caucasian,37,male,"Nashville, Tennessee",NO
+7,67222,african american,3,male,"Arlington, Texas",NO
+8,98227,asian,58,female,"New York City, New York",NO
+6,66720,african american,45,female,"Mesa, Arizona",NO
+10,56296,caucasian,13,female,"Miami, Florida",NO
+7,93094,asian,14,female,"Jacksonville, Florida",NO
+4,34061,caucasian,55,male,"Detroit, Michigan",NO
+9,48058,hispanic,58,male,"Austin, Texas",NO
+6,16226,asian,39,female,"Arlington, Texas",NO
+2,61411,asian,30,male,"Oakland, California",NO
+8,50482,hispanic,60,male,"Kansas City, Missouri",NO
+5,26268,caucasian,0,male,"Chicago, Illinois",NO
+5,69366,other,55,male,"New York City, New York",NO
+1,94382,african american,31,female,"Philadelphia, Pennsylvania",NO
+9,81014,hispanic,21,female,"Columbus, Ohio",NO
+6,14520,hispanic,50,male,"Jacksonville, Florida",NO
+3,74617,hispanic,40,female,"San Antonio, Texas",NO
+6,55752,caucasian,32,male,"Miami, Florida",NO
+2,62644,asian,18,male,"Detroit, Michigan",NO
+3,69215,hispanic,9,female,"Los Angeles, California",NO
+5,91218,african american,19,female,"Phoenix, Arizona",NO
+7,24168,other,41,male,"Los Angeles, California",NO
+7,54584,other,16,female,"El Paso, Texas",NO
+5,10198,other,55,male,"Nashville, Tennessee",NO
+6,52531,hispanic,12,male,"San Francisco, California",NO
+9,41857,african american,12,female,"Indianapolis, Indiana",NO
+1,12293,african american,58,male,"Colorado Springs, Colorado",NO
+2,93018,hispanic,34,male,"Fresno, California",NO
+8,92948,other,55,female,"Portland, Oregon",NO
+6,46566,african american,21,female,"Detroit, Michigan",NO
+2,98786,other,18,female,"Milwaukee, Wisconsin",NO
+1,80851,african american,6,female,"Detroit, Michigan",NO
+9,96475,hispanic,41,female,"Kansas City, Missouri",NO
+7,24397,african american,21,female,"Louisville, Kentucky",NO
+1,65676,caucasian,35,male,"Tucson, Arizona",NO
+4,66931,african american,33,female,"Detroit, Michigan",NO
+2,62941,hispanic,8,female,"Louisville, Kentucky",NO
+2,76418,other,54,female,"Albuquerque, New Mexico",NO
+6,79190,hispanic,5,male,"Milwaukee, Wisconsin",NO
+4,87177,other,5,male,"Kansas City, Missouri",NO
+2,57070,hispanic,19,female,"Dallas, Texas",NO
+7,10078,african american,56,male,"Fresno, California",NO
+7,28866,hispanic,7,male,"Oakland, California",NO
+6,32600,hispanic,33,female,"San Antonio, Texas",NO
+1,58571,hispanic,56,male,"Virginia Beach, Virginia",NO
+1,38166,hispanic,40,female,"Omaha, Nebraska",NO
+9,92420,hispanic,10,female,"Phoenix, Arizona",NO
+3,70273,other,50,female,"Minneapolis, Minnesota",NO
+5,27728,hispanic,13,female,"Austin, Texas",NO
+10,17433,other,33,male,"Oakland, California",NO
+3,70927,african american,20,female,"Jacksonville, Florida",NO
+6,78138,other,53,female,"Wichita, Kansas",NO
+8,57365,asian,33,female,"Minneapolis, Minnesota",NO
+2,64193,asian,27,female,"Oklahoma City, Oklahoma",NO
+7,90869,asian,51,male,"El Paso, Texas",NO
+6,26470,hispanic,37,female,"San Jose, California",NO
+8,50717,hispanic,31,female,"Las Vegas, Nevada",NO
+4,40188,hispanic,48,male,"Oakland, California",NO
+5,66900,caucasian,22,male,"Mesa, Arizona",NO
+1,11313,hispanic,20,female,"Oklahoma City, Oklahoma",NO
+10,52805,other,2,male,"Tulsa, Oklahoma",NO
+8,71891,african american,40,male,"Nashville, Tennessee",NO
+6,91072,caucasian,49,male,"Milwaukee, Wisconsin",NO
+2,28864,other,16,male,"New York City, New York",NO
+9,43295,african american,45,female,"Las Vegas, Nevada",NO
+7,59555,hispanic,20,female,"Jacksonville, Florida",NO
+8,81157,hispanic,45,male,"Louisville, Kentucky",NO
+6,40279,caucasian,21,female,"Raleigh, North Carolina",NO
+10,10507,asian,46,female,"Arlington, Texas",NO
+8,61722,african american,37,female,"Albuquerque, New Mexico",NO
+10,21573,asian,22,female,"Sacramento, California",NO
+9,63952,hispanic,58,female,"Boston, Massachusetts",NO
+5,12032,hispanic,0,female,"Long Beach, California",NO
+5,78926,other,14,female,"Arlington, Texas",NO
+4,99685,hispanic,23,male,"Philadelphia, Pennsylvania",NO
+4,98814,african american,7,female,"Long Beach, California",NO
+10,12648,hispanic,39,male,"Atlanta, Georgia",NO
+10,29312,asian,46,male,"Phoenix, Arizona",NO
+7,17606,asian,29,male,"Miami, Florida",NO
+1,94539,caucasian,53,female,"Indianapolis, Indiana",NO
+4,33883,asian,23,male,"Mesa, Arizona",NO
+1,89760,asian,11,female,"Tulsa, Oklahoma",NO
+4,65404,african american,24,male,"Philadelphia, Pennsylvania",NO
+2,99501,other,40,female,"Albuquerque, New Mexico",NO
+3,48077,african american,21,male,"Portland, Oregon",NO
+5,25315,hispanic,36,male,"New Orleans, Louisiana",NO
+9,68271,hispanic,31,female,"Detroit, Michigan",NO
+9,18109,other,15,female,"Tampa, Florida",NO
+8,87738,african american,50,female,"Fresno, California",NO
+7,28617,asian,21,male,"Colorado Springs, Colorado",NO
+6,11068,african american,39,male,"Los Angeles, California",NO
+7,92969,african american,32,female,"Phoenix, Arizona",NO
+9,11112,other,47,female,"Tucson, Arizona",NO
+3,31584,caucasian,5,female,"Columbus, Ohio",NO
+6,93682,african american,17,female,"Mesa, Arizona",NO
+2,93843,other,11,female,"Chicago, Illinois",NO
+4,14615,african american,59,male,"Los Angeles, California",NO
+10,29211,caucasian,14,female,"Cleveland, Ohio",NO
+2,15140,asian,1,male,"Arlington, Texas",NO
+5,38267,african american,40,male,"Austin, Texas",NO
+7,71386,asian,58,male,"Charlotte, North Carolina",NO
+2,12497,asian,27,female,"Los Angeles, California",NO
+9,42802,asian,20,male,"Columbus, Ohio",NO
+10,95864,african american,40,female,"Memphis, Tennessee",NO
+1,79752,other,14,female,"Houston, Texas",NO
+6,73176,african american,17,male,"San Diego, California",NO
+3,53214,caucasian,10,male,"Charlotte, North Carolina",NO
+9,86201,caucasian,23,female,"Columbus, Ohio",NO
+5,67336,hispanic,10,male,"El Paso, Texas",NO
+2,44256,other,38,female,"Detroit, Michigan",NO
+9,40863,asian,9,male,"Fort Worth, Texas",NO
+8,13499,hispanic,35,male,"Tampa, Florida",NO
+2,63295,hispanic,49,female,"Baltimore, Maryland",NO
+5,86725,hispanic,32,male,"Memphis, Tennessee",NO
+7,65152,asian,53,female,"Mesa, Arizona",NO
+7,16031,hispanic,49,male,"Dallas, Texas",NO
+10,51131,hispanic,22,female,"Long Beach, California",NO
+3,19298,other,40,male,"Memphis, Tennessee",NO
+8,95926,other,37,female,"Fresno, California",NO
+4,88975,caucasian,24,male,"Oklahoma City, Oklahoma",NO
+8,25430,asian,49,male,"Portland, Oregon",NO
+10,44291,asian,24,male,"Milwaukee, Wisconsin",NO
+9,77107,other,49,male,"Cleveland, Ohio",NO
+2,34838,african american,44,female,"Jacksonville, Florida",NO
+10,83870,caucasian,42,male,"Raleigh, North Carolina",NO
+6,93422,other,22,female,"Colorado Springs, Colorado",NO
+3,66266,other,46,female,"Indianapolis, Indiana",NO
+4,75866,caucasian,50,female,"San Jose, California",NO
+10,14656,african american,3,male,"New Orleans, Louisiana",NO
+6,90333,other,7,male,"Houston, Texas",NO
+1,9417,african american,20,female,"Tucson, Arizona",NO
+3,90978,hispanic,49,male,"San Diego, California",NO
+3,92106,hispanic,16,male,"Miami, Florida",NO
+3,13960,other,41,female,"Phoenix, Arizona",NO
+6,89625,african american,44,male,"Portland, Oregon",NO
+8,19333,other,1,male,"New Orleans, Louisiana",NO
+9,56203,asian,41,male,"Fresno, California",NO
+5,72217,african american,37,female,"Tucson, Arizona",NO
+6,19723,african american,30,female,"New Orleans, Louisiana",NO
+2,85986,african american,6,female,"San Diego, California",NO
+3,83736,other,1,female,"Los Angeles, California",NO
+10,36829,african american,54,female,"Tucson, Arizona",NO
+4,65018,asian,47,male,"Austin, Texas",NO
+10,37450,african american,5,female,"Portland, Oregon",NO
+8,97482,asian,4,male,"San Antonio, Texas",NO
+5,27478,hispanic,43,male,"Los Angeles, California",NO
+10,95705,hispanic,16,male,"Sacramento, California",NO
+1,48943,african american,24,female,"Tampa, Florida",NO
+6,83245,other,50,male,"San Francisco, California",NO
+8,99539,asian,29,male,"Washington, D.C.",NO
+7,28026,asian,43,female,"San Diego, California",NO
+5,27451,hispanic,52,male,"Fort Worth, Texas",NO
+1,53795,asian,51,female,"Cleveland, Ohio",NO
+7,58759,caucasian,2,male,"Tampa, Florida",NO
+1,67461,asian,22,male,"San Antonio, Texas",NO
+6,68132,african american,48,female,"Las Vegas, Nevada",NO
+8,44378,other,7,male,"Sacramento, California",NO
+8,93985,caucasian,51,male,"Miami, Florida",NO
+4,50502,caucasian,34,female,"Fresno, California",NO
+10,88138,other,25,female,"Seattle, Washington",NO
+1,43839,asian,58,male,"Charlotte, North Carolina",NO
+8,31793,asian,26,female,"Wichita, Kansas",NO
+5,51745,asian,37,female,"Seattle, Washington",NO
+3,54591,hispanic,1,male,"Nashville, Tennessee",NO
+3,99185,african american,13,male,"Wichita, Kansas",NO
+2,37967,asian,6,male,"Los Angeles, California",NO
+8,68918,other,18,female,"New Orleans, Louisiana",NO
+5,88277,hispanic,46,male,"Colorado Springs, Colorado",NO
+8,32744,other,60,female,"Dallas, Texas",NO
+9,47223,asian,25,female,"Las Vegas, Nevada",NO
+2,61770,african american,15,female,"San Diego, California",NO
+8,26348,asian,12,male,"New Orleans, Louisiana",NO
+2,54319,hispanic,33,male,"San Diego, California",NO
+1,14339,asian,24,female,"Seattle, Washington",NO
+6,74639,other,29,female,"Colorado Springs, Colorado",NO
+3,37432,caucasian,4,female,"Baltimore, Maryland",NO
+5,70161,other,46,female,"Seattle, Washington",NO
+5,34551,african american,42,female,"Detroit, Michigan",NO
+1,95293,asian,40,male,"Indianapolis, Indiana",NO
+2,88946,caucasian,32,female,"Virginia Beach, Virginia",NO
+5,63061,asian,19,male,"Louisville, Kentucky",NO
+6,76577,hispanic,6,female,"Minneapolis, Minnesota",NO
+7,56192,other,48,male,"Wichita, Kansas",NO
+3,46642,other,26,male,"Tampa, Florida",NO
+8,55626,hispanic,11,female,"Phoenix, Arizona",NO
+4,20918,african american,45,male,"San Antonio, Texas",NO
+8,95143,asian,1,male,"New York City, New York",NO
+8,98553,asian,10,male,"Long Beach, California",NO
+3,82998,other,11,male,"Nashville, Tennessee",NO
+3,31855,hispanic,8,male,"Colorado Springs, Colorado",NO
+2,40217,hispanic,0,female,"San Jose, California",NO
+7,63573,caucasian,31,male,"Miami, Florida",NO
+6,16942,african american,0,female,"Dallas, Texas",NO
+7,39162,other,5,female,"Las Vegas, Nevada",NO
+5,51527,caucasian,56,female,"Austin, Texas",NO
+5,35196,caucasian,57,female,"San Antonio, Texas",NO
+6,32323,hispanic,43,female,"Chicago, Illinois",NO
+9,71366,african american,44,female,"San Diego, California",NO
+9,75324,other,31,female,"Nashville, Tennessee",NO
+3,49992,african american,21,female,"New York City, New York",NO
+10,89242,other,35,female,"Denver, Colorado",NO
+10,16058,caucasian,34,male,"Detroit, Michigan",NO
+4,70018,hispanic,55,male,"Kansas City, Missouri",NO
+9,91684,other,11,female,"Indianapolis, Indiana",NO
+10,16192,caucasian,28,female,"Indianapolis, Indiana",NO
+4,28599,african american,53,female,"Austin, Texas",NO
+1,52336,african american,57,female,"Jacksonville, Florida",NO
+5,43875,asian,57,female,"Washington, D.C.",NO
+9,56815,other,6,male,"Colorado Springs, Colorado",NO
+10,65019,caucasian,29,female,"Miami, Florida",NO
+7,54920,caucasian,48,female,"Portland, Oregon",NO
+1,95862,caucasian,35,female,"Arlington, Texas",NO
+9,18382,hispanic,11,male,"Raleigh, North Carolina",NO
+4,66759,african american,48,female,"Los Angeles, California",NO
+3,25461,asian,60,male,"Memphis, Tennessee",NO
+5,32544,other,0,female,"New Orleans, Louisiana",NO
+7,42005,hispanic,57,female,"Minneapolis, Minnesota",NO
+9,63189,other,44,male,"Raleigh, North Carolina",NO
+6,14760,other,3,female,"San Diego, California",NO
+2,14024,african american,60,female,"Denver, Colorado",NO
+6,44158,other,38,female,"Philadelphia, Pennsylvania",NO
+6,65090,african american,15,female,"Milwaukee, Wisconsin",NO
+6,33467,asian,49,female,"Philadelphia, Pennsylvania",NO
+5,69692,other,60,female,"Fresno, California",NO
+3,63119,african american,39,female,"Fort Worth, Texas",NO
+3,28807,asian,41,male,"Detroit, Michigan",NO
+5,58694,african american,9,male,"Raleigh, North Carolina",NO
+10,17498,hispanic,5,male,"Kansas City, Missouri",NO
+2,89067,caucasian,18,male,"Tulsa, Oklahoma",NO
+3,65679,hispanic,32,male,"Portland, Oregon",NO
+8,84745,caucasian,21,female,"New York City, New York",NO
+6,97093,asian,25,female,"Detroit, Michigan",NO
+3,68875,caucasian,59,female,"Albuquerque, New Mexico",NO
+2,22954,african american,13,female,"Fort Worth, Texas",NO
+2,90579,caucasian,17,male,"Dallas, Texas",NO
+1,65423,hispanic,22,male,"Albuquerque, New Mexico",NO
+1,81438,african american,51,male,"Charlotte, North Carolina",NO
+7,22202,other,27,female,"Fresno, California",NO
+1,75603,caucasian,28,male,"Tucson, Arizona",NO
+8,39919,hispanic,1,female,"El Paso, Texas",NO
+6,75926,african american,26,female,"Houston, Texas",NO
+5,43364,other,1,female,"Los Angeles, California",NO
+8,43407,asian,52,female,"Tulsa, Oklahoma",NO
+6,29947,hispanic,5,male,"Boston, Massachusetts",NO
+2,38378,caucasian,4,female,"Louisville, Kentucky",NO
+2,23032,asian,26,female,"Memphis, Tennessee",NO
+4,55116,hispanic,54,female,"Columbus, Ohio",NO
+5,47408,hispanic,48,male,"San Antonio, Texas",NO
+1,83845,other,0,male,"Washington, D.C.",NO
+3,84060,hispanic,44,male,"Nashville, Tennessee",NO
+10,9282,other,42,male,"Long Beach, California",NO
+5,48804,african american,5,female,"Washington, D.C.",NO
+6,91184,other,20,male,"Las Vegas, Nevada",NO
+5,66078,other,44,male,"Louisville, Kentucky",NO
+2,74816,caucasian,2,male,"Virginia Beach, Virginia",NO
+5,34011,hispanic,41,female,"San Diego, California",NO
+8,88151,caucasian,48,female,"Fort Worth, Texas",NO
+1,71888,other,44,female,"Chicago, Illinois",NO
+7,10264,asian,8,male,"Detroit, Michigan",NO
+1,39581,african american,0,female,"New Orleans, Louisiana",NO
+6,15457,african american,53,female,"Mesa, Arizona",NO
+8,70185,caucasian,3,female,"Jacksonville, Florida",NO
+1,47180,caucasian,49,male,"Phoenix, Arizona",NO
+9,70508,asian,29,female,"Sacramento, California",NO
+5,69664,african american,30,male,"Albuquerque, New Mexico",NO
+5,57171,other,44,male,"Memphis, Tennessee",NO
+6,32380,asian,42,female,"Sacramento, California",NO
+7,29776,caucasian,49,male,"Tampa, Florida",NO
+6,77430,caucasian,10,male,"Chicago, Illinois",NO
+1,29252,other,60,female,"Wichita, Kansas",NO
+8,93935,other,50,female,"Tucson, Arizona",NO
+10,11081,african american,23,female,"Phoenix, Arizona",NO
+2,80638,african american,14,female,"Virginia Beach, Virginia",NO
+7,24332,other,53,female,"Denver, Colorado",NO
+1,32102,other,44,female,"Memphis, Tennessee",NO
+10,73336,african american,1,female,"Denver, Colorado",NO
+3,58390,hispanic,1,female,"Indianapolis, Indiana",NO
+7,19803,other,56,male,"Fresno, California",NO
+9,83662,other,6,female,"Mesa, Arizona",NO
+10,52511,caucasian,43,female,"Long Beach, California",NO
+2,70955,hispanic,25,female,"Seattle, Washington",NO
+8,52366,other,47,female,"San Francisco, California",NO
+8,15034,caucasian,32,female,"Denver, Colorado",NO
+10,73275,other,55,female,"Houston, Texas",NO
+9,23698,asian,60,female,"Omaha, Nebraska",NO
+5,99764,african american,21,male,"El Paso, Texas",NO
+2,17264,african american,13,male,"New Orleans, Louisiana",NO
+4,79404,caucasian,40,female,"San Francisco, California",NO
+8,58326,asian,16,male,"Denver, Colorado",NO
+9,52900,caucasian,27,male,"Mesa, Arizona",NO
+5,38015,african american,50,female,"Virginia Beach, Virginia",NO
+8,45334,other,56,female,"Seattle, Washington",NO
+1,52649,african american,14,female,"Virginia Beach, Virginia",NO
+2,94065,hispanic,55,female,"Wichita, Kansas",NO
+6,20995,other,60,female,"Arlington, Texas",NO
+2,88573,african american,9,male,"Long Beach, California",NO
+1,34496,caucasian,7,female,"San Antonio, Texas",NO
+3,83912,other,39,male,"Seattle, Washington",NO
+4,77405,african american,16,male,"Jacksonville, Florida",NO
+2,99981,caucasian,51,male,"Milwaukee, Wisconsin",NO
+2,17262,hispanic,43,female,"Chicago, Illinois",NO
+6,80303,other,39,male,"Albuquerque, New Mexico",NO
+7,32785,hispanic,4,female,"Mesa, Arizona",NO
+10,54049,asian,47,male,"San Francisco, California",NO
+9,62403,hispanic,19,female,"Seattle, Washington",NO
+9,35289,caucasian,4,male,"Nashville, Tennessee",NO
+2,13146,other,5,male,"Seattle, Washington",NO
+10,99947,african american,17,female,"Jacksonville, Florida",NO
+9,58863,african american,30,male,"Milwaukee, Wisconsin",NO
+6,39419,hispanic,23,female,"Baltimore, Maryland",NO
+5,56046,caucasian,5,female,"Phoenix, Arizona",NO
+3,21016,caucasian,35,male,"Las Vegas, Nevada",NO
+4,99177,asian,21,male,"Colorado Springs, Colorado",NO
+9,77044,hispanic,25,male,"Arlington, Texas",NO
+8,86403,caucasian,28,male,"Las Vegas, Nevada",NO
+9,53648,african american,35,female,"Oakland, California",NO
+10,9835,other,38,female,"Philadelphia, Pennsylvania",NO
+7,21410,other,32,male,"Raleigh, North Carolina",NO
+8,74853,hispanic,20,male,"Miami, Florida",NO
+10,64722,african american,49,female,"Arlington, Texas",NO
+7,87506,hispanic,5,male,"Oakland, California",NO
+9,78895,asian,10,male,"Wichita, Kansas",NO
+3,28427,african american,36,female,"San Francisco, California",NO
+1,32307,other,17,female,"El Paso, Texas",NO
+9,98894,african american,55,male,"Miami, Florida",NO
+6,64530,caucasian,0,female,"Baltimore, Maryland",NO
+3,38026,caucasian,1,female,"Jacksonville, Florida",NO
+10,95031,african american,4,female,"Phoenix, Arizona",NO
+10,51145,african american,60,female,"Oklahoma City, Oklahoma",NO
+6,15506,asian,26,female,"Louisville, Kentucky",NO
+9,63984,other,0,male,"Nashville, Tennessee",NO
+7,96953,caucasian,5,male,"Omaha, Nebraska",NO
+2,66098,african american,58,female,"Fort Worth, Texas",NO
+7,63125,other,13,female,"San Antonio, Texas",NO
+3,99039,other,32,female,"Charlotte, North Carolina",NO
+6,37573,hispanic,20,female,"Oklahoma City, Oklahoma",NO
+3,31856,hispanic,56,female,"Los Angeles, California",NO
+2,95234,caucasian,3,male,"New Orleans, Louisiana",NO
+9,77708,caucasian,38,female,"Tulsa, Oklahoma",NO
+1,71129,other,42,female,"El Paso, Texas",NO
+6,93431,african american,34,male,"Columbus, Ohio",NO
+6,78011,other,49,male,"Wichita, Kansas",NO
+10,88515,african american,4,male,"Phoenix, Arizona",NO
+9,15237,african american,19,male,"Denver, Colorado",NO
+7,84729,other,10,female,"San Diego, California",NO
+9,67083,asian,37,male,"Columbus, Ohio",NO
+7,51490,other,32,male,"Albuquerque, New Mexico",NO
+10,59334,asian,40,male,"Nashville, Tennessee",NO
+10,11035,other,46,female,"Kansas City, Missouri",NO
+9,41911,african american,16,male,"Nashville, Tennessee",NO
+7,26965,other,29,male,"Fresno, California",NO
+3,22150,hispanic,4,female,"Seattle, Washington",NO
+9,94412,african american,40,female,"Baltimore, Maryland",NO
+10,62152,other,15,female,"Los Angeles, California",NO
+2,47314,asian,48,female,"Charlotte, North Carolina",NO
+6,37238,hispanic,25,male,"San Diego, California",NO
+5,19007,hispanic,37,female,"Kansas City, Missouri",NO
+9,35685,african american,48,female,"Las Vegas, Nevada",NO
+5,84609,caucasian,44,female,"Oakland, California",NO
+1,70531,asian,35,female,"Louisville, Kentucky",NO
+4,18555,caucasian,12,male,"Albuquerque, New Mexico",NO
+5,36723,hispanic,7,female,"Austin, Texas",NO
+10,61607,other,8,male,"El Paso, Texas",NO
+3,99287,asian,36,female,"San Jose, California",NO
+6,65756,hispanic,37,female,"Dallas, Texas",NO
+9,83052,hispanic,10,female,"Minneapolis, Minnesota",NO
+3,50353,african american,19,male,"Las Vegas, Nevada",NO
+10,23955,other,4,female,"Indianapolis, Indiana",NO
+4,92396,hispanic,54,male,"Memphis, Tennessee",NO
+6,62147,other,60,female,"Austin, Texas",NO
+2,61664,other,60,female,"Atlanta, Georgia",NO
+6,64888,hispanic,5,male,"Las Vegas, Nevada",NO
+4,11506,hispanic,45,male,"New York City, New York",NO
+1,18501,caucasian,55,female,"Austin, Texas",NO
+5,49029,other,54,male,"Philadelphia, Pennsylvania",NO
+7,85171,asian,21,female,"Washington, D.C.",NO
+4,58037,african american,41,male,"Houston, Texas",NO
+9,19862,caucasian,34,male,"Memphis, Tennessee",NO
+1,51852,african american,20,female,"Portland, Oregon",NO
+1,63074,hispanic,7,female,"Cleveland, Ohio",NO
+6,12449,hispanic,57,male,"Houston, Texas",NO
+5,16753,asian,55,female,"Miami, Florida",NO
+4,92776,african american,5,female,"Houston, Texas",NO
+1,52107,hispanic,60,female,"Baltimore, Maryland",NO
+5,96664,caucasian,54,male,"Omaha, Nebraska",NO
+2,76502,african american,40,female,"Austin, Texas",NO
+10,10829,hispanic,53,male,"San Jose, California",NO
+8,18116,asian,5,male,"Cleveland, Ohio",NO
+2,18272,hispanic,45,male,"Denver, Colorado",NO
+10,45346,hispanic,6,male,"Sacramento, California",NO
+2,43161,african american,29,male,"Kansas City, Missouri",NO
+5,12052,caucasian,17,male,"Philadelphia, Pennsylvania",NO
+7,78635,other,58,female,"Albuquerque, New Mexico",NO
+9,52162,caucasian,46,male,"Seattle, Washington",NO
+1,96087,african american,49,female,"Atlanta, Georgia",NO
+2,25204,african american,0,female,"Chicago, Illinois",NO
+6,26053,other,56,male,"Tulsa, Oklahoma",NO
+9,65156,african american,53,female,"Louisville, Kentucky",NO
+6,67678,other,37,male,"Austin, Texas",NO
+3,16995,african american,23,female,"Virginia Beach, Virginia",NO
+5,18496,african american,38,female,"Las Vegas, Nevada",NO
+7,60489,other,58,female,"Chicago, Illinois",NO
+1,39404,asian,21,female,"Wichita, Kansas",NO
+9,37265,caucasian,49,male,"Sacramento, California",NO
+8,30353,caucasian,48,female,"Boston, Massachusetts",NO
+2,56257,hispanic,52,female,"Baltimore, Maryland",NO
+2,20631,hispanic,44,male,"Charlotte, North Carolina",NO
+10,75656,caucasian,56,male,"Arlington, Texas",NO
+7,28008,other,53,male,"Cleveland, Ohio",NO
+4,26510,caucasian,42,male,"Louisville, Kentucky",NO
+1,83010,caucasian,10,female,"Austin, Texas",NO
+8,56155,african american,32,female,"Dallas, Texas",NO
+9,52074,other,0,male,"Mesa, Arizona",NO
+10,73748,other,18,female,"Jacksonville, Florida",NO
+9,97905,hispanic,9,female,"Las Vegas, Nevada",NO
+6,79494,asian,50,male,"Miami, Florida",NO
+6,9579,hispanic,54,female,"New York City, New York",NO
+4,71233,african american,51,male,"Long Beach, California",NO
+8,22485,asian,54,male,"San Antonio, Texas",NO
+10,94694,caucasian,43,female,"Arlington, Texas",NO
+8,36334,other,11,female,"Philadelphia, Pennsylvania",NO
+7,43393,asian,20,male,"San Diego, California",NO
+6,42363,caucasian,9,female,"Oakland, California",NO
+10,29597,caucasian,25,male,"Portland, Oregon",NO
+8,55371,african american,26,male,"Dallas, Texas",NO
+2,48023,hispanic,14,male,"Columbus, Ohio",NO
+2,13360,asian,35,male,"Tampa, Florida",NO
+3,55572,asian,22,female,"Raleigh, North Carolina",NO
+10,26441,african american,11,male,"Tampa, Florida",NO
+10,39867,african american,15,female,"Washington, D.C.",NO
+7,17070,other,51,female,"Fresno, California",NO
+4,72853,african american,32,female,"Tucson, Arizona",NO
+8,74496,hispanic,11,male,"San Francisco, California",NO
+8,42959,other,14,male,"El Paso, Texas",NO
+4,88939,other,30,male,"Los Angeles, California",NO
+6,16984,caucasian,48,female,"Arlington, Texas",NO
+4,44492,asian,51,male,"Philadelphia, Pennsylvania",NO
+1,18057,asian,17,female,"Los Angeles, California",NO
+3,82747,asian,13,female,"Virginia Beach, Virginia",NO
+10,63683,hispanic,57,male,"Charlotte, North Carolina",NO
+2,89555,caucasian,5,male,"Nashville, Tennessee",NO
+7,49767,caucasian,45,female,"Portland, Oregon",NO
+8,48702,caucasian,8,male,"Detroit, Michigan",NO
+2,48739,asian,56,female,"Tucson, Arizona",NO
+1,91646,asian,8,female,"Raleigh, North Carolina",NO
+8,73622,hispanic,55,male,"New York City, New York",NO
+9,54768,hispanic,49,female,"Phoenix, Arizona",NO
+4,26536,asian,51,female,"Albuquerque, New Mexico",NO
+8,95578,hispanic,22,female,"Louisville, Kentucky",NO
+7,43056,hispanic,2,female,"Portland, Oregon",NO
+8,28805,african american,9,male,"Phoenix, Arizona",NO
+1,67245,hispanic,9,female,"San Antonio, Texas",NO
+8,26206,hispanic,53,female,"Memphis, Tennessee",NO
+2,98540,other,28,female,"Fort Worth, Texas",NO
+1,54266,asian,53,female,"Sacramento, California",NO
+3,23140,hispanic,49,male,"Cleveland, Ohio",NO
+3,61481,african american,59,female,"Long Beach, California",NO
+2,53160,hispanic,4,male,"Mesa, Arizona",NO
+9,15637,caucasian,19,male,"Oakland, California",NO
+10,49146,caucasian,60,female,"San Jose, California",NO
+6,16104,asian,0,male,"Indianapolis, Indiana",NO
+7,99721,caucasian,15,male,"Virginia Beach, Virginia",NO
+9,63581,caucasian,8,female,"Long Beach, California",NO
+10,58796,asian,46,male,"Oklahoma City, Oklahoma",NO
+9,62784,caucasian,1,male,"San Antonio, Texas",NO
+9,52604,other,10,male,"Las Vegas, Nevada",NO
+4,17836,caucasian,32,female,"San Jose, California",NO
+1,98182,african american,21,female,"Tulsa, Oklahoma",NO
+5,88683,hispanic,45,male,"Omaha, Nebraska",NO
+7,47696,african american,53,male,"Fresno, California",NO
+7,92813,other,4,male,"El Paso, Texas",NO
+6,89186,asian,45,female,"Cleveland, Ohio",NO
+4,37954,caucasian,13,female,"Tulsa, Oklahoma",NO
+3,58944,other,22,female,"San Diego, California",NO
+7,83618,caucasian,28,female,"Chicago, Illinois",NO
+6,55341,asian,16,female,"Phoenix, Arizona",NO
+3,55629,caucasian,5,male,"Denver, Colorado",NO
+4,34096,caucasian,58,female,"Memphis, Tennessee",NO
+9,81006,hispanic,43,male,"Washington, D.C.",NO
+8,73559,asian,3,female,"Albuquerque, New Mexico",NO
+10,13668,hispanic,39,female,"El Paso, Texas",NO
+3,64399,hispanic,27,female,"Denver, Colorado",NO
+7,74691,african american,29,male,"Omaha, Nebraska",NO
+10,68517,other,18,female,"Los Angeles, California",NO
+9,86811,hispanic,16,female,"Mesa, Arizona",NO
+8,19225,african american,39,female,"Las Vegas, Nevada",NO
+4,55340,other,50,male,"New Orleans, Louisiana",NO
+10,93704,caucasian,31,male,"Baltimore, Maryland",NO
+6,70251,caucasian,4,male,"San Jose, California",NO
+5,57521,asian,17,female,"Arlington, Texas",NO
+9,71646,african american,5,female,"Washington, D.C.",NO
+3,15258,hispanic,27,female,"Wichita, Kansas",NO
+5,77892,other,26,male,"Albuquerque, New Mexico",NO
+3,48652,asian,19,male,"Fresno, California",NO
+5,26315,asian,40,male,"New York City, New York",NO
+4,82865,hispanic,42,male,"Houston, Texas",NO
+4,94044,caucasian,49,female,"San Antonio, Texas",NO
+5,64147,asian,53,female,"Nashville, Tennessee",NO
+7,77821,hispanic,58,female,"San Antonio, Texas",NO
+1,86472,other,45,female,"Phoenix, Arizona",NO
+9,94713,other,24,female,"Denver, Colorado",NO
+3,96358,other,8,male,"Mesa, Arizona",NO
+8,35551,asian,0,male,"Nashville, Tennessee",NO
+2,94898,caucasian,44,female,"New York City, New York",NO
+9,68980,asian,2,male,"Cleveland, Ohio",NO
+1,64617,asian,17,female,"New Orleans, Louisiana",NO
+1,49614,caucasian,29,female,"Phoenix, Arizona",NO
+4,76073,asian,10,female,"Tucson, Arizona",NO
+4,10333,asian,34,female,"Phoenix, Arizona",NO
+10,58622,african american,5,female,"Milwaukee, Wisconsin",NO
+3,79035,caucasian,35,male,"Minneapolis, Minnesota",NO
+3,22933,asian,20,male,"Fresno, California",NO
+9,69546,hispanic,50,male,"Colorado Springs, Colorado",NO
+5,40230,asian,16,female,"Baltimore, Maryland",NO
+3,47956,caucasian,23,female,"Colorado Springs, Colorado",NO
+1,77027,hispanic,10,female,"Colorado Springs, Colorado",NO
+4,53343,caucasian,51,male,"Los Angeles, California",NO
+10,84622,african american,53,female,"Tampa, Florida",NO
+10,65110,african american,6,female,"Atlanta, Georgia",NO
+3,77137,african american,27,female,"Boston, Massachusetts",NO
+8,38204,other,50,female,"Houston, Texas",NO
+1,95838,caucasian,22,male,"Chicago, Illinois",NO
+2,9717,african american,57,male,"Portland, Oregon",NO
+6,64839,other,33,female,"San Antonio, Texas",NO
+5,10826,caucasian,52,male,"Arlington, Texas",NO
+5,88782,caucasian,13,female,"New Orleans, Louisiana",NO
+7,29551,caucasian,21,male,"Washington, D.C.",NO
+9,77200,asian,5,female,"Columbus, Ohio",NO
+8,42630,asian,5,female,"San Francisco, California",NO
+9,22561,caucasian,56,female,"Boston, Massachusetts",NO
+1,18064,hispanic,31,female,"Tucson, Arizona",NO
+4,69721,caucasian,47,female,"Jacksonville, Florida",NO
+6,88184,asian,15,male,"Fort Worth, Texas",NO
+4,76544,other,13,male,"San Antonio, Texas",NO
+2,24371,other,26,female,"Dallas, Texas",NO
+1,73868,caucasian,15,male,"Charlotte, North Carolina",NO
+4,85458,african american,49,male,"Long Beach, California",NO
+9,23109,caucasian,0,female,"Denver, Colorado",NO
+4,99152,caucasian,56,male,"Tulsa, Oklahoma",NO
+5,52518,caucasian,11,female,"Fresno, California",NO
+7,99322,other,44,female,"Philadelphia, Pennsylvania",NO
+8,45933,caucasian,32,female,"Portland, Oregon",NO
+4,9480,asian,10,male,"Tampa, Florida",NO
+2,74977,other,2,male,"Nashville, Tennessee",NO
+1,29057,caucasian,34,female,"Kansas City, Missouri",NO
+6,79772,african american,39,female,"Jacksonville, Florida",NO
+7,46287,hispanic,57,male,"Nashville, Tennessee",NO
+9,9311,caucasian,32,female,"Kansas City, Missouri",NO
+9,18356,hispanic,23,male,"Phoenix, Arizona",NO
+8,41374,african american,41,male,"Tucson, Arizona",NO
+8,45192,asian,19,female,"Arlington, Texas",NO
+9,44716,other,29,female,"Chicago, Illinois",NO
+10,38047,african american,13,male,"Louisville, Kentucky",NO
+7,75036,hispanic,37,female,"Washington, D.C.",NO
+9,17980,other,7,male,"Arlington, Texas",NO
+10,32371,asian,47,male,"Nashville, Tennessee",NO
+10,65922,asian,18,male,"Colorado Springs, Colorado",NO
+8,36940,african american,16,female,"Oakland, California",NO
+4,28765,asian,29,female,"San Diego, California",NO
+9,65027,asian,33,male,"Chicago, Illinois",NO
+2,69109,asian,37,female,"Columbus, Ohio",NO
+6,82607,asian,0,female,"Boston, Massachusetts",NO
+6,15161,african american,32,female,"Tampa, Florida",NO
+9,36417,hispanic,7,male,"Detroit, Michigan",NO
+10,67024,asian,13,female,"Phoenix, Arizona",NO
+5,46821,asian,20,male,"Jacksonville, Florida",NO
+6,56384,african american,14,male,"Columbus, Ohio",NO
+8,25421,african american,16,female,"Fort Worth, Texas",NO
+2,85793,hispanic,57,female,"Washington, D.C.",NO
+9,17227,caucasian,20,male,"Boston, Massachusetts",NO
+2,48547,asian,26,female,"Fresno, California",NO
+10,73952,african american,9,male,"Charlotte, North Carolina",NO
+8,14026,african american,1,female,"Tucson, Arizona",NO
+2,63068,hispanic,11,male,"Virginia Beach, Virginia",NO
+4,35928,african american,23,male,"Phoenix, Arizona",NO
+6,18286,asian,6,male,"Detroit, Michigan",NO
+3,29645,caucasian,16,male,"Wichita, Kansas",NO
+10,72151,hispanic,53,male,"Portland, Oregon",NO
+7,49871,caucasian,45,male,"Albuquerque, New Mexico",NO
+8,94337,african american,20,male,"Chicago, Illinois",NO
+3,41345,hispanic,15,female,"Mesa, Arizona",NO
+6,64954,african american,36,male,"Denver, Colorado",NO
+1,23703,other,15,female,"Houston, Texas",NO
+2,84720,asian,3,male,"Nashville, Tennessee",NO
+1,11137,african american,48,male,"Nashville, Tennessee",NO
+3,99365,other,0,male,"Tulsa, Oklahoma",NO
+7,29956,asian,53,female,"Arlington, Texas",NO
+3,47493,african american,53,male,"Oakland, California",NO
+4,72255,african american,7,male,"Louisville, Kentucky",NO
+1,43661,other,59,female,"Los Angeles, California",NO
+3,43702,caucasian,11,female,"Milwaukee, Wisconsin",NO
+5,91588,caucasian,4,female,"Nashville, Tennessee",NO
+3,34872,hispanic,43,male,"Atlanta, Georgia",NO
+8,64699,other,58,female,"Omaha, Nebraska",NO
+4,31328,caucasian,39,female,"Indianapolis, Indiana",NO
+8,14969,asian,4,female,"Atlanta, Georgia",NO
+1,38305,african american,26,male,"Minneapolis, Minnesota",NO
+4,43322,caucasian,47,female,"New York City, New York",NO
+7,89366,african american,31,male,"Los Angeles, California",NO
+10,32248,caucasian,24,male,"Raleigh, North Carolina",NO
+2,49062,asian,36,male,"Milwaukee, Wisconsin",NO
+1,33437,asian,25,female,"Phoenix, Arizona",NO
+6,42041,african american,25,male,"Virginia Beach, Virginia",NO
+1,94962,asian,48,female,"Miami, Florida",NO
+9,36860,other,37,female,"New Orleans, Louisiana",NO
+5,48401,african american,13,male,"Fresno, California",NO
+1,68358,caucasian,11,male,"Portland, Oregon",NO
+4,36279,caucasian,26,female,"Tulsa, Oklahoma",NO
+3,73036,african american,50,male,"Mesa, Arizona",NO
+1,85664,asian,50,male,"Oklahoma City, Oklahoma",NO
+10,51063,hispanic,43,male,"Atlanta, Georgia",NO
+2,70372,asian,53,male,"San Diego, California",NO
+7,59156,asian,60,male,"Portland, Oregon",NO
+5,36495,caucasian,12,female,"Atlanta, Georgia",NO
+9,25635,african american,20,male,"New Orleans, Louisiana",NO
+6,95270,hispanic,3,female,"Kansas City, Missouri",NO
+7,86329,other,24,male,"San Diego, California",NO
+5,80725,african american,43,female,"Philadelphia, Pennsylvania",NO
+1,94167,caucasian,35,male,"Austin, Texas",NO
+2,82302,african american,8,female,"Chicago, Illinois",NO
+2,39479,caucasian,11,female,"Long Beach, California",NO
+7,86474,asian,49,male,"Mesa, Arizona",NO
+2,85395,african american,4,female,"Virginia Beach, Virginia",NO
+3,36186,african american,11,male,"Columbus, Ohio",NO
+3,36062,african american,11,male,"Dallas, Texas",NO
+9,78334,caucasian,8,female,"Jacksonville, Florida",NO
+5,92518,asian,58,male,"Fort Worth, Texas",NO
+3,96806,african american,20,female,"Raleigh, North Carolina",NO
+7,72056,african american,30,female,"Long Beach, California",NO
+3,95970,hispanic,21,female,"Oklahoma City, Oklahoma",NO
+10,61968,other,14,female,"Philadelphia, Pennsylvania",NO
+10,9421,asian,53,female,"Wichita, Kansas",NO
+2,11368,african american,43,female,"Philadelphia, Pennsylvania",NO
+8,70162,african american,5,female,"Jacksonville, Florida",NO
+8,56359,caucasian,3,female,"Washington, D.C.",NO
+4,34650,other,5,female,"Colorado Springs, Colorado",NO
+1,13553,asian,46,male,"Fresno, California",NO
+5,65762,hispanic,13,male,"Seattle, Washington",NO
+7,30413,other,33,female,"Chicago, Illinois",NO
+1,24179,asian,2,female,"Atlanta, Georgia",NO
+9,73075,african american,32,male,"Columbus, Ohio",NO
+5,24119,other,1,female,"Oklahoma City, Oklahoma",NO
+3,81129,african american,21,female,"Las Vegas, Nevada",NO
+5,17982,asian,30,female,"Columbus, Ohio",NO
+9,27627,other,13,female,"Portland, Oregon",NO
+4,92097,other,54,female,"Milwaukee, Wisconsin",NO
+9,20992,caucasian,56,female,"Detroit, Michigan",NO
+9,10802,hispanic,40,female,"Houston, Texas",NO
+9,24053,african american,60,male,"Omaha, Nebraska",NO
+8,82723,caucasian,48,female,"San Francisco, California",NO
+4,81025,caucasian,21,female,"San Jose, California",NO
+3,21095,other,24,male,"Las Vegas, Nevada",NO
+3,14643,other,3,female,"Milwaukee, Wisconsin",NO
+8,99940,hispanic,26,male,"Boston, Massachusetts",NO
+5,85621,asian,59,female,"Oakland, California",NO
+3,17216,african american,49,male,"Kansas City, Missouri",NO
+7,85851,african american,54,male,"New York City, New York",NO
+3,97387,african american,30,male,"Indianapolis, Indiana",NO
+5,50816,other,36,male,"Charlotte, North Carolina",NO
+6,40261,other,0,female,"Denver, Colorado",NO
+10,99279,caucasian,2,male,"Los Angeles, California",NO
+1,26685,hispanic,57,male,"Fresno, California",NO
+6,28121,caucasian,21,male,"Houston, Texas",NO
+4,9464,caucasian,42,female,"Albuquerque, New Mexico",NO
+6,27012,african american,46,male,"Nashville, Tennessee",NO
+6,67669,african american,15,female,"Fresno, California",NO
+8,36824,caucasian,50,female,"Kansas City, Missouri",NO
+3,19267,african american,17,female,"Virginia Beach, Virginia",NO
+7,94623,african american,41,female,"Jacksonville, Florida",NO
+2,27151,hispanic,47,male,"Arlington, Texas",NO
+7,27839,african american,54,male,"Nashville, Tennessee",NO
+8,64819,asian,1,female,"Detroit, Michigan",NO
+2,27943,asian,5,female,"Virginia Beach, Virginia",NO
+1,31766,african american,54,male,"Louisville, Kentucky",NO
+7,77728,african american,23,female,"Cleveland, Ohio",NO
+4,37877,other,59,male,"Mesa, Arizona",NO
+1,72995,african american,2,female,"Virginia Beach, Virginia",NO
+10,55989,other,30,female,"Raleigh, North Carolina",NO
+4,39127,african american,23,female,"Jacksonville, Florida",NO
+6,67232,asian,24,male,"Tulsa, Oklahoma",NO
+7,14953,asian,3,female,"Charlotte, North Carolina",NO
+3,27812,african american,1,male,"Las Vegas, Nevada",NO
+5,83514,hispanic,4,male,"Tulsa, Oklahoma",NO
+4,38333,other,54,female,"Atlanta, Georgia",NO
+8,40085,asian,45,male,"Milwaukee, Wisconsin",NO
+7,46260,other,53,female,"Tucson, Arizona",NO
+9,72757,caucasian,14,male,"Miami, Florida",NO
+6,19896,other,34,female,"Chicago, Illinois",NO
+7,17936,caucasian,8,male,"Washington, D.C.",NO
+1,61623,hispanic,49,female,"Fort Worth, Texas",NO
+1,17865,other,5,female,"Houston, Texas",NO
+10,60684,hispanic,55,female,"Colorado Springs, Colorado",NO
+7,66710,other,55,female,"Sacramento, California",NO
+9,99285,other,48,female,"Indianapolis, Indiana",NO
+8,32612,african american,9,female,"Chicago, Illinois",NO
+7,26475,african american,55,female,"Dallas, Texas",NO
+2,72060,african american,40,male,"Mesa, Arizona",NO
+4,83694,african american,42,female,"San Antonio, Texas",NO
+5,9380,asian,35,male,"San Jose, California",NO
+5,59817,hispanic,35,male,"Dallas, Texas",NO
+8,35506,hispanic,50,female,"Arlington, Texas",NO
+10,13594,african american,5,male,"Phoenix, Arizona",NO
+8,81362,hispanic,40,female,"Colorado Springs, Colorado",NO
+8,31418,other,56,female,"Sacramento, California",NO
+7,96056,african american,33,male,"Jacksonville, Florida",NO
+1,74572,other,25,male,"Tampa, Florida",NO
+1,12977,caucasian,33,male,"Atlanta, Georgia",NO
+10,29471,hispanic,49,male,"Boston, Massachusetts",NO
+10,76812,asian,24,female,"El Paso, Texas",NO
+2,85066,caucasian,8,male,"Indianapolis, Indiana",NO
+6,42476,caucasian,6,female,"Tulsa, Oklahoma",NO
+1,72209,other,15,female,"Dallas, Texas",NO
+7,97008,asian,49,male,"Jacksonville, Florida",NO
+5,82970,asian,18,male,"Raleigh, North Carolina",NO
+1,9016,other,33,female,"Houston, Texas",NO
+1,42192,other,59,male,"Portland, Oregon",NO
+1,11787,other,36,male,"Austin, Texas",NO
+10,27459,asian,45,male,"Sacramento, California",NO
+4,42818,other,54,male,"Boston, Massachusetts",NO
+9,74792,other,49,female,"El Paso, Texas",NO
+8,49521,asian,57,male,"Tampa, Florida",NO
+1,80841,african american,60,male,"San Diego, California",NO
+7,29424,other,12,male,"Memphis, Tennessee",NO
+8,62276,asian,14,female,"Dallas, Texas",NO
+6,99937,asian,23,male,"Washington, D.C.",NO
+9,98877,other,42,female,"Arlington, Texas",NO
+4,77250,asian,32,male,"Fresno, California",NO
+8,21862,african american,0,male,"Omaha, Nebraska",NO
+10,57164,other,44,male,"Oakland, California",NO
+8,85220,hispanic,24,male,"Dallas, Texas",NO
+6,78622,hispanic,27,female,"Chicago, Illinois",NO
+4,76211,hispanic,57,male,"Washington, D.C.",NO
+7,40483,african american,47,female,"Tampa, Florida",NO
+8,40503,hispanic,9,male,"San Francisco, California",NO
+6,97014,other,1,male,"Las Vegas, Nevada",NO
+7,51482,african american,2,male,"Philadelphia, Pennsylvania",NO
+9,72523,asian,32,male,"Jacksonville, Florida",NO
+7,61529,other,26,female,"Oakland, California",NO
+5,91847,other,18,female,"Boston, Massachusetts",NO
+8,34550,asian,49,male,"Wichita, Kansas",NO
+8,57848,other,53,female,"Wichita, Kansas",NO
+7,34798,asian,12,male,"San Antonio, Texas",NO
+2,35921,caucasian,19,male,"Milwaukee, Wisconsin",NO
+4,51695,hispanic,17,male,"Colorado Springs, Colorado",NO
+2,87026,asian,34,female,"Colorado Springs, Colorado",NO
+1,61109,asian,32,male,"Virginia Beach, Virginia",NO
+8,10713,caucasian,18,female,"Wichita, Kansas",NO
+9,10850,asian,41,female,"San Jose, California",NO
+5,91221,african american,37,male,"Boston, Massachusetts",NO
+7,46000,other,20,male,"Arlington, Texas",NO
+6,76314,caucasian,1,male,"Minneapolis, Minnesota",NO
+10,58377,other,57,female,"Omaha, Nebraska",NO
+3,24035,asian,38,male,"Philadelphia, Pennsylvania",NO
+9,25892,african american,2,male,"Sacramento, California",NO
+9,84508,other,18,female,"Philadelphia, Pennsylvania",NO
+7,27111,other,19,male,"Boston, Massachusetts",NO
+9,86165,hispanic,41,female,"Cleveland, Ohio",NO
+7,59136,african american,27,male,"Mesa, Arizona",NO
+9,39020,caucasian,18,male,"Omaha, Nebraska",NO
+2,40902,asian,6,male,"Washington, D.C.",NO
+2,70597,other,45,male,"Memphis, Tennessee",NO
+6,82751,african american,47,female,"Cleveland, Ohio",NO
+8,53151,asian,15,male,"Chicago, Illinois",NO
+5,88976,african american,15,male,"San Antonio, Texas",NO
+1,28269,caucasian,9,male,"Tulsa, Oklahoma",NO
+1,48342,other,19,male,"Jacksonville, Florida",NO
+9,95311,african american,24,male,"Nashville, Tennessee",NO
+4,47931,asian,50,female,"Mesa, Arizona",NO
+4,39510,caucasian,45,female,"Jacksonville, Florida",NO
+8,20563,african american,43,female,"Albuquerque, New Mexico",NO
+10,16486,other,51,female,"Portland, Oregon",NO
+1,16598,caucasian,19,female,"New York City, New York",NO
+9,59170,other,60,male,"San Francisco, California",NO
+4,94233,other,23,female,"Tucson, Arizona",NO
+5,21169,african american,21,female,"Phoenix, Arizona",NO
+6,34130,caucasian,14,male,"Tulsa, Oklahoma",NO
+6,95667,caucasian,52,female,"Tampa, Florida",NO
+9,33090,hispanic,2,male,"Columbus, Ohio",NO
+3,71105,hispanic,17,male,"Arlington, Texas",NO
+3,50752,hispanic,45,female,"Baltimore, Maryland",NO
+1,57383,caucasian,48,male,"Charlotte, North Carolina",NO
+8,85068,african american,43,female,"Austin, Texas",NO
+3,34283,hispanic,18,female,"Colorado Springs, Colorado",NO
+2,56040,african american,24,female,"San Francisco, California",NO
+10,82325,asian,12,female,"New Orleans, Louisiana",NO
+6,34476,african american,25,female,"Baltimore, Maryland",NO
+8,52715,asian,48,female,"Indianapolis, Indiana",NO
+3,13866,asian,34,female,"Charlotte, North Carolina",NO
+5,42619,hispanic,10,male,"Nashville, Tennessee",NO
+1,53301,caucasian,45,male,"Detroit, Michigan",NO
+6,19088,asian,27,male,"Charlotte, North Carolina",NO
+4,14070,hispanic,27,female,"San Francisco, California",NO
+6,57410,other,5,female,"Columbus, Ohio",NO
+4,83909,hispanic,8,male,"Arlington, Texas",NO
+1,69151,hispanic,57,female,"Nashville, Tennessee",NO
+1,21521,african american,12,female,"Austin, Texas",NO
+7,88906,hispanic,60,male,"Colorado Springs, Colorado",NO
+9,95463,other,57,male,"Columbus, Ohio",NO
+10,30493,asian,20,male,"El Paso, Texas",NO
+2,32017,other,52,female,"Jacksonville, Florida",NO
+9,17824,african american,52,female,"Philadelphia, Pennsylvania",NO
+9,46154,african american,42,female,"Charlotte, North Carolina",NO
+8,16994,african american,36,female,"Raleigh, North Carolina",NO
+4,38480,hispanic,16,male,"Oakland, California",NO
+10,10783,caucasian,59,female,"Albuquerque, New Mexico",NO
+10,98857,asian,54,female,"Jacksonville, Florida",NO
+4,65651,african american,35,male,"Milwaukee, Wisconsin",NO
+9,11200,asian,60,male,"New Orleans, Louisiana",NO
+3,96139,caucasian,51,female,"San Francisco, California",NO
+1,50068,african american,15,female,"Miami, Florida",NO
+3,44917,hispanic,16,female,"El Paso, Texas",NO
+10,12206,asian,55,female,"Tulsa, Oklahoma",NO
+3,13046,caucasian,52,male,"Detroit, Michigan",NO
+6,56464,hispanic,44,female,"Las Vegas, Nevada",NO
+4,10727,african american,31,male,"Virginia Beach, Virginia",NO
+4,69140,other,1,female,"Tulsa, Oklahoma",NO
+2,64739,african american,5,male,"Oklahoma City, Oklahoma",NO
+1,93825,asian,45,male,"Sacramento, California",NO
+3,10209,hispanic,16,male,"Memphis, Tennessee",NO
+10,41397,african american,60,female,"Tulsa, Oklahoma",NO
+8,25032,asian,7,female,"Portland, Oregon",NO
+2,13979,caucasian,36,female,"Boston, Massachusetts",NO
+8,86576,african american,11,male,"Long Beach, California",NO
+4,42140,other,52,male,"Portland, Oregon",NO
+2,33688,asian,3,male,"Columbus, Ohio",NO
+1,56117,other,35,male,"New York City, New York",NO
+1,80157,asian,59,male,"Los Angeles, California",NO
+1,47421,other,42,male,"Atlanta, Georgia",NO
+9,42861,african american,31,female,"El Paso, Texas",NO
+7,98219,african american,24,female,"Boston, Massachusetts",NO
+4,25513,hispanic,29,male,"Denver, Colorado",NO
+4,57062,african american,48,male,"Washington, D.C.",NO
+8,93967,african american,45,female,"Denver, Colorado",NO
+8,41797,other,19,female,"New York City, New York",NO
+2,98683,other,2,male,"Dallas, Texas",NO
+10,88197,other,59,female,"Fresno, California",NO
+9,60508,asian,57,male,"San Antonio, Texas",NO
+6,66084,african american,56,female,"Minneapolis, Minnesota",NO
+6,87267,african american,56,male,"Nashville, Tennessee",NO
+5,81601,african american,39,female,"Jacksonville, Florida",NO
+6,58094,asian,40,female,"Atlanta, Georgia",NO
+5,25924,asian,6,female,"Chicago, Illinois",NO
+7,65540,caucasian,55,male,"Wichita, Kansas",NO
+7,96101,caucasian,28,female,"Fresno, California",NO
+7,36935,hispanic,48,female,"Boston, Massachusetts",NO
+3,66912,asian,4,female,"Fresno, California",NO
+9,96384,asian,2,male,"Arlington, Texas",NO
+2,92785,other,4,female,"Nashville, Tennessee",NO
+9,89478,african american,1,female,"Wichita, Kansas",NO
+3,73107,caucasian,18,male,"Jacksonville, Florida",NO
+10,49198,caucasian,27,male,"Tampa, Florida",NO
+6,81171,caucasian,33,female,"Fort Worth, Texas",NO
+3,64916,hispanic,45,female,"Boston, Massachusetts",NO
+7,46589,other,54,male,"Memphis, Tennessee",NO
+3,90425,hispanic,11,female,"Omaha, Nebraska",NO
+5,81904,other,43,male,"Nashville, Tennessee",NO
+5,42340,hispanic,0,male,"Raleigh, North Carolina",NO
+10,85032,hispanic,24,male,"Tulsa, Oklahoma",NO
+2,20606,asian,51,female,"Baltimore, Maryland",NO
+6,64458,caucasian,60,female,"Dallas, Texas",NO
+2,85492,asian,52,female,"Louisville, Kentucky",NO
+7,24037,hispanic,33,female,"Indianapolis, Indiana",NO
+1,99037,hispanic,55,female,"El Paso, Texas",NO
+1,10139,hispanic,60,female,"Oakland, California",NO
+4,17537,other,32,male,"Indianapolis, Indiana",NO
+6,57037,hispanic,28,female,"Cleveland, Ohio",NO
+2,33535,african american,36,female,"Oakland, California",NO
+4,76315,caucasian,4,male,"Memphis, Tennessee",NO
+5,22450,hispanic,43,female,"Tucson, Arizona",NO
+5,77560,african american,15,female,"Fresno, California",NO
+9,86172,african american,1,female,"Arlington, Texas",NO
+2,40910,african american,47,male,"San Francisco, California",NO
+1,30501,hispanic,7,male,"Kansas City, Missouri",NO
+10,61321,other,16,female,"Milwaukee, Wisconsin",NO
+4,13136,caucasian,38,male,"Dallas, Texas",NO
+7,24201,other,14,male,"Charlotte, North Carolina",NO
+7,42054,african american,40,male,"Los Angeles, California",NO
+3,81946,asian,52,male,"Seattle, Washington",NO
+1,72543,caucasian,19,male,"Atlanta, Georgia",NO
+8,77409,african american,51,male,"Albuquerque, New Mexico",NO
+4,28822,hispanic,37,female,"Tampa, Florida",NO
+8,90787,african american,54,female,"Memphis, Tennessee",NO
+5,63562,hispanic,9,female,"Austin, Texas",NO
+9,30087,african american,15,female,"Phoenix, Arizona",NO
+1,45116,other,56,male,"Indianapolis, Indiana",NO
+3,40194,other,9,male,"Raleigh, North Carolina",NO
+8,13789,hispanic,44,female,"Wichita, Kansas",NO
+4,54348,african american,13,male,"Chicago, Illinois",NO
+2,10795,african american,26,male,"Houston, Texas",NO
+4,65949,asian,32,female,"New Orleans, Louisiana",NO
+3,23921,other,33,male,"Boston, Massachusetts",NO
+8,27057,other,2,female,"Louisville, Kentucky",NO
+9,85061,other,13,male,"Fort Worth, Texas",NO
+6,61198,caucasian,58,male,"Tucson, Arizona",NO
+5,99057,asian,43,male,"Louisville, Kentucky",NO
+6,22645,caucasian,55,male,"El Paso, Texas",NO
+5,46937,other,18,female,"Charlotte, North Carolina",NO
+4,83375,hispanic,14,female,"San Jose, California",NO
+1,91285,asian,5,female,"Tulsa, Oklahoma",NO
+2,79431,other,1,female,"Charlotte, North Carolina",NO
+8,75135,asian,7,male,"Denver, Colorado",NO
+4,47621,african american,6,female,"Sacramento, California",NO
+6,89957,asian,22,female,"Raleigh, North Carolina",NO
+5,54985,other,2,female,"San Antonio, Texas",NO
+2,45299,other,0,female,"Portland, Oregon",NO
+6,69875,asian,28,female,"Louisville, Kentucky",NO
+1,18315,african american,36,male,"Philadelphia, Pennsylvania",NO
+5,74402,hispanic,48,male,"New York City, New York",NO
+8,66738,african american,36,female,"Memphis, Tennessee",NO
+7,98095,asian,22,male,"Oklahoma City, Oklahoma",NO
+4,10756,hispanic,60,male,"Kansas City, Missouri",NO
+7,36197,african american,5,male,"Columbus, Ohio",NO
+2,33007,other,28,male,"Fresno, California",NO
+4,15112,hispanic,15,female,"Cleveland, Ohio",NO
+7,58986,asian,33,male,"Boston, Massachusetts",NO
+8,83907,hispanic,8,female,"New Orleans, Louisiana",NO
+10,23423,african american,49,male,"Tampa, Florida",NO
+7,20934,african american,8,male,"Boston, Massachusetts",NO
+2,27785,hispanic,3,female,"Louisville, Kentucky",NO
+3,44546,other,34,male,"Miami, Florida",NO
+3,26870,hispanic,6,male,"Baltimore, Maryland",NO
+2,53974,african american,24,female,"Milwaukee, Wisconsin",NO
+4,56200,african american,16,male,"Virginia Beach, Virginia",NO
+10,60344,caucasian,50,male,"San Diego, California",NO
+3,93378,hispanic,26,male,"Colorado Springs, Colorado",NO
+8,17284,asian,6,male,"Colorado Springs, Colorado",NO
+6,73150,hispanic,8,male,"Colorado Springs, Colorado",NO
+10,36466,african american,59,male,"Fresno, California",NO
+10,14309,caucasian,53,male,"Las Vegas, Nevada",NO
+6,63613,asian,58,male,"Tampa, Florida",NO
+1,53513,asian,49,female,"Miami, Florida",NO
+5,69443,other,29,female,"Kansas City, Missouri",NO
+7,39536,african american,30,male,"Tulsa, Oklahoma",NO
+2,91019,other,20,male,"Wichita, Kansas",NO
+4,43084,other,56,male,"Memphis, Tennessee",NO
+2,37495,caucasian,34,female,"Raleigh, North Carolina",NO
+6,37510,other,53,male,"Louisville, Kentucky",NO
+2,76886,caucasian,26,female,"Tucson, Arizona",NO
+6,75296,hispanic,6,female,"Louisville, Kentucky",NO
+5,9184,hispanic,50,male,"Colorado Springs, Colorado",NO
+6,60751,caucasian,32,male,"Atlanta, Georgia",NO
+4,62856,hispanic,22,male,"Milwaukee, Wisconsin",NO
+3,84203,african american,44,male,"Sacramento, California",NO
+9,66750,other,49,female,"Jacksonville, Florida",NO
+5,99926,asian,44,female,"Tucson, Arizona",NO
+8,51101,african american,28,male,"Fresno, California",NO
+8,20879,hispanic,3,female,"Austin, Texas",NO
+4,31175,caucasian,34,female,"Omaha, Nebraska",NO
+6,54286,hispanic,52,male,"Washington, D.C.",NO
+9,72124,caucasian,24,female,"Fort Worth, Texas",NO
+8,77907,other,52,male,"San Francisco, California",NO
+10,81224,hispanic,16,female,"San Antonio, Texas",NO
+1,67206,hispanic,58,male,"Kansas City, Missouri",NO
+4,28768,african american,41,male,"Wichita, Kansas",NO
+3,22825,asian,13,male,"El Paso, Texas",NO
+3,68638,african american,26,male,"San Francisco, California",NO
+2,48382,caucasian,1,male,"Oklahoma City, Oklahoma",NO
+4,61560,hispanic,53,male,"Albuquerque, New Mexico",NO
+4,35521,asian,21,female,"Seattle, Washington",NO
+4,78635,african american,53,female,"Fort Worth, Texas",NO
+3,94851,asian,42,male,"Miami, Florida",NO
+3,19461,african american,58,female,"Sacramento, California",NO
+7,52627,hispanic,59,male,"Tampa, Florida",NO
+4,91530,african american,4,male,"Oakland, California",NO
+6,76528,caucasian,8,female,"Houston, Texas",NO
+9,18705,african american,3,male,"Arlington, Texas",NO
+6,37779,caucasian,13,female,"Minneapolis, Minnesota",NO
+2,40407,other,24,male,"Columbus, Ohio",NO
+10,35574,hispanic,1,female,"Milwaukee, Wisconsin",NO
+5,83487,other,20,female,"Indianapolis, Indiana",NO
+7,36107,caucasian,59,female,"New York City, New York",NO
+8,47172,other,41,male,"Tulsa, Oklahoma",NO
+2,80345,other,49,male,"Sacramento, California",NO
+4,95232,caucasian,25,male,"Detroit, Michigan",NO
+1,90972,caucasian,43,female,"Charlotte, North Carolina",NO
+3,68959,other,14,male,"Detroit, Michigan",NO
+10,64004,caucasian,4,male,"Baltimore, Maryland",NO
+6,22633,hispanic,24,female,"Oklahoma City, Oklahoma",NO
+6,97335,hispanic,38,female,"Seattle, Washington",NO
+4,32437,other,18,male,"San Jose, California",NO
+8,96683,african american,41,male,"Denver, Colorado",NO
+9,30041,asian,1,male,"Tulsa, Oklahoma",NO
+9,74136,caucasian,37,male,"Seattle, Washington",NO
+9,42373,other,34,female,"Kansas City, Missouri",NO
+8,11754,african american,29,female,"Denver, Colorado",NO
+10,61302,hispanic,17,male,"Sacramento, California",NO
+2,80110,asian,26,male,"Kansas City, Missouri",NO
+8,25685,other,50,female,"Portland, Oregon",NO
+8,76327,hispanic,35,female,"Washington, D.C.",NO
+7,40183,caucasian,19,female,"San Diego, California",NO
+10,71165,asian,46,female,"Jacksonville, Florida",NO
+8,24609,hispanic,17,female,"Milwaukee, Wisconsin",NO
+2,90147,other,23,male,"Milwaukee, Wisconsin",NO
+3,84704,asian,57,male,"Fort Worth, Texas",NO
+9,40471,other,2,male,"Oakland, California",NO
+2,47445,caucasian,27,female,"Indianapolis, Indiana",NO
+8,14530,asian,49,female,"Raleigh, North Carolina",NO
+7,80973,hispanic,16,male,"Arlington, Texas",NO
+5,69624,other,52,male,"Houston, Texas",NO
+2,44822,asian,23,female,"New Orleans, Louisiana",NO
+7,22345,other,44,female,"Wichita, Kansas",NO
+2,95145,hispanic,28,male,"Las Vegas, Nevada",NO
+9,38199,caucasian,45,female,"Jacksonville, Florida",NO
+3,90513,hispanic,28,male,"Miami, Florida",NO
+2,61579,hispanic,58,male,"Tulsa, Oklahoma",NO
+8,66383,asian,53,female,"Columbus, Ohio",NO
+9,37150,hispanic,10,female,"Tucson, Arizona",NO
+2,90630,caucasian,41,female,"San Diego, California",NO
+8,40075,hispanic,33,female,"Memphis, Tennessee",NO
+10,59347,other,60,female,"Memphis, Tennessee",NO
+8,32704,caucasian,46,male,"Minneapolis, Minnesota",NO
+6,22637,hispanic,60,female,"Indianapolis, Indiana",NO
+7,34447,caucasian,10,male,"Charlotte, North Carolina",NO
+6,83796,other,17,female,"San Jose, California",NO
+6,57269,caucasian,21,male,"Seattle, Washington",NO
+4,87668,hispanic,15,female,"Colorado Springs, Colorado",NO
+5,90427,caucasian,54,female,"Mesa, Arizona",NO
+8,48734,hispanic,15,male,"San Jose, California",NO
+10,81180,african american,60,female,"Mesa, Arizona",NO
+3,60409,asian,44,male,"Charlotte, North Carolina",NO
+10,36708,other,37,female,"Tucson, Arizona",NO
+5,12387,asian,52,female,"Los Angeles, California",NO
+5,63326,african american,38,male,"Sacramento, California",NO
+5,51270,caucasian,24,female,"Albuquerque, New Mexico",NO
+7,61580,asian,31,male,"Cleveland, Ohio",NO
+6,66354,other,49,female,"Raleigh, North Carolina",NO
+7,32461,caucasian,19,female,"Oakland, California",NO
+8,20648,caucasian,11,male,"Indianapolis, Indiana",NO
+7,44359,other,17,female,"Fresno, California",NO
+1,32560,asian,36,female,"Miami, Florida",NO
+6,16644,african american,46,male,"Omaha, Nebraska",NO
+1,72145,hispanic,60,female,"Denver, Colorado",NO
+1,32575,hispanic,2,male,"Omaha, Nebraska",NO
+7,41150,african american,57,female,"New York City, New York",NO
+2,69347,hispanic,51,male,"Detroit, Michigan",NO
+4,56837,african american,27,male,"Wichita, Kansas",NO
+6,31309,other,39,female,"New York City, New York",NO
+4,59040,african american,39,male,"Oklahoma City, Oklahoma",NO
+9,76217,hispanic,37,female,"Phoenix, Arizona",NO
+7,17514,african american,43,female,"Tucson, Arizona",NO
+7,26335,asian,46,female,"Oklahoma City, Oklahoma",NO
+5,91391,asian,24,female,"Oakland, California",NO
+1,67451,caucasian,47,female,"Tucson, Arizona",NO
+3,86004,hispanic,34,male,"Memphis, Tennessee",NO
+2,52115,caucasian,41,female,"Detroit, Michigan",NO
+9,21621,asian,49,female,"Minneapolis, Minnesota",NO
+7,17732,asian,50,male,"New Orleans, Louisiana",NO
+3,90902,african american,51,male,"Miami, Florida",NO
+2,39040,african american,36,female,"Houston, Texas",NO
+4,55448,caucasian,12,male,"San Jose, California",NO
+9,98021,african american,51,female,"Miami, Florida",NO
+8,82912,caucasian,20,male,"Las Vegas, Nevada",NO
+5,13015,asian,47,female,"Sacramento, California",NO
+10,81937,hispanic,27,male,"Houston, Texas",NO
+8,84794,hispanic,47,male,"Tampa, Florida",NO
+10,42545,caucasian,52,female,"Virginia Beach, Virginia",NO
+8,22063,caucasian,19,female,"Albuquerque, New Mexico",NO
+4,63605,caucasian,54,male,"Arlington, Texas",NO
+5,95937,other,27,male,"Jacksonville, Florida",NO
+3,18117,hispanic,23,male,"Detroit, Michigan",NO
+10,24623,caucasian,0,female,"Indianapolis, Indiana",NO

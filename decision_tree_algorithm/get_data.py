@@ -3,7 +3,7 @@ import random
 
 import pandas as pd
 
-from decision_tree_algorithm.directories import household_data
+from decision_tree_algorithm.cities import us_cities
 
 
 def generate_data(number_of_entries: int, output_file: str):
@@ -17,7 +17,7 @@ def generate_data(number_of_entries: int, output_file: str):
         )
         age = random.randint(0, 60)
         sex = random.choice(["male", "female"])
-        zipcode = random.randint(10000, 99999)
+        zipcode = random.choice(us_cities)
         demographic_data.append([household_size, income, race, age, sex, zipcode])
 
     # Write data to CSV file
