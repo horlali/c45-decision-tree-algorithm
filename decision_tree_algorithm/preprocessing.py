@@ -58,7 +58,3 @@ def preprocess_data(input_csv, output_csv):
     data.to_csv(output_csv, index=False)
 
     return pd.read_csv(output_csv)
-
-
-if __name__ == "__main__":
-    preprocess_data(household_data, transformed_data)

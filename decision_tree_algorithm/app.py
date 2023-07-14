@@ -5,6 +5,8 @@ from decision_tree_algorithm.get_data import generate_data
 from decision_tree_algorithm.predictions import make_prediction
 from decision_tree_algorithm.preprocessing import preprocess_data
 
+st.set_page_config(page_title="C4.5 Decision Tree Algorithm", layout="wide")
+
 
 def app():
     st.title("C4.5 Decision Tree Algorithm")

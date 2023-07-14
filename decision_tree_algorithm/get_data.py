@@ -27,7 +27,3 @@ def generate_data(number_of_entries: int, output_file: str):
         writer.writerows(demographic_data)
 
     return pd.read_csv(output_file)
-
-
-# if __name__ == "__main__":
-#     generate_data(3000, household_data)
