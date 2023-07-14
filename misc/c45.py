@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 
 class DecisionNode:
@@ -19,7 +18,6 @@ class DecisionNode:
 
 
 def entropy(y):
-    # print(np.unique(y, return_counts=True))
     _, counts = np.unique(y, return_counts=True)
     probabilities = counts / len(y)
     entropy = -np.sum(probabilities * np.log2(probabilities))
@@ -91,5 +89,3 @@ def predict(node, x):
         return predict(node.true_branch, x)
     else:
         return predict(node.false_branch, x)
-
-

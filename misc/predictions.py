@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 
-from dummy.c45 import build_tree, predict
 from decision_tree_algorithm.directories import transformed_data
+from .c45 import build_tree, predict
 
 
 def make_predictions(input_data):

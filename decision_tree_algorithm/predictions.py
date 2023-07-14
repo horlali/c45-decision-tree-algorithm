@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 
 from decision_tree_algorithm.c45_algorithm import C45DecisionTree
@@ -36,5 +37,7 @@ def make_prediction(input_data):
     compare_y_test_and_predicted = pd.DataFrame(
         {"y_test": y_test, "predicted_decision": decision}
     )
+
+    accurancy = np.mean(decision == y_test)
 
     return train_data, X_test
