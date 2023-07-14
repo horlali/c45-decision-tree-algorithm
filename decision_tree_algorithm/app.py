@@ -26,13 +26,16 @@ def app():
 
     if st.button("Make prediction"):
         with st.spinner("Making prediction..."):
-            original_data, results = make_prediction(transformed_data)
+            original_data, results, accuracy = make_prediction(transformed_data)
 
             st.markdown("### Training data")
             st.write(original_data)
 
             st.markdown("### Prediction results")
             st.write(results)
+
+            st.markdown("### Accuracy")
+            st.write(accuracy)
 
 
 if __name__ == "__main__":

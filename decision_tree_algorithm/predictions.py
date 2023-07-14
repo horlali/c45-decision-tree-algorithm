@@ -26,18 +26,8 @@ def make_prediction(input_data):
 
     decision = tree.predict(X_test)
 
-    # print("Before the test Predictions")
-    # print(X_test)
-
     X_test["predicted_decision"] = decision
-
-    # print("After the test Predictions")
-    # print(X_test)
-
-    compare_y_test_and_predicted = pd.DataFrame(
-        {"y_test": y_test, "predicted_decision": decision}
-    )
 
     accurancy = np.mean(decision == y_test)
 
-    return train_data, X_test
+    return train_data, X_test, f"Accurancy: {accurancy}"
