@@ -33,7 +33,7 @@ def app():
     with col3:
         if st.button("Train and Test Prediction"):
             with st.spinner("Making prediction..."):
-                original_data, results, accuracy = make_prediction(transformed_data)
+                original_data, results, accuracy, _ = make_prediction(transformed_data)
 
                 st.markdown("### Training data")
                 st.write(original_data)
@@ -57,8 +57,8 @@ def app():
 
     if st.button("Submit"):
         with st.spinner("Making prediction..."):
-            _, decision, _, tree = make_prediction(transformed_data)
-            tree.predict(
+            _, _, _, tree = make_prediction(transformed_data)
+            decision = tree.predict(
                 pd.DataFrame(
                     {
                         "household_size": [household_size],
@@ -70,8 +70,7 @@ def app():
                     }
                 )
             )
-            st.write(tree)
-            st.success("Submitted")
+            st.success(f"Decision: {decision[0]}")
 
 
 if __name__ == "__main__":

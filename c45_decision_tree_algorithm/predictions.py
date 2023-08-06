@@ -31,4 +31,4 @@ def make_prediction(input_data, test_data=None):
 
     accurancy = np.mean(decision == y_test)
 
-    return train_data, X_test, f"Accurancy: {accurancy}"
+    return train_data, X_test, f"Accurancy: {accurancy}", tree
