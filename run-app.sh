@@ -1,4 +1,4 @@
 #!/bin/sh
 
 
-streamlit run decision_tree_algorithm/app.py
+streamlit run c45_decision_tree_algorithm/app.py

@@ -1,8 +1,6 @@
 import numpy as np
 import pandas as pd
 
-from decision_tree_algorithm.directories import transformed_data
-
 
 class Node:
     def __init__(self, feature=None, value=None, decision=None):

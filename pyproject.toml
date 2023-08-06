@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "decision-tree-algorithm"
+name = "c45_decision_tree_algorithm"
 version = "0.1.0"
 description = "C4.5 Algorithm Implementation"
-authors = ["se7en <gideon.ahiadzi@gmail.com>"]
+authors = ["se7en"]
 readme = "README.md"
-packages = [{include = "decision_tree_algorithm"}]
+packages = [{include = "c45_decision_tree_algorithm"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
