@@ -5,7 +5,7 @@ from c45_decision_tree_algorithm.c45_algorithm import C45DecisionTree
 from c45_decision_tree_algorithm.directories import transformed_data
 
 
-def make_prediction(input_data, test_data=None):
+def make_prediction(input_data):
     # Load the transformed data from the CSV file
     data = pd.read_csv(transformed_data)
 
